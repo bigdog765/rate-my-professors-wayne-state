@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Rate My Professor For Wayne State</h1>
 
-<b1 align="center"> *This chrome browser extension will show you RMP ratings next to the professor's name when signing up for classes.* </h1>
+<p align="center"> *This chrome browser extension will show you RMP ratings next to the professor's name when signing up for classes.* </p1>
 
 <img width="1436" alt="Screen Shot 2021-11-06 at 1 24 49 PM" src="https://user-images.githubusercontent.com/66044327/140618386-647393c4-dd89-4915-ad12-d51be94e4568.png">
 
