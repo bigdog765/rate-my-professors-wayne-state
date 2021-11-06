@@ -26,7 +26,14 @@
 * If the spelling differs, you can submit an issue [here](https://github.com/AdvaitPaliwal/rate-my-professors-wayne-state/issues).
 
 ### Show your support
-<a class="github-button" href="https://github.com/AdvaitPaliwal/rate-my-professors-wayne-state" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star AdvaitPaliwal/rate-my-professors-wayne-state on GitHub">Star</a>
+<!-- Place this tag where you want the button to render. -->
+<html>
+<body>
+  <p><!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/AdvaitPaliwal/rate-my-professors-wayne-state" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star AdvaitPaliwal/rate-my-professors-wayne-state on GitHub">Star</a></p>
+  <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
+</body>
 
+</html>
 Have fun :)
