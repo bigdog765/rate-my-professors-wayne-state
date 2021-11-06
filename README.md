@@ -17,7 +17,7 @@
 1. Drag the `rate-my-professors-wayne-state` folder anywhere on the page to import it (do not delete the folder afterwards).
 
 ### Usage
-* Pin the extension and click the icon to activate the ratings. For best results select 50 from the dropdown menu at the bottom of the page.
+* Pin the extension and click the icon to activate the ratings. For the best results, select 50 from the dropdown menu at the bottom of the page.
 <img width="207" alt="Screen Shot 2021-11-06 at 1 35 16 PM" src="https://user-images.githubusercontent.com/66044327/140618688-4923bb92-ff83-4824-b16f-337c0c652469.png">
 
 Have fun :)
