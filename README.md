@@ -1,11 +1,11 @@
 <p align="center">
   <img width="635" alt="Screen Shot 2021-11-06 at 1 28 47 PM" src="https://user-images.githubusercontent.com/66044327/140618493-9488ed33-02c5-4b6e-9f23-2d324831a955.png">
 </p>
-<h1 align="center">Rate My Professor For Wayne State</h1>
+<h1 align="center">for Wayne State</h1>
 
-<p align="center"> <i>This chrome browser extension will show you RMP ratings next to the professor's name when signing up for classes. </i> </p1>
+<p align="center"> <i>This chrome browser extension will show you RMP ratings next to the professors' names when signing up for classes. </i> </p1>
 
-<img width="1436" alt="Screen Shot 2021-11-06 at 1 24 49 PM" src="https://user-images.githubusercontent.com/66044327/140618386-647393c4-dd89-4915-ad12-d51be94e4568.png">
+<br> <img width="1436" alt="Screen Shot 2021-11-06 at 1 24 49 PM" src="https://user-images.githubusercontent.com/66044327/140618386-647393c4-dd89-4915-ad12-d51be94e4568.png">
 
 ### Installation Instructions
 **Google Chrome / Brave** 
