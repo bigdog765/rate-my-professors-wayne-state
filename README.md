@@ -10,10 +10,10 @@
 ### Installation Instructions
 **Google Chrome / Brave** 
 1. Download this repo as a [ZIP file from GitHub](https://github.com/AdvaitPaliwal/rate-my-professor-wayne-state/archive/refs/heads/main.zip).
-1. Unzip the file and you should have a folder named `rate-my-professor-wayne-state`.
+1. Unzip the file and you should have a folder named `rate-my-professors-wayne-state`.
 1. In Chrome/Brave go to the extensions page (`chrome://extensions`).
 1. Enable Developer Mode.
-1. Drag the `rate-my-professor-wayne-state` folder anywhere on the page to import it (do not delete the folder afterwards).
+1. Drag the `rate-my-professors-wayne-state` folder anywhere on the page to import it (do not delete the folder afterwards).
 
 ### Usage
 * Pin the extension and click the icon to activate the ratings. For best results select 50 from the dropdown menu at the bottom of the page.
