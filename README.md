@@ -25,4 +25,8 @@
 * If there are no results, they don't exist on https://www.ratemyprofessors.com/. 
 * If the spelling differs, you can submit an issue [here](https://github.com/AdvaitPaliwal/rate-my-professors-wayne-state/issues).
 
+### Show your support
+<a class="github-button" href="https://github.com/AdvaitPaliwal/rate-my-professors-wayne-state" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star AdvaitPaliwal/rate-my-professors-wayne-state on GitHub">Star</a>
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
 Have fun :)
