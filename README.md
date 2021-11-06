@@ -9,7 +9,7 @@
 <br> <img width="1436" alt="Screen Shot 2021-11-06 at 1 24 49 PM" src="https://user-images.githubusercontent.com/66044327/140618386-647393c4-dd89-4915-ad12-d51be94e4568.png">
 
 ### Installation Instructions
-**Google Chrome / Brave** 
+**Google Chrome / Brave Only** 
 1. Download this repo as a [ZIP file from GitHub](https://github.com/AdvaitPaliwal/rate-my-professor-wayne-state/archive/refs/heads/main.zip).
 1. Unzip the file and you should have a folder named `rate-my-professors-wayne-state`.
 1. In Chrome/Brave go to the extensions page (`chrome://extensions`).
