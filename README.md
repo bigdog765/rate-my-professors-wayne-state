@@ -20,7 +20,9 @@
 * Pin the extension and click the icon to activate the ratings. For the best results, select 50 from the dropdown menu at the bottom of the page.
 <img width="207" alt="Screen Shot 2021-11-06 at 1 35 16 PM" src="https://user-images.githubusercontent.com/66044327/140618688-4923bb92-ff83-4824-b16f-337c0c652469.png">
 
-### Ratings for a Specific Professor Not Displaying
-* Go to the [Professor Database](https://raw.githubusercontent.com/AdvaitPaliwal/rate-my-professors-wayne-state/main/content.js) and search for your professor's name. If there are no results then they don't exist on https://www.ratemyprofessors.com/. If the spelling differs, then go to [Create an Issue](https://github.com/AdvaitPaliwal/rate-my-professors-wayne-state/issues) and let me know about the difference and I will fix it.
+### Troubleshooting
+* If a professor's ratings don't show on the website, go to the [Professor Database](https://raw.githubusercontent.com/AdvaitPaliwal/rate-my-professors-wayne-state/main/content.js) and search for your professor's name. 
+* If there are no results, they don't exist on https://www.ratemyprofessors.com/. 
+* If the spelling differs, you can submit an issue [here](https://github.com/AdvaitPaliwal/rate-my-professors-wayne-state/issues).
 
 Have fun :)
