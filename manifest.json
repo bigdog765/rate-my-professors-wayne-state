@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "WSU Rate My Professor",
-    "description": "Will display all ratings on the course sign up page.",
+    "description": "This browser extension will show you RMP ratings next to the professors' names when signing up for classes.",
     "version": "1.0",
     "icons": {
         "128": "wayne.png",
