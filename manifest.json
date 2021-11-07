@@ -16,7 +16,8 @@
             "https://registration.wayne.edu/StudentRegistrationSsb/ssb/classRegistration/classRegistration"
         ],
         "js": [
-            "content.js"
+            "content.js",
+            "professors.js"
         ]
 
     }],
