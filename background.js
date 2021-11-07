@@ -5,8 +5,6 @@ chrome.browserAction.onClicked.addListener(function(tab) {
     }, function(tabs) {
         chrome.tabs.sendMessage(tabs[0].id, {
             method: "changePage"
-        }, function(response) {
-
-        });
+        }, function(response) {});
     });
 });
