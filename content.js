@@ -2,12 +2,11 @@ chrome.runtime.onMessage.addListener(
     function(request, sender, sendResponse) {
         if (request.method == "changePage") {
           const text = document.querySelectorAll('a.email')
-          const subject = document.querySelector("span.value")
             for (let j = 0; j < text.length; j++) {
                 var text_element = text[j].innerHTML.toLowerCase()
                 let first_name = text_element.split(',')[1].split(" ")[1]
                 let last_name = text_element.split(", ")[0]
-                var filter_prof = json_data.filter(prof => prof.tFname.toLowerCase().replace(' ', '') == first_name && prof.tLname.toLowerCase().replace(' ', '') == last_name && prof.tDept == subject.innerHTML)
+                var filter_prof = json_data.filter(prof => prof.tFname.toLowerCase().replace(' ', '') == first_name && prof.tLname.toLowerCase().replace(' ', '') == last_name)
                 if (filter_prof.length > 0) {
                     let prof_rating = filter_prof[0]["overall_rating"]
                     let prof_tid = filter_prof[0]["tid"]
