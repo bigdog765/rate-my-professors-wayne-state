@@ -18,6 +18,8 @@ chrome.runtime.onMessage.addListener(
                     sendResponse({
                     method: "changePage",
                     })
+                } else{
+                  text[j].innerHTML = text[j].innerHTML.replace(text[j].innerHTML, last_name.charAt(0).toUpperCase() + last_name.slice(1) + ", " + first_name.charAt(0).toUpperCase() + first_name.slice(1) + " " + "N/A / 5.0 (0 ratings)")
                 }
             }
         return True
