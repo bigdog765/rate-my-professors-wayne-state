@@ -4,8 +4,6 @@
 
 <h1 align="center">for Wayne State University</h1>
 
-<p align="center"> <i>This browser extension will show you RMP ratings next to the professors' names when signing up for classes. </i> </p1>
-
 <br><img width="1437" alt="Screen Shot 2021-11-09 at 4 31 39 PM" src="https://user-images.githubusercontent.com/66044327/141008307-551dee64-ff64-476a-96d5-40ea625c0373.png">
 
 ### Installation Instructions
