@@ -12,14 +12,13 @@
         "activeTab"
     ],
     "content_scripts": [{
-        "matches": [
-            "https://registration.wayne.edu/StudentRegistrationSsb/ssb/classRegistration/classRegistration"
-        ],
         "js": [
             "content.js",
             "professors.js"
+        ],
+        "matches": [
+            "https://registration.wayne.edu/StudentRegistrationSsb/ssb/classRegistration/classRegistration"
         ]
-
     }],
     "background": {
         "persistent": true,
