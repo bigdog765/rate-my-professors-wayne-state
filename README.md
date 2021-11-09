@@ -26,7 +26,4 @@
 * If there are no results, they don't exist on https://www.ratemyprofessors.com/. 
 * If the spelling differs, you can submit an issue [here](https://github.com/AdvaitPaliwal/rate-my-professors-wayne-state/issues).
 
-### Show your support
-* If you found this useful, please ⭐️ Star this repository.
-
 Have fun :)
