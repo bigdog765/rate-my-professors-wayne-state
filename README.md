@@ -1,10 +1,12 @@
+  <h1 align="center">
+  <img width="450" alt="Wayne Logo" src="https://user-images.githubusercontent.com/66044327/141021233-e536ecdd-7b7a-4142-b560-15a5acd71abb.png">
+<br><p align="center">X</p>
+  <img width="635" alt="RMP Logo" src="https://user-images.githubusercontent.com/66044327/141022964-baf62988-3773-4067-a388-83281ffb7b7e.png">
+   </h1>
+
 <p align="center">
-  <img width="635" alt="Screen Shot 2021-11-06 at 1 28 47 PM" src="https://user-images.githubusercontent.com/66044327/140618493-9488ed33-02c5-4b6e-9f23-2d324831a955.png">
-</p>
-
-<h1 align="center">for Wayne State University</h1>
-
 <br><img width="1437" alt="Screen Shot 2021-11-09 at 4 31 39 PM" src="https://user-images.githubusercontent.com/66044327/141008307-551dee64-ff64-476a-96d5-40ea625c0373.png">
+ <p>
 
 ### Installation Instructions
 **Google Chrome / Brave** 
