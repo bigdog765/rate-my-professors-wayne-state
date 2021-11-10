@@ -25,7 +25,7 @@ chrome.runtime.onMessage.addListener(
                 } else{
                   prof_rating = prof_rating  + " / 5.0"
                 }
-                text[j].innerHTML = text[j].innerHTML.replace(text[j].innerHTML, emoji + " " + last_name + ", " + first_name + " " + prof_rating + " (" +  num_ratings + " ratings")
+                text[j].innerHTML = text[j].innerHTML.replace(text[j].innerHTML, emoji + " " + last_name + ", " + first_name + " " + prof_rating + " (" +  num_ratings + " ratings)")
                 sendResponse({
                 method: "changePage", 
                 })
