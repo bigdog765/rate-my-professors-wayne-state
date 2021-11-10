@@ -18,8 +18,6 @@
 1. Drag the `rate-my-professors-wayne-state-main` folder anywhere on the page to import it (do not delete the folder afterwards).
 
 ### Usage
-* Pin the extension and click the icon to activate the ratings. For the best results, select 50 from the dropdown menu at the bottom of the page.
-* Click the professor's name and you'll get redirected to their rate my professor page.
-<img width="207" alt="Screen Shot 2021-11-06 at 1 35 16 PM" src="https://user-images.githubusercontent.com/66044327/140618688-4923bb92-ff83-4824-b16f-337c0c652469.png">
+* Pin the extension and click the icon when on the registration page to activate the ratings.
 
 Have fun :)
