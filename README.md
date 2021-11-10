@@ -22,9 +22,4 @@
 * Click the professor's name and you'll get redirected to their rate my professor page.
 <img width="207" alt="Screen Shot 2021-11-06 at 1 35 16 PM" src="https://user-images.githubusercontent.com/66044327/140618688-4923bb92-ff83-4824-b16f-337c0c652469.png">
 
-### Troubleshooting
-* If a professor's ratings don't show in student registration, go to the [Professor Database](https://github.com/AdvaitPaliwal/rate-my-professors-wayne-state/blob/main/professors.js) and search for their first or last name. 
-* If there are no results, they don't exist on https://www.ratemyprofessors.com/. 
-* If the spelling differs, you can submit an issue [here](https://github.com/AdvaitPaliwal/rate-my-professors-wayne-state/issues).
-
 Have fun :)
