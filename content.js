@@ -4,6 +4,9 @@ chrome.runtime.onMessage.addListener(
           const text = document.querySelectorAll('a.email')
             for (let j = 0; j < text.length; j++) {
               var text_element = text[j].innerHTML.toLowerCase()
+              if (text_element.split(' ').length > 3){
+                return
+              }
               let first_name = text_element.split(',')[1].split(" ")[1]
               let last_name = text_element.split(", ")[0]
               var filter_prof = json_data.filter(prof => prof.tFname.toLowerCase().replace(' ', '').includes(first_name) && prof.tLname.toLowerCase().replace(' ', '') == last_name)
