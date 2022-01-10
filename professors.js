@@ -1,4 +1,5 @@
-const json_data = [{
+const json_data = [
+  {
     "tDept": "Psychology",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -216,11 +217,11 @@ const json_data = [{
     "tMiddlename": "Samimi",
     "tLname": "Abianeh",
     "tid": 2629990,
-    "tNumRatings": 1,
+    "tNumRatings": 3,
     "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "1.0"
+    "overall_rating": "2.3"
   },
   {
     "tDept": "Computer Science",
@@ -342,11 +343,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Abubakari",
     "tid": 2441767,
-    "tNumRatings": 9,
+    "tNumRatings": 11,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.1"
+    "overall_rating": "4.3"
   },
   {
     "tDept": "Foreign Languages",
@@ -538,7 +539,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Ahire",
     "tid": 2635302,
-    "tNumRatings": 9,
+    "tNumRatings": 10,
     "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -650,7 +651,7 @@ const json_data = [{
     "tMiddlename": "Hoon",
     "tLname": "Ahn",
     "tid": 2010975,
-    "tNumRatings": 17,
+    "tNumRatings": 19,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -678,7 +679,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Aidibi",
     "tid": 2585908,
-    "tNumRatings": 6,
+    "tNumRatings": 8,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -692,11 +693,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Aitzhanova",
     "tid": 2521516,
-    "tNumRatings": 12,
+    "tNumRatings": 14,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.2"
+    "overall_rating": "3.1"
   },
   {
     "tDept": "Sociology",
@@ -776,7 +777,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Al-Mandwee",
     "tid": 1570744,
-    "tNumRatings": 26,
+    "tNumRatings": 28,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -832,11 +833,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Alaswad",
     "tid": 2598595,
-    "tNumRatings": 1,
+    "tNumRatings": 3,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "5.0"
+    "overall_rating": "3.7"
   },
   {
     "tDept": "Engineering",
@@ -888,11 +889,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Albrehi",
     "tid": 2367873,
-    "tNumRatings": 7,
+    "tNumRatings": 8,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.4"
+    "overall_rating": "4.5"
   },
   {
     "tDept": "Biology",
@@ -902,7 +903,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Alcedo",
     "tid": 1898932,
-    "tNumRatings": 49,
+    "tNumRatings": 67,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -1014,7 +1015,7 @@ const json_data = [{
     "tMiddlename": "Radwan",
     "tLname": "Alhawari",
     "tid": 2593321,
-    "tNumRatings": 5,
+    "tNumRatings": 6,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -1203,20 +1204,6 @@ const json_data = [{
     "overall_rating": "N/A"
   },
   {
-    "tDept": "Political Science",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Rochelle",
-    "tMiddlename": "",
-    "tLname": "Allen",
-    "tid": 1439379,
-    "tNumRatings": 43,
-    "rating_class": "average",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "3.2"
-  },
-  {
     "tDept": "Social Work",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -1231,6 +1218,20 @@ const json_data = [{
     "overall_rating": "2.0"
   },
   {
+    "tDept": "Political Science",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Rochelle",
+    "tMiddlename": "",
+    "tLname": "Allen",
+    "tid": 1439379,
+    "tNumRatings": 44,
+    "rating_class": "average",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "3.2"
+  },
+  {
     "tDept": "English",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -1238,11 +1239,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Allkins",
     "tid": 1934213,
-    "tNumRatings": 8,
+    "tNumRatings": 9,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.8"
+    "overall_rating": "4.7"
   },
   {
     "tDept": "Health  Physical Education",
@@ -1252,7 +1253,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Allossery",
     "tid": 2085246,
-    "tNumRatings": 8,
+    "tNumRatings": 9,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -1271,6 +1272,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "3.5"
+  },
+  {
+    "tDept": "Engineering",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Yara",
+    "tMiddlename": "",
+    "tLname": "Almubarak",
+    "tid": 2758584,
+    "tNumRatings": 0,
+    "rating_class": "zero",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "N/A"
   },
   {
     "tDept": "Engineering",
@@ -1374,20 +1389,6 @@ const json_data = [{
     "tDept": "Computer Science",
     "tSid": "1150",
     "institution_name": "Wayne State University",
-    "tFname": "Stephen",
-    "tMiddlename": "",
-    "tLname": "Ambrose",
-    "tid": 2255587,
-    "tNumRatings": 17,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "3.7"
-  },
-  {
-    "tDept": "Computer Science",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
     "tFname": "Jeremy",
     "tMiddlename": "",
     "tLname": "Ambrose",
@@ -1397,6 +1398,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "2.0"
+  },
+  {
+    "tDept": "Computer Science",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Stephen",
+    "tMiddlename": "",
+    "tLname": "Ambrose",
+    "tid": 2255587,
+    "tNumRatings": 18,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "3.6"
   },
   {
     "tDept": "Engineering",
@@ -1595,20 +1610,6 @@ const json_data = [{
     "overall_rating": "2.2"
   },
   {
-    "tDept": "Spanish",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Elizabeth",
-    "tMiddlename": "",
-    "tLname": "Anderson",
-    "tid": 1648048,
-    "tNumRatings": 34,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.7"
-  },
-  {
     "tDept": "Speech",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -1635,6 +1636,34 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "4.9"
+  },
+  {
+    "tDept": "Languages",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Elizabeth",
+    "tMiddlename": "",
+    "tLname": "Anderson",
+    "tid": 2736047,
+    "tNumRatings": 0,
+    "rating_class": "zero",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "N/A"
+  },
+  {
+    "tDept": "Spanish",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Elizabeth",
+    "tMiddlename": "",
+    "tLname": "Anderson",
+    "tid": 1648048,
+    "tNumRatings": 35,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.7"
   },
   {
     "tDept": "Theatre  Dance",
@@ -1798,11 +1827,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Ansari",
     "tid": 965429,
-    "tNumRatings": 46,
+    "tNumRatings": 51,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.6"
+    "overall_rating": "3.5"
   },
   {
     "tDept": "Chemistry",
@@ -1882,7 +1911,7 @@ const json_data = [{
     "tMiddlename": "K",
     "tLname": "Apolloni",
     "tid": 2589856,
-    "tNumRatings": 1,
+    "tNumRatings": 2,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -1952,11 +1981,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Aretakis",
     "tid": 2712011,
-    "tNumRatings": 2,
-    "rating_class": "good",
+    "tNumRatings": 4,
+    "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.0"
+    "overall_rating": "2.5"
   },
   {
     "tDept": "Biology",
@@ -2036,11 +2065,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Arslanturk",
     "tid": 2557412,
-    "tNumRatings": 4,
+    "tNumRatings": 7,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.5"
+    "overall_rating": "4.1"
   },
   {
     "tDept": "Communication",
@@ -2582,7 +2611,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Babcock",
     "tid": 204043,
-    "tNumRatings": 39,
+    "tNumRatings": 40,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -2596,11 +2625,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Badanowski",
     "tid": 987257,
-    "tNumRatings": 8,
+    "tNumRatings": 10,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.3"
+    "overall_rating": "4.0"
   },
   {
     "tDept": "Philosophy",
@@ -2792,11 +2821,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Baker",
     "tid": 2271243,
-    "tNumRatings": 30,
+    "tNumRatings": 32,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.3"
+    "overall_rating": "3.2"
   },
   {
     "tDept": "Biology",
@@ -2967,6 +2996,20 @@ const json_data = [{
     "overall_rating": "3.2"
   },
   {
+    "tDept": "Social Work",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Kess",
+    "tMiddlename": "",
+    "tLname": "Ballentine",
+    "tid": 2731171,
+    "tNumRatings": 0,
+    "rating_class": "zero",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "N/A"
+  },
+  {
     "tDept": "Audiology",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -3002,11 +3045,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Bandyopadhyay",
     "tid": 2625599,
-    "tNumRatings": 0,
-    "rating_class": "zero",
+    "tNumRatings": 1,
+    "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "N/A"
+    "overall_rating": "4.0"
   },
   {
     "tDept": "Statistics",
@@ -3063,6 +3106,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "3.6"
+  },
+  {
+    "tDept": "Nursing",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Allison",
+    "tMiddlename": "",
+    "tLname": "Bara",
+    "tid": 2751620,
+    "tNumRatings": 1,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "5.0"
   },
   {
     "tDept": "Communication",
@@ -3191,6 +3248,20 @@ const json_data = [{
     "overall_rating": "2.5"
   },
   {
+    "tDept": "Psychology",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Susan",
+    "tMiddlename": "",
+    "tLname": "Barnes",
+    "tid": 2756558,
+    "tNumRatings": 0,
+    "rating_class": "zero",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "N/A"
+  },
+  {
     "tDept": "Sociology",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -3212,7 +3283,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Barnett",
     "tid": 233330,
-    "tNumRatings": 26,
+    "tNumRatings": 28,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -3240,7 +3311,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Barrett",
     "tid": 984690,
-    "tNumRatings": 28,
+    "tNumRatings": 29,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -3534,11 +3605,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Bauer",
     "tid": 2658514,
-    "tNumRatings": 0,
-    "rating_class": "zero",
+    "tNumRatings": 3,
+    "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "N/A"
+    "overall_rating": "1.0"
   },
   {
     "tDept": "History",
@@ -3674,11 +3745,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Beale",
     "tid": 1254586,
-    "tNumRatings": 2,
+    "tNumRatings": 3,
     "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "1.5"
+    "overall_rating": "1.3"
   },
   {
     "tDept": "History",
@@ -3709,20 +3780,6 @@ const json_data = [{
     "overall_rating": "3.8"
   },
   {
-    "tDept": "Psychology",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Jessica",
-    "tMiddlename": "R",
-    "tLname": "Beatty",
-    "tid": 1897520,
-    "tNumRatings": 1,
-    "rating_class": "average",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "2.5"
-  },
-  {
     "tDept": "Humanities",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -3735,6 +3792,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "3.9"
+  },
+  {
+    "tDept": "Psychology",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Jessica",
+    "tMiddlename": "R",
+    "tLname": "Beatty",
+    "tid": 1897520,
+    "tNumRatings": 3,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.2"
   },
   {
     "tDept": "Library & Information Science",
@@ -3870,7 +3941,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Beeghly",
     "tid": 1046915,
-    "tNumRatings": 45,
+    "tNumRatings": 46,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -3940,7 +4011,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Bekdache",
     "tid": 359551,
-    "tNumRatings": 69,
+    "tNumRatings": 71,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -4024,11 +4095,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Belzer",
     "tid": 1384714,
-    "tNumRatings": 17,
+    "tNumRatings": 20,
     "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "1.7"
+    "overall_rating": "1.6"
   },
   {
     "tDept": "Social Work",
@@ -4202,20 +4273,6 @@ const json_data = [{
     "tDept": "Psychology",
     "tSid": "1150",
     "institution_name": "Wayne State University",
-    "tFname": "Christopher",
-    "tMiddlename": "",
-    "tLname": "Berry",
-    "tid": 1130832,
-    "tNumRatings": 5,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.6"
-  },
-  {
-    "tDept": "Psychology",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
     "tFname": "Nichole",
     "tMiddlename": "",
     "tLname": "Bertram",
@@ -4248,11 +4305,11 @@ const json_data = [{
     "tMiddlename": "Fouad",
     "tLname": "Beydoun",
     "tid": 1938327,
-    "tNumRatings": 11,
+    "tNumRatings": 13,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.8"
+    "overall_rating": "4.7"
   },
   {
     "tDept": "History",
@@ -4556,7 +4613,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Biswas",
     "tid": 551899,
-    "tNumRatings": 79,
+    "tNumRatings": 81,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -4612,7 +4669,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Blagdurn",
     "tid": 1818733,
-    "tNumRatings": 15,
+    "tNumRatings": 16,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -4654,11 +4711,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Blaschak",
     "tid": 2544069,
-    "tNumRatings": 4,
+    "tNumRatings": 8,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.0"
+    "overall_rating": "4.5"
   },
   {
     "tDept": "Philosophy",
@@ -4687,6 +4744,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "5.0"
+  },
+  {
+    "tDept": "Music",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Jack",
+    "tMiddlename": "",
+    "tLname": "Blaszkiewicz",
+    "tid": 2741617,
+    "tNumRatings": 0,
+    "rating_class": "zero",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "N/A"
   },
   {
     "tDept": "Physics",
@@ -4759,6 +4830,20 @@ const json_data = [{
     "overall_rating": "4.6"
   },
   {
+    "tDept": "Education",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Matthew",
+    "tMiddlename": "",
+    "tLname": "Blount",
+    "tid": 1077760,
+    "tNumRatings": 5,
+    "rating_class": "poor",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "1.6"
+  },
+  {
     "tDept": "Elementary Education",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -4794,7 +4879,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Boeder",
     "tid": 2297266,
-    "tNumRatings": 21,
+    "tNumRatings": 27,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -5004,11 +5089,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Boogren",
     "tid": 1341944,
-    "tNumRatings": 7,
+    "tNumRatings": 8,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.1"
+    "overall_rating": "3.9"
   },
   {
     "tDept": "Languages",
@@ -5046,7 +5131,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Booth",
     "tid": 405534,
-    "tNumRatings": 47,
+    "tNumRatings": 48,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -5088,7 +5173,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Borisov",
     "tid": 2204938,
-    "tNumRatings": 13,
+    "tNumRatings": 14,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -5704,7 +5789,7 @@ const json_data = [{
     "tMiddlename": "Louise",
     "tLname": "Brennan",
     "tid": 2657204,
-    "tNumRatings": 16,
+    "tNumRatings": 19,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -5718,11 +5803,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Brennon",
     "tid": 2626198,
-    "tNumRatings": 4,
+    "tNumRatings": 7,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.0"
+    "overall_rating": "4.4"
   },
   {
     "tDept": "Mathematics",
@@ -5774,7 +5859,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Brewster",
     "tid": 1620409,
-    "tNumRatings": 43,
+    "tNumRatings": 44,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -5802,11 +5887,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Briggs",
     "tid": 2623306,
-    "tNumRatings": 1,
+    "tNumRatings": 2,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "5.0"
+    "overall_rating": "4.5"
   },
   {
     "tDept": "English",
@@ -5882,29 +5967,15 @@ const json_data = [{
     "tDept": "English",
     "tSid": "1150",
     "institution_name": "Wayne State University",
-    "tFname": "Ludgar",
-    "tMiddlename": "",
-    "tLname": "Brinker",
-    "tid": 270913,
-    "tNumRatings": 14,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "3.9"
-  },
-  {
-    "tDept": "English",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
     "tFname": "Ludger",
     "tMiddlename": "",
     "tLname": "Brinker",
     "tid": 1938281,
-    "tNumRatings": 6,
+    "tNumRatings": 8,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.9"
+    "overall_rating": "4.7"
   },
   {
     "tDept": "Geography",
@@ -5984,7 +6055,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Bristol",
     "tid": 2445319,
-    "tNumRatings": 13,
+    "tNumRatings": 16,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -6012,11 +6083,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Brock",
     "tid": 152980,
-    "tNumRatings": 34,
+    "tNumRatings": 37,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "2.9"
+    "overall_rating": "2.8"
   },
   {
     "tDept": "Music",
@@ -6162,29 +6233,15 @@ const json_data = [{
     "tDept": "Social Work",
     "tSid": "1150",
     "institution_name": "Wayne State University",
-    "tFname": "Dawn",
+    "tFname": "Suzanne",
     "tMiddlename": "",
     "tLname": "Brown",
-    "tid": 2167235,
-    "tNumRatings": 3,
+    "tid": 2052595,
+    "tNumRatings": 2,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.7"
-  },
-  {
-    "tDept": "Psychology",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Shanique",
-    "tMiddlename": "",
-    "tLname": "Brown",
-    "tid": 2412027,
-    "tNumRatings": 17,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.4"
+    "overall_rating": "5.0"
   },
   {
     "tDept": "Art Education",
@@ -6229,6 +6286,34 @@ const json_data = [{
     "overall_rating": "4.3"
   },
   {
+    "tDept": "Psychology",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Shanique",
+    "tMiddlename": "",
+    "tLname": "Brown",
+    "tid": 2412027,
+    "tNumRatings": 20,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.3"
+  },
+  {
+    "tDept": "Social Work",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Dawn",
+    "tMiddlename": "",
+    "tLname": "Brown",
+    "tid": 2167235,
+    "tNumRatings": 6,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.5"
+  },
+  {
     "tDept": "Political Science",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -6236,7 +6321,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Brown",
     "tid": 279231,
-    "tNumRatings": 83,
+    "tNumRatings": 84,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -6292,11 +6377,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Brownlee",
     "tid": 1035807,
-    "tNumRatings": 6,
+    "tNumRatings": 7,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "2.8"
+    "overall_rating": "2.5"
   },
   {
     "tDept": "Physics",
@@ -6362,7 +6447,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Bruner",
     "tid": 508275,
-    "tNumRatings": 34,
+    "tNumRatings": 35,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -6439,20 +6524,6 @@ const json_data = [{
     "overall_rating": "4.2"
   },
   {
-    "tDept": "Physical Ed",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Gary",
-    "tMiddlename": "",
-    "tLname": "Bryce",
-    "tid": 476836,
-    "tNumRatings": 4,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.2"
-  },
-  {
     "tDept": "Computer Science",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -6488,7 +6559,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Buccellato",
     "tid": 612562,
-    "tNumRatings": 69,
+    "tNumRatings": 71,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -6530,7 +6601,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Buckman",
     "tid": 1176923,
-    "tNumRatings": 84,
+    "tNumRatings": 91,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -6684,11 +6755,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Burdick",
     "tid": 2425637,
-    "tNumRatings": 3,
+    "tNumRatings": 4,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.3"
+    "overall_rating": "4.5"
   },
   {
     "tDept": "Nutrition  Food Science",
@@ -6712,7 +6783,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Burin",
     "tid": 1149433,
-    "tNumRatings": 21,
+    "tNumRatings": 22,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -6740,11 +6811,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Burke",
     "tid": 2309761,
-    "tNumRatings": 2,
-    "rating_class": "good",
+    "tNumRatings": 4,
+    "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.5"
+    "overall_rating": "3.3"
   },
   {
     "tDept": "Social Work",
@@ -6824,7 +6895,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Burroughs",
     "tid": 2725499,
-    "tNumRatings": 1,
+    "tNumRatings": 2,
     "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -6866,11 +6937,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Busuito",
     "tid": 2317615,
-    "tNumRatings": 7,
+    "tNumRatings": 9,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.3"
+    "overall_rating": "3.7"
   },
   {
     "tDept": "Music",
@@ -6901,20 +6972,6 @@ const json_data = [{
     "overall_rating": "5.0"
   },
   {
-    "tDept": "Nursing",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Jessica",
-    "tMiddlename": "",
-    "tLname": "Butler",
-    "tid": 2694902,
-    "tNumRatings": 1,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.0"
-  },
-  {
     "tDept": "Statistics",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -6927,6 +6984,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "2.6"
+  },
+  {
+    "tDept": "Nursing",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Jessica",
+    "tMiddlename": "",
+    "tLname": "Butler",
+    "tid": 2694902,
+    "tNumRatings": 2,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.5"
   },
   {
     "tDept": "Communication",
@@ -6997,6 +7068,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "2.7"
+  },
+  {
+    "tDept": "Sociology",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Joseph",
+    "tMiddlename": "",
+    "tLname": "Byle",
+    "tid": 1968780,
+    "tNumRatings": 11,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "5.0"
   },
   {
     "tDept": "Criminal Justice",
@@ -7081,20 +7166,6 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "N/A"
-  },
-  {
-    "tDept": "Elementary Education",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Delois",
-    "tMiddlename": "",
-    "tLname": "Cain",
-    "tid": 1145344,
-    "tNumRatings": 4,
-    "rating_class": "poor",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "1.1"
   },
   {
     "tDept": "Engineering",
@@ -7279,20 +7350,6 @@ const json_data = [{
     "overall_rating": "3.2"
   },
   {
-    "tDept": "Geography",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Annalie",
-    "tMiddlename": "",
-    "tLname": "Campos",
-    "tid": 1792540,
-    "tNumRatings": 20,
-    "rating_class": "average",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "3.2"
-  },
-  {
     "tDept": "Mathematics",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -7398,7 +7455,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Carbonara",
     "tid": 2420445,
-    "tNumRatings": 11,
+    "tNumRatings": 12,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -7454,7 +7511,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Carney",
     "tid": 2635727,
-    "tNumRatings": 1,
+    "tNumRatings": 5,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -7594,7 +7651,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Carter",
     "tid": 2296784,
-    "tNumRatings": 24,
+    "tNumRatings": 30,
     "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -7790,11 +7847,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Castro Hernandez",
     "tid": 2728291,
-    "tNumRatings": 0,
-    "rating_class": "zero",
+    "tNumRatings": 6,
+    "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "N/A"
+    "overall_rating": "3.3"
   },
   {
     "tDept": "Social Work",
@@ -7839,6 +7896,20 @@ const json_data = [{
     "overall_rating": "5.0"
   },
   {
+    "tDept": "Mathematics",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Michael",
+    "tMiddlename": "",
+    "tLname": "Catanzaro",
+    "tid": 1963536,
+    "tNumRatings": 3,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.7"
+  },
+  {
     "tDept": "Communication",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -7860,11 +7931,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Cave",
     "tid": 2018931,
-    "tNumRatings": 8,
+    "tNumRatings": 11,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.8"
+    "overall_rating": "4.7"
   },
   {
     "tDept": "Nutrition & Food Science",
@@ -7930,7 +8001,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Celiker",
     "tid": 999395,
-    "tNumRatings": 29,
+    "tNumRatings": 30,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -7958,11 +8029,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Cha",
     "tid": 2079248,
-    "tNumRatings": 8,
+    "tNumRatings": 7,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.6"
+    "overall_rating": "4.0"
   },
   {
     "tDept": "Business Administration",
@@ -8000,11 +8071,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Chakraborty",
     "tid": 2589805,
-    "tNumRatings": 5,
-    "rating_class": "average",
+    "tNumRatings": 7,
+    "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.4"
+    "overall_rating": "3.6"
   },
   {
     "tDept": "Liberal Arts & Sciences",
@@ -8154,11 +8225,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Chandra",
     "tid": 573985,
-    "tNumRatings": 31,
+    "tNumRatings": 33,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "2.9"
+    "overall_rating": "3.0"
   },
   {
     "tDept": "Physics",
@@ -8313,6 +8384,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "4.0"
+  },
+  {
+    "tDept": "Freshman Seminar",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Stephanie",
+    "tMiddlename": "",
+    "tLname": "Chastain",
+    "tid": 2730712,
+    "tNumRatings": 2,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "5.0"
   },
   {
     "tDept": "Biology",
@@ -8581,20 +8666,6 @@ const json_data = [{
     "overall_rating": "3.4"
   },
   {
-    "tDept": "Africana Studies",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Kefentse",
-    "tMiddlename": "K",
-    "tLname": "Chike",
-    "tid": 1905479,
-    "tNumRatings": 16,
-    "rating_class": "average",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "3.0"
-  },
-  {
     "tDept": "African Studies",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -8621,6 +8692,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "2.8"
+  },
+  {
+    "tDept": "Africana Studies",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Kefentse",
+    "tMiddlename": "K",
+    "tLname": "Chike",
+    "tid": 1905479,
+    "tNumRatings": 17,
+    "rating_class": "average",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "2.9"
   },
   {
     "tDept": "Psychology",
@@ -8663,20 +8748,6 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "3.9"
-  },
-  {
-    "tDept": "Engineering",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Ratna Babu",
-    "tMiddlename": "",
-    "tLname": "Chinnam",
-    "tid": 1285247,
-    "tNumRatings": 4,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "5.0"
   },
   {
     "tDept": "Engineering",
@@ -8756,7 +8827,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Chow",
     "tid": 392682,
-    "tNumRatings": 52,
+    "tNumRatings": 53,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -8854,11 +8925,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Chuku",
     "tid": 1819,
-    "tNumRatings": 17,
+    "tNumRatings": 18,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.2"
+    "overall_rating": "3.1"
   },
   {
     "tDept": "Accounting",
@@ -8924,7 +8995,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Cicala",
     "tid": 1132635,
-    "tNumRatings": 33,
+    "tNumRatings": 35,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -9204,11 +9275,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Coffman",
     "tid": 2626054,
-    "tNumRatings": 4,
-    "rating_class": "poor",
+    "tNumRatings": 6,
+    "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "2.0"
+    "overall_rating": "3.0"
   },
   {
     "tDept": "Health & Physical Education",
@@ -9237,6 +9308,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "3.5"
+  },
+  {
+    "tDept": "Astronomy",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Jeffrey",
+    "tMiddlename": "",
+    "tLname": "Cohn",
+    "tid": 953178,
+    "tNumRatings": 7,
+    "rating_class": "average",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "3.0"
   },
   {
     "tDept": "Mathematics",
@@ -9330,7 +9415,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Coleman",
     "tid": 2170323,
-    "tNumRatings": 8,
+    "tNumRatings": 9,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -9414,7 +9499,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Conely",
     "tid": 1166933,
-    "tNumRatings": 47,
+    "tNumRatings": 50,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -9554,7 +9639,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Cooney",
     "tid": 500477,
-    "tNumRatings": 28,
+    "tNumRatings": 29,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -9652,7 +9737,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Corrigan-Salter",
     "tid": 1879037,
-    "tNumRatings": 53,
+    "tNumRatings": 56,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -9750,7 +9835,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Cote",
     "tid": 2689763,
-    "tNumRatings": 8,
+    "tNumRatings": 15,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -10023,6 +10108,20 @@ const json_data = [{
     "overall_rating": "3.2"
   },
   {
+    "tDept": "Economics",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "David",
+    "tMiddlename": "",
+    "tLname": "Criss",
+    "tid": 2758827,
+    "tNumRatings": 0,
+    "rating_class": "zero",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "N/A"
+  },
+  {
     "tDept": "Library & Information Science",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -10142,7 +10241,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Cuckovich ",
     "tid": 2017626,
-    "tNumRatings": 12,
+    "tNumRatings": 13,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -10247,6 +10346,20 @@ const json_data = [{
     "overall_rating": "N/A"
   },
   {
+    "tDept": "Film",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Toni",
+    "tMiddlename": "",
+    "tLname": "Cunningham",
+    "tid": 2759350,
+    "tNumRatings": 1,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "5.0"
+  },
+  {
     "tDept": "Music",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -10324,7 +10437,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "D'Arpa",
     "tid": 2304567,
-    "tNumRatings": 15,
+    "tNumRatings": 16,
     "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -10338,21 +10451,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "D'Mello",
     "tid": 132114,
-    "tNumRatings": 84,
-    "rating_class": "average",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "3.0"
-  },
-  {
-    "tDept": "French",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Jamillia",
-    "tMiddlename": "",
-    "tLname": "D'Pokke",
-    "tid": 895490,
-    "tNumRatings": 9,
+    "tNumRatings": 89,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -10583,6 +10682,20 @@ const json_data = [{
     "overall_rating": "5.0"
   },
   {
+    "tDept": "English",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Hamza",
+    "tMiddlename": "",
+    "tLname": "Danjuma",
+    "tid": 2748130,
+    "tNumRatings": 2,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "5.0"
+  },
+  {
     "tDept": "Communication",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -10772,11 +10885,39 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Daugherty",
     "tid": 1455405,
-    "tNumRatings": 5,
+    "tNumRatings": 6,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.5"
+    "overall_rating": "3.8"
+  },
+  {
+    "tDept": "Finance",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Zagdbazar",
+    "tMiddlename": "",
+    "tLname": "Davaadorj",
+    "tid": 2684368,
+    "tNumRatings": 3,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.3"
+  },
+  {
+    "tDept": "Education",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Sameerah",
+    "tMiddlename": "",
+    "tLname": "Davenport",
+    "tid": 2089165,
+    "tNumRatings": 2,
+    "rating_class": "poor",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "1.0"
   },
   {
     "tDept": "Finance",
@@ -10814,11 +10955,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "David-Martin",
     "tid": 2724919,
-    "tNumRatings": 0,
-    "rating_class": "zero",
+    "tNumRatings": 2,
+    "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "N/A"
+    "overall_rating": "5.0"
   },
   {
     "tDept": "Psychology",
@@ -10856,11 +10997,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Davidson",
     "tid": 2345842,
-    "tNumRatings": 15,
-    "rating_class": "good",
+    "tNumRatings": 16,
+    "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.5"
+    "overall_rating": "3.4"
   },
   {
     "tDept": "English",
@@ -10917,6 +11058,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "N/A"
+  },
+  {
+    "tDept": "Marketing",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Cassandra",
+    "tMiddlename": "",
+    "tLname": "Davis",
+    "tid": 2303930,
+    "tNumRatings": 32,
+    "rating_class": "average",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "2.9"
   },
   {
     "tDept": "Social Work",
@@ -11045,34 +11200,6 @@ const json_data = [{
     "overall_rating": "5.0"
   },
   {
-    "tDept": "Languages",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Raffaele",
-    "tMiddlename": "",
-    "tLname": "Debenedictis",
-    "tid": 135316,
-    "tNumRatings": 54,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.2"
-  },
-  {
-    "tDept": "Education",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Gina",
-    "tMiddlename": "",
-    "tLname": "Deblase",
-    "tid": 527095,
-    "tNumRatings": 15,
-    "rating_class": "average",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "2.5"
-  },
-  {
     "tDept": "Business",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -11122,7 +11249,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Deegan-Krause",
     "tid": 945182,
-    "tNumRatings": 64,
+    "tNumRatings": 67,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -11136,7 +11263,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Deering",
     "tid": 2523595,
-    "tNumRatings": 1,
+    "tNumRatings": 2,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -11155,6 +11282,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "4.5"
+  },
+  {
+    "tDept": "Psychology",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Emma",
+    "tMiddlename": "Gimenez",
+    "tLname": "Degeorge",
+    "tid": 2741244,
+    "tNumRatings": 1,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.0"
   },
   {
     "tDept": "Near Eastern Studies",
@@ -11183,20 +11324,6 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "4.3"
-  },
-  {
-    "tDept": "English",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Delani",
-    "tMiddlename": "",
-    "tLname": "Degrosky",
-    "tid": 2434627,
-    "tNumRatings": 4,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "5.0"
   },
   {
     "tDept": "English",
@@ -11248,11 +11375,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Delacruz",
     "tid": 2585569,
-    "tNumRatings": 0,
-    "rating_class": "zero",
+    "tNumRatings": 1,
+    "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "N/A"
+    "overall_rating": "4.0"
   },
   {
     "tDept": "English",
@@ -11309,6 +11436,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "1.5"
+  },
+  {
+    "tDept": "Social Work",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Sandra",
+    "tMiddlename": "",
+    "tLname": "DelVillano-Marchi",
+    "tid": 2752804,
+    "tNumRatings": 1,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "5.0"
   },
   {
     "tDept": "Finance",
@@ -11402,7 +11543,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Depetro",
     "tid": 1674655,
-    "tNumRatings": 25,
+    "tNumRatings": 27,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -11710,11 +11851,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "DiMauro",
     "tid": 2501813,
-    "tNumRatings": 8,
+    "tNumRatings": 17,
     "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "2.3"
+    "overall_rating": "1.7"
   },
   {
     "tDept": "Design",
@@ -11843,20 +11984,6 @@ const json_data = [{
     "overall_rating": "5.0"
   },
   {
-    "tDept": "Mathematics",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Jyotsna",
-    "tMiddlename": "",
-    "tLname": "Diwadkar",
-    "tid": 885915,
-    "tNumRatings": 67,
-    "rating_class": "poor",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "2.0"
-  },
-  {
     "tDept": "Statistics",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -11869,6 +11996,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "N/A"
+  },
+  {
+    "tDept": "Mathematics",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Jyotsna",
+    "tMiddlename": "",
+    "tLname": "Diwadkar",
+    "tid": 885915,
+    "tNumRatings": 69,
+    "rating_class": "poor",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "2.0"
   },
   {
     "tDept": "Education",
@@ -12102,11 +12243,11 @@ const json_data = [{
     "tMiddlename": "Kathleen",
     "tLname": "Donald",
     "tid": 2684667,
-    "tNumRatings": 1,
-    "rating_class": "poor",
+    "tNumRatings": 2,
+    "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "2.0"
+    "overall_rating": "3.5"
   },
   {
     "tDept": "English",
@@ -12270,7 +12411,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Dowling",
     "tid": 2007036,
-    "tNumRatings": 41,
+    "tNumRatings": 45,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -12284,11 +12425,11 @@ const json_data = [{
     "tMiddlename": "Clifford",
     "tLname": "Dowty",
     "tid": 2457534,
-    "tNumRatings": 26,
-    "rating_class": "poor",
+    "tNumRatings": 32,
+    "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "2.3"
+    "overall_rating": "2.5"
   },
   {
     "tDept": "Education",
@@ -12312,7 +12453,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Doza",
     "tid": 2011898,
-    "tNumRatings": 17,
+    "tNumRatings": 18,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -12340,7 +12481,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Drake",
     "tid": 2483079,
-    "tNumRatings": 4,
+    "tNumRatings": 5,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -12354,11 +12495,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Drogas",
     "tid": 2169084,
-    "tNumRatings": 6,
-    "rating_class": "average",
+    "tNumRatings": 7,
+    "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.3"
+    "overall_rating": "3.5"
   },
   {
     "tDept": "Mathematics",
@@ -12424,7 +12565,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Duane",
     "tid": 2615465,
-    "tNumRatings": 2,
+    "tNumRatings": 3,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -12466,7 +12607,7 @@ const json_data = [{
     "tMiddlename": "S",
     "tLname": "Duchan",
     "tid": 1807130,
-    "tNumRatings": 39,
+    "tNumRatings": 41,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -12529,20 +12670,6 @@ const json_data = [{
     "overall_rating": "2.9"
   },
   {
-    "tDept": "Literature",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Anne",
-    "tMiddlename": "",
-    "tLname": "Duggan",
-    "tid": 392695,
-    "tNumRatings": 17,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.6"
-  },
-  {
     "tDept": "French",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -12555,6 +12682,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "N/A"
+  },
+  {
+    "tDept": "Literature",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Anne",
+    "tMiddlename": "",
+    "tLname": "Duggan",
+    "tid": 392695,
+    "tNumRatings": 18,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.6"
   },
   {
     "tDept": "French",
@@ -12627,20 +12768,6 @@ const json_data = [{
     "overall_rating": "4.0"
   },
   {
-    "tDept": "English",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Todd",
-    "tMiddlename": "",
-    "tLname": "Duncan",
-    "tid": 155914,
-    "tNumRatings": 45,
-    "rating_class": "average",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "2.9"
-  },
-  {
     "tDept": "Spanish",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -12676,11 +12803,25 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Duncan",
     "tid": 1279634,
-    "tNumRatings": 11,
+    "tNumRatings": 12,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.7"
+    "overall_rating": "3.5"
+  },
+  {
+    "tDept": "English",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Todd",
+    "tMiddlename": "",
+    "tLname": "Duncan",
+    "tid": 155914,
+    "tNumRatings": 46,
+    "rating_class": "average",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "2.9"
   },
   {
     "tDept": "Social Work",
@@ -12718,11 +12859,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Dungy",
     "tid": 2370583,
-    "tNumRatings": 15,
+    "tNumRatings": 17,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.2"
+    "overall_rating": "4.1"
   },
   {
     "tDept": "Education",
@@ -12872,11 +13013,25 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Dutta",
     "tid": 938645,
-    "tNumRatings": 60,
+    "tNumRatings": 61,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "3.2"
+  },
+  {
+    "tDept": "Near Eastern Studies",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Paul",
+    "tMiddlename": "",
+    "tLname": "Dwaihy",
+    "tid": 1895014,
+    "tNumRatings": 1,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "5.0"
   },
   {
     "tDept": "Music",
@@ -12998,11 +13153,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Ebenezer",
     "tid": 1595541,
-    "tNumRatings": 6,
+    "tNumRatings": 7,
     "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "1.5"
+    "overall_rating": "1.4"
   },
   {
     "tDept": "African-American Studies",
@@ -13054,11 +13209,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Edgar",
     "tid": 2450005,
-    "tNumRatings": 3,
+    "tNumRatings": 4,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "5.0"
+    "overall_rating": "4.5"
   },
   {
     "tDept": "English",
@@ -13124,11 +13279,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Eftekhari",
     "tid": 2628338,
-    "tNumRatings": 48,
+    "tNumRatings": 47,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.9"
+    "overall_rating": "4.4"
   },
   {
     "tDept": "Education",
@@ -13143,20 +13298,6 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "4.8"
-  },
-  {
-    "tDept": "English",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Heidi",
-    "tMiddlename": "",
-    "tLname": "Eichbauer",
-    "tid": 129040,
-    "tNumRatings": 22,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "3.6"
   },
   {
     "tDept": "English",
@@ -13215,6 +13356,20 @@ const json_data = [{
     "overall_rating": "2.4"
   },
   {
+    "tDept": "Education",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Andria",
+    "tMiddlename": "",
+    "tLname": "Eisman",
+    "tid": 2757881,
+    "tNumRatings": 0,
+    "rating_class": "zero",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "N/A"
+  },
+  {
     "tDept": "Nursing",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -13227,6 +13382,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "2.8"
+  },
+  {
+    "tDept": "Statistics",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Ahlam",
+    "tMiddlename": "",
+    "tLname": "El Yaman",
+    "tid": 2755879,
+    "tNumRatings": 0,
+    "rating_class": "zero",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "N/A"
   },
   {
     "tDept": "Near Eastern Studies",
@@ -13390,11 +13559,11 @@ const json_data = [{
     "tMiddlename": "Robin",
     "tLname": "Ellis",
     "tid": 2545430,
-    "tNumRatings": 6,
-    "rating_class": "good",
+    "tNumRatings": 7,
+    "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.5"
+    "overall_rating": "3.4"
   },
   {
     "tDept": "Education",
@@ -13418,11 +13587,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Elrick",
     "tid": 2531337,
-    "tNumRatings": 10,
+    "tNumRatings": 12,
     "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "1.6"
+    "overall_rating": "1.5"
   },
   {
     "tDept": "Physics",
@@ -13502,11 +13671,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Emenheiser",
     "tid": 2628588,
-    "tNumRatings": 1,
-    "rating_class": "average",
+    "tNumRatings": 2,
+    "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.0"
+    "overall_rating": "4.0"
   },
   {
     "tDept": "English",
@@ -13530,7 +13699,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Emery",
     "tid": 1474133,
-    "tNumRatings": 36,
+    "tNumRatings": 38,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -13656,11 +13825,11 @@ const json_data = [{
     "tMiddlename": "Swanson",
     "tLname": "Ernst",
     "tid": 2581207,
-    "tNumRatings": 1,
+    "tNumRatings": 2,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "5.0"
+    "overall_rating": "4.0"
   },
   {
     "tDept": "English",
@@ -13838,7 +14007,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Ezzeddine",
     "tid": 542316,
-    "tNumRatings": 24,
+    "tNumRatings": 25,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -14006,7 +14175,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Falvo",
     "tid": 147929,
-    "tNumRatings": 28,
+    "tNumRatings": 30,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -14020,7 +14189,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Fan",
     "tid": 1863947,
-    "tNumRatings": 39,
+    "tNumRatings": 41,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -14048,7 +14217,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Fanselow",
     "tid": 1736692,
-    "tNumRatings": 64,
+    "tNumRatings": 73,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -14160,11 +14329,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Farrell",
     "tid": 2518860,
-    "tNumRatings": 8,
+    "tNumRatings": 10,
     "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "2.1"
+    "overall_rating": "2.3"
   },
   {
     "tDept": "Humanities",
@@ -14300,11 +14469,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Fayz",
     "tid": 2035184,
-    "tNumRatings": 26,
+    "tNumRatings": 27,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.2"
+    "overall_rating": "4.3"
   },
   {
     "tDept": "Engineering",
@@ -14440,11 +14609,11 @@ const json_data = [{
     "tMiddlename": "Mae",
     "tLname": "Feltner",
     "tid": 2562384,
-    "tNumRatings": 2,
+    "tNumRatings": 3,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.5"
+    "overall_rating": "4.0"
   },
   {
     "tDept": "Economics",
@@ -14762,7 +14931,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Fino",
     "tid": 229163,
-    "tNumRatings": 117,
+    "tNumRatings": 119,
     "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -14804,11 +14973,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Fischer",
     "tid": 2553055,
-    "tNumRatings": 3,
+    "tNumRatings": 4,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.0"
+    "overall_rating": "3.5"
   },
   {
     "tDept": "Psychology",
@@ -14818,7 +14987,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Fischer",
     "tid": 308098,
-    "tNumRatings": 139,
+    "tNumRatings": 147,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -14837,6 +15006,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "3.4"
+  },
+  {
+    "tDept": "Psychology",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": ".",
+    "tMiddlename": "",
+    "tLname": "Fishcer",
+    "tid": 1042158,
+    "tNumRatings": 2,
+    "rating_class": "average",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "3.0"
   },
   {
     "tDept": "Economics",
@@ -14888,7 +15071,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Fisher",
     "tid": 2659551,
-    "tNumRatings": 1,
+    "tNumRatings": 5,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -14958,11 +15141,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Flaherty ",
     "tid": 2013496,
-    "tNumRatings": 21,
+    "tNumRatings": 28,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.1"
+    "overall_rating": "2.8"
   },
   {
     "tDept": "English",
@@ -15005,6 +15188,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "N/A"
+  },
+  {
+    "tDept": "History",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Alex",
+    "tMiddlename": "",
+    "tLname": "Fleet",
+    "tid": 2751678,
+    "tNumRatings": 7,
+    "rating_class": "poor",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "1.6"
   },
   {
     "tDept": "Communication",
@@ -15399,20 +15596,6 @@ const json_data = [{
     "overall_rating": "2.8"
   },
   {
-    "tDept": "Nursing",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Judith",
-    "tMiddlename": "",
-    "tLname": "Fouladbakhsh",
-    "tid": 1217212,
-    "tNumRatings": 2,
-    "rating_class": "average",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "2.8"
-  },
-  {
     "tDept": "History",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -15420,7 +15603,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Fowler",
     "tid": 1257021,
-    "tNumRatings": 37,
+    "tNumRatings": 38,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -15630,11 +15813,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Franklin",
     "tid": 1112186,
-    "tNumRatings": 31,
+    "tNumRatings": 34,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.0"
+    "overall_rating": "2.8"
   },
   {
     "tDept": "Psychology",
@@ -15658,11 +15841,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Frazier",
     "tid": 2313546,
-    "tNumRatings": 13,
-    "rating_class": "good",
+    "tNumRatings": 17,
+    "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.5"
+    "overall_rating": "3.1"
   },
   {
     "tDept": "Sports Science",
@@ -15677,6 +15860,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "5.0"
+  },
+  {
+    "tDept": "Biology",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "D. Carl",
+    "tMiddlename": "",
+    "tLname": "Freeman",
+    "tid": 193179,
+    "tNumRatings": 81,
+    "rating_class": "average",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "3.1"
   },
   {
     "tDept": "English",
@@ -15728,7 +15925,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Friedrich",
     "tid": 412639,
-    "tNumRatings": 58,
+    "tNumRatings": 59,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -15742,11 +15939,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Friesen",
     "tid": 2043622,
-    "tNumRatings": 13,
+    "tNumRatings": 14,
     "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "2.1"
+    "overall_rating": "2.0"
   },
   {
     "tDept": "Sociology",
@@ -15789,6 +15986,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "3.2"
+  },
+  {
+    "tDept": "Freshman Seminar",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Cherise",
+    "tMiddlename": "",
+    "tLname": "Frost",
+    "tid": 2741976,
+    "tNumRatings": 1,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.0"
   },
   {
     "tDept": "History",
@@ -15868,11 +16079,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Fuhlhage",
     "tid": 1960667,
-    "tNumRatings": 19,
-    "rating_class": "average",
+    "tNumRatings": 23,
+    "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.3"
+    "overall_rating": "3.6"
   },
   {
     "tDept": "Education",
@@ -15959,18 +16170,18 @@ const json_data = [{
     "overall_rating": "4.4"
   },
   {
-    "tDept": "Mathematics",
+    "tDept": "Social Work",
     "tSid": "1150",
     "institution_name": "Wayne State University",
-    "tFname": "Andre",
+    "tFname": "Diane",
     "tMiddlename": "",
-    "tLname": "Furtado",
-    "tid": 1352655,
-    "tNumRatings": 61,
+    "tLname": "Fuselier-Thompson",
+    "tid": 2752812,
+    "tNumRatings": 1,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.4"
+    "overall_rating": "4.0"
   },
   {
     "tDept": "History",
@@ -15994,11 +16205,25 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Gable",
     "tid": 2215107,
-    "tNumRatings": 2,
-    "rating_class": "good",
+    "tNumRatings": 3,
+    "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.5"
+    "overall_rating": "2.7"
+  },
+  {
+    "tDept": "Psychology",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Kiran",
+    "tMiddlename": "",
+    "tLname": "Gafa",
+    "tid": 2756177,
+    "tNumRatings": 0,
+    "rating_class": "zero",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "N/A"
   },
   {
     "tDept": "Not Specified",
@@ -16239,20 +16464,6 @@ const json_data = [{
     "overall_rating": "3.0"
   },
   {
-    "tDept": "Spanish",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Hernan",
-    "tMiddlename": "",
-    "tLname": "Garcia",
-    "tid": 1713286,
-    "tNumRatings": 10,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.3"
-  },
-  {
     "tDept": "Psychology",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -16265,6 +16476,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "5.0"
+  },
+  {
+    "tDept": "Spanish",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Hernan",
+    "tMiddlename": "",
+    "tLname": "Garcia",
+    "tid": 1713286,
+    "tNumRatings": 11,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.2"
   },
   {
     "tDept": "Education",
@@ -16470,11 +16695,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Gaule",
     "tid": 1943795,
-    "tNumRatings": 27,
+    "tNumRatings": 29,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.7"
+    "overall_rating": "3.5"
   },
   {
     "tDept": "Pharmacy",
@@ -16485,10 +16710,10 @@ const json_data = [{
     "tLname": "Gavande",
     "tid": 2715903,
     "tNumRatings": 1,
-    "rating_class": "average",
+    "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.0"
+    "overall_rating": "5.0"
   },
   {
     "tDept": "Physics",
@@ -16624,11 +16849,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Geiger",
     "tid": 2612749,
-    "tNumRatings": 0,
-    "rating_class": "zero",
+    "tNumRatings": 8,
+    "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "N/A"
+    "overall_rating": "1.0"
   },
   {
     "tDept": "Criminal Justice",
@@ -16785,18 +17010,18 @@ const json_data = [{
     "overall_rating": "5.0"
   },
   {
-    "tDept": "Anthropology",
+    "tDept": "Psychology",
     "tSid": "1150",
     "institution_name": "Wayne State University",
-    "tFname": "Felicia",
+    "tFname": "Hallie",
     "tMiddlename": "",
     "tLname": "George",
-    "tid": 1918947,
-    "tNumRatings": 16,
+    "tid": 2277882,
+    "tNumRatings": 2,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.8"
+    "overall_rating": "5.0"
   },
   {
     "tDept": "Engineering",
@@ -16825,6 +17050,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "5.0"
+  },
+  {
+    "tDept": "Anthropology",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Felicia",
+    "tMiddlename": "",
+    "tLname": "George",
+    "tid": 1918947,
+    "tNumRatings": 17,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.8"
   },
   {
     "tDept": "Spanish",
@@ -16932,11 +17171,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Ghaffari",
     "tid": 2445109,
-    "tNumRatings": 3,
-    "rating_class": "poor",
+    "tNumRatings": 4,
+    "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "2.3"
+    "overall_rating": "3.0"
   },
   {
     "tDept": "Computer Science",
@@ -17016,7 +17255,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Gholam-Abbas",
     "tid": 2175283,
-    "tNumRatings": 11,
+    "tNumRatings": 13,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -17030,11 +17269,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Gholami",
     "tid": 2635119,
-    "tNumRatings": 0,
-    "rating_class": "zero",
+    "tNumRatings": 1,
+    "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "N/A"
+    "overall_rating": "4.0"
   },
   {
     "tDept": "Engineering",
@@ -17072,25 +17311,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Gibbs",
     "tid": 2344892,
-    "tNumRatings": 9,
+    "tNumRatings": 13,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.5"
-  },
-  {
-    "tDept": "Management",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Jerome",
-    "tMiddlename": "",
-    "tLname": "Gibbs",
-    "tid": 2344892,
-    "tNumRatings": 9,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.5"
+    "overall_rating": "4.2"
   },
   {
     "tDept": "Biological Sciences",
@@ -17110,11 +17335,25 @@ const json_data = [{
     "tDept": "History",
     "tSid": "1150",
     "institution_name": "Wayne State University",
+    "tFname": "Patricia",
+    "tMiddlename": "",
+    "tLname": "Gidlow",
+    "tid": 2745488,
+    "tNumRatings": 0,
+    "rating_class": "zero",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "N/A"
+  },
+  {
+    "tDept": "History",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
     "tFname": "Liette",
     "tMiddlename": "",
     "tLname": "Gidlow",
     "tid": 979547,
-    "tNumRatings": 29,
+    "tNumRatings": 31,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -17156,7 +17395,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Gillham",
     "tid": 1240741,
-    "tNumRatings": 32,
+    "tNumRatings": 35,
     "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -17198,11 +17437,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Giorgini-Althoen",
     "tid": 2512740,
-    "tNumRatings": 0,
-    "rating_class": "zero",
+    "tNumRatings": 2,
+    "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "N/A"
+    "overall_rating": "3.0"
   },
   {
     "tDept": "Sociology",
@@ -17359,6 +17598,20 @@ const json_data = [{
     "overall_rating": "2.8"
   },
   {
+    "tDept": "Art",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Kerry",
+    "tMiddlename": "",
+    "tLname": "Gluckman",
+    "tid": 1782921,
+    "tNumRatings": 2,
+    "rating_class": "poor",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "1.0"
+  },
+  {
     "tDept": "Physics",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -17408,11 +17661,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Goedekke",
     "tid": 2681651,
-    "tNumRatings": 2,
+    "tNumRatings": 3,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "5.0"
+    "overall_rating": "4.7"
   },
   {
     "tDept": "Computer Science",
@@ -17422,7 +17675,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Goel",
     "tid": 534959,
-    "tNumRatings": 73,
+    "tNumRatings": 76,
     "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -17492,11 +17745,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Goldberg",
     "tid": 1085363,
-    "tNumRatings": 12,
+    "tNumRatings": 13,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.4"
+    "overall_rating": "4.5"
   },
   {
     "tDept": "Political Science",
@@ -17562,7 +17815,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Golenberg",
     "tid": 353395,
-    "tNumRatings": 99,
+    "tNumRatings": 101,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -17576,7 +17829,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Goletz",
     "tid": 2487543,
-    "tNumRatings": 6,
+    "tNumRatings": 7,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -17632,25 +17885,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Gonzales",
     "tid": 1717285,
-    "tNumRatings": 7,
+    "tNumRatings": 8,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.7"
-  },
-  {
-    "tDept": "Education",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Sandra",
-    "tMiddlename": "",
-    "tLname": "Gonzales",
-    "tid": 1717285,
-    "tNumRatings": 7,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.7"
+    "overall_rating": "4.5"
   },
   {
     "tDept": "Social Work",
@@ -17814,7 +18053,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Gottfried",
     "tid": 1297318,
-    "tNumRatings": 22,
+    "tNumRatings": 25,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -17996,11 +18235,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Graziana",
     "tid": 2357768,
-    "tNumRatings": 7,
+    "tNumRatings": 8,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.4"
+    "overall_rating": "4.5"
   },
   {
     "tDept": "Business Administration",
@@ -18136,7 +18375,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Grekin",
     "tid": 886311,
-    "tNumRatings": 23,
+    "tNumRatings": 24,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -18199,6 +18438,20 @@ const json_data = [{
     "overall_rating": "4.2"
   },
   {
+    "tDept": "Languages",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Darlynn",
+    "tMiddlename": "",
+    "tLname": "Griffin",
+    "tid": 650071,
+    "tNumRatings": 10,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.2"
+  },
+  {
     "tDept": "Music",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -18248,7 +18501,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Grogan",
     "tid": 1072378,
-    "tNumRatings": 42,
+    "tNumRatings": 43,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -18276,7 +18529,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Gromak",
     "tid": 1634353,
-    "tNumRatings": 19,
+    "tNumRatings": 20,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -18444,7 +18697,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Gu",
     "tid": 1798683,
-    "tNumRatings": 62,
+    "tNumRatings": 63,
     "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -18752,11 +19005,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Habel",
     "tid": 1935009,
-    "tNumRatings": 40,
+    "tNumRatings": 45,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "2.6"
+    "overall_rating": "2.7"
   },
   {
     "tDept": "Medicine",
@@ -18801,6 +19054,20 @@ const json_data = [{
     "overall_rating": "5.0"
   },
   {
+    "tDept": "Physics",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Maxx",
+    "tMiddlename": "",
+    "tLname": "Haehn",
+    "tid": 2762902,
+    "tNumRatings": 1,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "5.0"
+  },
+  {
     "tDept": "Fine Arts",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -18822,7 +19089,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Hagaman",
     "tid": 2439399,
-    "tNumRatings": 2,
+    "tNumRatings": 4,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -19011,6 +19278,20 @@ const json_data = [{
     "overall_rating": "4.4"
   },
   {
+    "tDept": "Social Work",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Michele",
+    "tMiddlename": "",
+    "tLname": "Hall",
+    "tid": 2739704,
+    "tNumRatings": 1,
+    "rating_class": "poor",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "2.0"
+  },
+  {
     "tDept": "Political Science",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -19018,11 +19299,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Hall",
     "tid": 2630482,
-    "tNumRatings": 3,
+    "tNumRatings": 4,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.3"
+    "overall_rating": "4.5"
   },
   {
     "tDept": "Biological Sciences",
@@ -19158,7 +19439,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Hamilton",
     "tid": 2209554,
-    "tNumRatings": 17,
+    "tNumRatings": 19,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -19270,7 +19551,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Hankin",
     "tid": 407507,
-    "tNumRatings": 33,
+    "tNumRatings": 36,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -19284,11 +19565,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Hanlon-Lundberg",
     "tid": 2234930,
-    "tNumRatings": 10,
+    "tNumRatings": 13,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.2"
+    "overall_rating": "3.5"
   },
   {
     "tDept": "Library & Information Science",
@@ -19529,6 +19810,20 @@ const json_data = [{
     "overall_rating": "4.0"
   },
   {
+    "tDept": "Biological Sciences",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Hanaa",
+    "tMiddlename": "",
+    "tLname": "Hariri",
+    "tid": 2760972,
+    "tNumRatings": 0,
+    "rating_class": "zero",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "N/A"
+  },
+  {
     "tDept": "Philosophy",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -19568,7 +19863,7 @@ const json_data = [{
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "2.7"
+    "overall_rating": "2.8"
   },
   {
     "tDept": "Engineering",
@@ -19599,20 +19894,6 @@ const json_data = [{
     "overall_rating": "3.8"
   },
   {
-    "tDept": "Engineering",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Carolyn",
-    "tMiddlename": "",
-    "tLname": "Harris",
-    "tid": 2533811,
-    "tNumRatings": 4,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.0"
-  },
-  {
     "tDept": "Nursing",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -19625,6 +19906,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "3.2"
+  },
+  {
+    "tDept": "Engineering",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Carolyn",
+    "tMiddlename": "",
+    "tLname": "Harris",
+    "tid": 2533811,
+    "tNumRatings": 5,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.2"
   },
   {
     "tDept": "Communication",
@@ -19788,11 +20083,11 @@ const json_data = [{
     "tMiddlename": "J",
     "tLname": "Hart",
     "tid": 2665751,
-    "tNumRatings": 0,
-    "rating_class": "zero",
+    "tNumRatings": 3,
+    "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "N/A"
+    "overall_rating": "5.0"
   },
   {
     "tDept": "Communication",
@@ -19879,20 +20174,6 @@ const json_data = [{
     "overall_rating": "3.5"
   },
   {
-    "tDept": "Computer Science",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Khayyam",
-    "tMiddlename": "I.",
-    "tLname": "Hashmi",
-    "tid": 1758892,
-    "tNumRatings": 26,
-    "rating_class": "average",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "3.5"
-  },
-  {
     "tDept": "Sociology",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -19914,7 +20195,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Hassoun",
     "tid": 330487,
-    "tNumRatings": 120,
+    "tNumRatings": 122,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -19956,11 +20237,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Hatley",
     "tid": 1335751,
-    "tNumRatings": 37,
+    "tNumRatings": 39,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.1"
+    "overall_rating": "4.0"
   },
   {
     "tDept": "Women's Studies",
@@ -19984,7 +20265,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Hauff",
     "tid": 2251902,
-    "tNumRatings": 5,
+    "tNumRatings": 9,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -19998,7 +20279,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Hayden",
     "tid": 2336049,
-    "tNumRatings": 3,
+    "tNumRatings": 4,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -20152,11 +20433,25 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Hearn",
     "tid": 1231584,
-    "tNumRatings": 4,
+    "tNumRatings": 5,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "3.7"
+  },
+  {
+    "tDept": "Biology",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Garrett",
+    "tMiddlename": "",
+    "tLname": "Heberlein",
+    "tid": 158716,
+    "tNumRatings": 36,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.4"
+    "overall_rating": "2.6"
   },
   {
     "tDept": "Mathematics",
@@ -20208,11 +20503,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Heinrichs",
     "tid": 137234,
-    "tNumRatings": 27,
+    "tNumRatings": 28,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.5"
+    "overall_rating": "3.6"
   },
   {
     "tDept": "Psychology",
@@ -20292,11 +20587,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Hendrickson",
     "tid": 1435499,
-    "tNumRatings": 33,
+    "tNumRatings": 34,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "2.7"
+    "overall_rating": "2.8"
   },
   {
     "tDept": "Speech & Hearing Sciences",
@@ -20404,11 +20699,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Hernandez",
     "tid": 2450640,
-    "tNumRatings": 4,
-    "rating_class": "good",
+    "tNumRatings": 7,
+    "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.5"
+    "overall_rating": "3.0"
   },
   {
     "tDept": "Political Science",
@@ -20418,7 +20713,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Herring",
     "tid": 330383,
-    "tNumRatings": 27,
+    "tNumRatings": 31,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -20530,7 +20825,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Hickey",
     "tid": 2527929,
-    "tNumRatings": 26,
+    "tNumRatings": 34,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -20544,11 +20839,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Hickling",
     "tid": 2554724,
-    "tNumRatings": 7,
+    "tNumRatings": 10,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.4"
+    "overall_rating": "4.3"
   },
   {
     "tDept": "Social Work",
@@ -20586,7 +20881,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Hicks",
     "tid": 2552238,
-    "tNumRatings": 2,
+    "tNumRatings": 3,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -20703,20 +20998,6 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "N/A"
-  },
-  {
-    "tDept": "Spanish",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Mackenzie",
-    "tMiddlename": "",
-    "tLname": "Hill",
-    "tid": 2304990,
-    "tNumRatings": 5,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.6"
   },
   {
     "tDept": "Spanish",
@@ -20887,6 +21168,20 @@ const json_data = [{
     "overall_rating": "5.0"
   },
   {
+    "tDept": "Physics",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Hoai Anh",
+    "tMiddlename": "",
+    "tLname": "Ho",
+    "tid": 2762895,
+    "tNumRatings": 1,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "5.0"
+  },
+  {
     "tDept": "Mathematics",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -20936,11 +21231,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Hochstadt",
     "tid": 1322277,
-    "tNumRatings": 96,
+    "tNumRatings": 117,
     "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "2.0"
+    "overall_rating": "1.9"
   },
   {
     "tDept": "Languages",
@@ -21034,7 +21329,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Hohauser-Thatcher",
     "tid": 2586482,
-    "tNumRatings": 3,
+    "tNumRatings": 4,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -21146,11 +21441,11 @@ const json_data = [{
     "tMiddlename": "Rattner",
     "tLname": "Hollinshead",
     "tid": 2530538,
-    "tNumRatings": 4,
+    "tNumRatings": 5,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.3"
+    "overall_rating": "3.4"
   },
   {
     "tDept": "Education",
@@ -21160,11 +21455,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Holly",
     "tid": 2552574,
-    "tNumRatings": 6,
+    "tNumRatings": 7,
     "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "1.5"
+    "overall_rating": "1.4"
   },
   {
     "tDept": "Sociology",
@@ -21279,18 +21574,18 @@ const json_data = [{
     "overall_rating": "5.0"
   },
   {
-    "tDept": "Biological Sciences",
+    "tDept": "Criminal Justice",
     "tSid": "1150",
     "institution_name": "Wayne State University",
-    "tFname": "Glen",
+    "tFname": "Alanna",
     "tMiddlename": "",
-    "tLname": "Hood",
-    "tid": 2580110,
-    "tNumRatings": 2,
-    "rating_class": "average",
+    "tLname": "Honkanen",
+    "tid": 2285313,
+    "tNumRatings": 1,
+    "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.0"
+    "overall_rating": "5.0"
   },
   {
     "tDept": "Marketing",
@@ -21300,11 +21595,25 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Hood",
     "tid": 1716445,
-    "tNumRatings": 28,
+    "tNumRatings": 29,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "2.7"
+    "overall_rating": "2.6"
+  },
+  {
+    "tDept": "Biological Sciences",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Glen",
+    "tMiddlename": "",
+    "tLname": "Hood",
+    "tid": 2580110,
+    "tNumRatings": 10,
+    "rating_class": "average",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "2.8"
   },
   {
     "tDept": "English",
@@ -21468,7 +21777,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Horner",
     "tid": 254862,
-    "tNumRatings": 83,
+    "tNumRatings": 85,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -21496,11 +21805,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Horwitz",
     "tid": 2603244,
-    "tNumRatings": 6,
+    "tNumRatings": 7,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.0"
+    "overall_rating": "3.9"
   },
   {
     "tDept": "Accounting",
@@ -21538,11 +21847,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Howe",
     "tid": 2620004,
-    "tNumRatings": 4,
+    "tNumRatings": 5,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.0"
+    "overall_rating": "3.4"
   },
   {
     "tDept": "Health Science",
@@ -21622,25 +21931,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Hsieh",
     "tid": 1267297,
-    "tNumRatings": 18,
+    "tNumRatings": 19,
     "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "1.8"
-  },
-  {
-    "tDept": "Mathematics",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Po",
-    "tMiddlename": "",
-    "tLname": "Hu",
-    "tid": 382599,
-    "tNumRatings": 73,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.5"
+    "overall_rating": "1.9"
   },
   {
     "tDept": "Economics",
@@ -21655,6 +21950,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "2.6"
+  },
+  {
+    "tDept": "Mathematics",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Po",
+    "tMiddlename": "",
+    "tLname": "Hu",
+    "tid": 382599,
+    "tNumRatings": 74,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.5"
   },
   {
     "tDept": "Computer Science",
@@ -21699,20 +22008,6 @@ const json_data = [{
     "overall_rating": "3.4"
   },
   {
-    "tDept": "Physics",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Zhifeng",
-    "tMiddlename": "",
-    "tLname": "Huang",
-    "tid": 1164632,
-    "tNumRatings": 10,
-    "rating_class": "average",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "3.1"
-  },
-  {
     "tDept": "Psychology",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -21725,34 +22020,6 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "2.9"
-  },
-  {
-    "tDept": "Education",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Christine",
-    "tMiddlename": "",
-    "tLname": "Huang",
-    "tid": 2521501,
-    "tNumRatings": 1,
-    "rating_class": "poor",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "2.0"
-  },
-  {
-    "tDept": "Mathematics",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Tao",
-    "tMiddlename": "",
-    "tLname": "Huang",
-    "tid": 2506419,
-    "tNumRatings": 4,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "3.7"
   },
   {
     "tDept": "Physics",
@@ -21769,6 +22036,20 @@ const json_data = [{
     "overall_rating": "N/A"
   },
   {
+    "tDept": "Education",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Christine",
+    "tMiddlename": "",
+    "tLname": "Huang",
+    "tid": 2521501,
+    "tNumRatings": 2,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "3.5"
+  },
+  {
     "tDept": "Physics",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -21776,11 +22057,39 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Huang",
     "tid": 2726779,
-    "tNumRatings": 3,
+    "tNumRatings": 5,
     "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "1.0"
+  },
+  {
+    "tDept": "Physics",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Zhifeng",
+    "tMiddlename": "",
+    "tLname": "Huang",
+    "tid": 1164632,
+    "tNumRatings": 12,
+    "rating_class": "average",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "3.2"
+  },
+  {
+    "tDept": "Mathematics",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Tao",
+    "tMiddlename": "",
+    "tLname": "Huang",
+    "tid": 2506419,
+    "tNumRatings": 10,
+    "rating_class": "poor",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "2.2"
   },
   {
     "tDept": "Literature",
@@ -21823,20 +22132,6 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "2.7"
-  },
-  {
-    "tDept": "Biology",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Sarah",
-    "tMiddlename": "",
-    "tLname": "Hueni",
-    "tid": 801580,
-    "tNumRatings": 0,
-    "rating_class": "zero",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "N/A"
   },
   {
     "tDept": "Biology",
@@ -22014,7 +22309,7 @@ const json_data = [{
     "tMiddlename": "Alam",
     "tLname": "Husain",
     "tid": 2295252,
-    "tNumRatings": 4,
+    "tNumRatings": 5,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -22161,6 +22456,20 @@ const json_data = [{
     "overall_rating": "5.0"
   },
   {
+    "tDept": "Statistics",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Sa-ad",
+    "tMiddlename": "",
+    "tLname": "Iddrisu",
+    "tid": 2745892,
+    "tNumRatings": 0,
+    "rating_class": "zero",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "N/A"
+  },
+  {
     "tDept": "Economics",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -22168,11 +22477,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Iddrisu",
     "tid": 2190824,
-    "tNumRatings": 37,
+    "tNumRatings": 38,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.6"
+    "overall_rating": "3.5"
   },
   {
     "tDept": "Business Administration",
@@ -22266,7 +22575,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Iqbal",
     "tid": 2591086,
-    "tNumRatings": 7,
+    "tNumRatings": 10,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -22299,6 +22608,34 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "4.2"
+  },
+  {
+    "tDept": "Social Science",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Kirsty",
+    "tMiddlename": "",
+    "tLname": "Ironside",
+    "tid": 2740694,
+    "tNumRatings": 0,
+    "rating_class": "zero",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "N/A"
+  },
+  {
+    "tDept": "Philosophy",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Kristy",
+    "tMiddlename": "",
+    "tLname": "Ironside",
+    "tid": 2736846,
+    "tNumRatings": 3,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "3.7"
   },
   {
     "tDept": "Mathematics",
@@ -22369,6 +22706,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "2.2"
+  },
+  {
+    "tDept": "Communication",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Khairul",
+    "tMiddlename": "",
+    "tLname": "Islam",
+    "tid": 2735616,
+    "tNumRatings": 1,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "5.0"
   },
   {
     "tDept": "Education",
@@ -22504,11 +22855,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Jaber",
     "tid": 2644461,
-    "tNumRatings": 0,
-    "rating_class": "zero",
+    "tNumRatings": 2,
+    "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "N/A"
+    "overall_rating": "5.0"
   },
   {
     "tDept": "Languages",
@@ -22518,7 +22869,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Jaber",
     "tid": 1088448,
-    "tNumRatings": 61,
+    "tNumRatings": 62,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -22537,20 +22888,6 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "5.0"
-  },
-  {
-    "tDept": "English",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Ken",
-    "tMiddlename": "",
-    "tLname": "Jackson",
-    "tid": 386079,
-    "tNumRatings": 32,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.5"
   },
   {
     "tDept": "Education",
@@ -22630,11 +22967,25 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Jackson",
     "tid": 2231048,
-    "tNumRatings": 3,
+    "tNumRatings": 4,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "5.0"
+    "overall_rating": "4.3"
+  },
+  {
+    "tDept": "English",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Ken",
+    "tMiddlename": "",
+    "tLname": "Jackson",
+    "tid": 386079,
+    "tNumRatings": 33,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.5"
   },
   {
     "tDept": "Education",
@@ -22651,20 +23002,6 @@ const json_data = [{
     "overall_rating": "5.0"
   },
   {
-    "tDept": "Sociology",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Michelle",
-    "tMiddlename": "",
-    "tLname": "Jacobs",
-    "tid": 1967048,
-    "tNumRatings": 26,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.3"
-  },
-  {
     "tDept": "Media Arts",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -22677,6 +23014,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "3.5"
+  },
+  {
+    "tDept": "Sociology",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Michelle",
+    "tMiddlename": "",
+    "tLname": "Jacobs",
+    "tid": 1967048,
+    "tNumRatings": 31,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.3"
   },
   {
     "tDept": "Social Work",
@@ -22959,6 +23310,20 @@ const json_data = [{
     "overall_rating": "3.6"
   },
   {
+    "tDept": "Engineering",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Jeffrey",
+    "tMiddlename": "",
+    "tLname": "Jarvis",
+    "tid": 1467757,
+    "tNumRatings": 1,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.5"
+  },
+  {
     "tDept": "Sociology",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -23022,11 +23387,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Jayawardana",
     "tid": 2490445,
-    "tNumRatings": 2,
+    "tNumRatings": 3,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "2.5"
+    "overall_rating": "3.0"
   },
   {
     "tDept": "Computer Science",
@@ -23036,11 +23401,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Jayyousi",
     "tid": 1833036,
-    "tNumRatings": 39,
+    "tNumRatings": 42,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "2.9"
+    "overall_rating": "3.0"
   },
   {
     "tDept": "Communication",
@@ -23134,11 +23499,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Jenkins",
     "tid": 2553320,
-    "tNumRatings": 3,
+    "tNumRatings": 4,
     "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "1.3"
+    "overall_rating": "2.0"
   },
   {
     "tDept": "Computer Science",
@@ -23239,20 +23604,6 @@ const json_data = [{
     "overall_rating": "4.8"
   },
   {
-    "tDept": "English",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Matthew",
-    "tMiddlename": "",
-    "tLname": "Jewell",
-    "tid": 2532300,
-    "tNumRatings": 10,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.8"
-  },
-  {
     "tDept": "Finance",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -23260,11 +23611,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Jha",
     "tid": 2234256,
-    "tNumRatings": 10,
+    "tNumRatings": 11,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.1"
+    "overall_rating": "4.2"
   },
   {
     "tDept": "Nutrition",
@@ -23365,6 +23716,20 @@ const json_data = [{
     "overall_rating": "4.8"
   },
   {
+    "tDept": "Political Science",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Odnell",
+    "tMiddlename": "",
+    "tLname": "jim",
+    "tid": 2764481,
+    "tNumRatings": 0,
+    "rating_class": "zero",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "N/A"
+  },
+  {
     "tDept": "Health & Physical Education",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -23442,11 +23807,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Johns",
     "tid": 2234928,
-    "tNumRatings": 15,
+    "tNumRatings": 16,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.8"
+    "overall_rating": "3.9"
   },
   {
     "tDept": "Design",
@@ -23517,6 +23882,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "2.0"
+  },
+  {
+    "tDept": "English",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Kemael",
+    "tMiddlename": "",
+    "tLname": "Johnson",
+    "tid": 1909894,
+    "tNumRatings": 10,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.8"
   },
   {
     "tDept": "Marketing",
@@ -23701,20 +24080,6 @@ const json_data = [{
     "overall_rating": "3.0"
   },
   {
-    "tDept": "Psychology",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Lara",
-    "tMiddlename": "",
-    "tLname": "Jones",
-    "tid": 1311451,
-    "tNumRatings": 39,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "3.5"
-  },
-  {
     "tDept": "Accounting",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -23722,11 +24087,39 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Jones",
     "tid": 415639,
-    "tNumRatings": 104,
+    "tNumRatings": 105,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "3.3"
+  },
+  {
+    "tDept": "Psychology",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Lara",
+    "tMiddlename": "",
+    "tLname": "Jones",
+    "tid": 1311451,
+    "tNumRatings": 42,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "3.5"
+  },
+  {
+    "tDept": "Mathematics",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Charlene",
+    "tMiddlename": "",
+    "tLname": "Jones",
+    "tid": 2735283,
+    "tNumRatings": 2,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "3.5"
   },
   {
     "tDept": "Fashion",
@@ -23862,11 +24255,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Joshwa",
     "tid": 2543557,
-    "tNumRatings": 1,
-    "rating_class": "poor",
+    "tNumRatings": 3,
+    "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "2.0"
+    "overall_rating": "3.0"
   },
   {
     "tDept": "Economics",
@@ -24023,6 +24416,20 @@ const json_data = [{
     "overall_rating": "2.5"
   },
   {
+    "tDept": "Criminal Justice",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Mark",
+    "tMiddlename": "",
+    "tLname": "Kachar",
+    "tid": 2741141,
+    "tNumRatings": 1,
+    "rating_class": "average",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "3.0"
+  },
+  {
     "tDept": "Theatre & Dance",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -24063,20 +24470,6 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "5.0"
-  },
-  {
-    "tDept": "Social Work",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Angela",
-    "tMiddlename": "",
-    "tLname": "Kaiser",
-    "tid": 1383891,
-    "tNumRatings": 2,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.8"
   },
   {
     "tDept": "Social Work",
@@ -24639,6 +25032,20 @@ const json_data = [{
     "overall_rating": "3.3"
   },
   {
+    "tDept": "Biological Sciences",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Rani",
+    "tMiddlename": "",
+    "tLname": "Kattoula",
+    "tid": 1835500,
+    "tNumRatings": 6,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "5.0"
+  },
+  {
     "tDept": "Spanish",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -24646,11 +25053,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Kauffmann",
     "tid": 1785798,
-    "tNumRatings": 11,
+    "tNumRatings": 12,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.0"
+    "overall_rating": "3.8"
   },
   {
     "tDept": "Physics",
@@ -24877,6 +25284,20 @@ const json_data = [{
     "overall_rating": "3.3"
   },
   {
+    "tDept": "Business",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "William",
+    "tMiddlename": "",
+    "tLname": "Kelly",
+    "tid": 2761664,
+    "tNumRatings": 1,
+    "rating_class": "poor",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "1.0"
+  },
+  {
     "tDept": "Physics",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -24884,11 +25305,11 @@ const json_data = [{
     "tMiddlename": "V.",
     "tLname": "Kelly",
     "tid": 2475066,
-    "tNumRatings": 1,
-    "rating_class": "poor",
+    "tNumRatings": 6,
+    "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "2.0"
+    "overall_rating": "2.8"
   },
   {
     "tDept": "Sociology",
@@ -24982,11 +25403,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Kenney",
     "tid": 2512981,
-    "tNumRatings": 19,
+    "tNumRatings": 21,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "2.9"
+    "overall_rating": "3.1"
   },
   {
     "tDept": "Mathematics",
@@ -25094,7 +25515,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Kershaw",
     "tid": 2177228,
-    "tNumRatings": 17,
+    "tNumRatings": 18,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -25108,11 +25529,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Kessel",
     "tid": 2454539,
-    "tNumRatings": 21,
+    "tNumRatings": 24,
     "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "2.1"
+    "overall_rating": "2.2"
   },
   {
     "tDept": "Supply Chain Management",
@@ -25122,11 +25543,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Ketels",
     "tid": 1080397,
-    "tNumRatings": 40,
+    "tNumRatings": 41,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.8"
+    "overall_rating": "3.9"
   },
   {
     "tDept": "Physiology",
@@ -25164,11 +25585,11 @@ const json_data = [{
     "tMiddlename": "R",
     "tLname": "Kettles",
     "tid": 1894999,
-    "tNumRatings": 5,
+    "tNumRatings": 7,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.6"
+    "overall_rating": "4.0"
   },
   {
     "tDept": "Psychology",
@@ -25199,20 +25620,6 @@ const json_data = [{
     "overall_rating": "3.4"
   },
   {
-    "tDept": "Physics",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Paul",
-    "tMiddlename": "",
-    "tLname": "Keyes",
-    "tid": 408944,
-    "tNumRatings": 7,
-    "rating_class": "average",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "3.4"
-  },
-  {
     "tDept": "Social Work",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -25220,11 +25627,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Keys",
     "tid": 2164632,
-    "tNumRatings": 5,
+    "tNumRatings": 6,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.2"
+    "overall_rating": "4.3"
   },
   {
     "tDept": "English",
@@ -25304,7 +25711,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Khan",
     "tid": 538709,
-    "tNumRatings": 92,
+    "tNumRatings": 91,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -25353,6 +25760,20 @@ const json_data = [{
     "overall_rating": "N/A"
   },
   {
+    "tDept": "Social Work",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Athena",
+    "tMiddlename": "",
+    "tLname": "Kheibari",
+    "tid": 2731751,
+    "tNumRatings": 1,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.0"
+  },
+  {
     "tDept": "Engineering",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -25374,11 +25795,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Khosla",
     "tid": 645013,
-    "tNumRatings": 22,
+    "tNumRatings": 23,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.7"
+    "overall_rating": "3.6"
   },
   {
     "tDept": "Mathematics",
@@ -25388,7 +25809,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Khurram",
     "tid": 2051166,
-    "tNumRatings": 62,
+    "tNumRatings": 72,
     "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -25407,6 +25828,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "5.0"
+  },
+  {
+    "tDept": "History",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Williams",
+    "tMiddlename": "",
+    "tLname": "Kidada",
+    "tid": 2733861,
+    "tNumRatings": 0,
+    "rating_class": "zero",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "N/A"
   },
   {
     "tDept": "Mathematics",
@@ -25479,6 +25914,20 @@ const json_data = [{
     "overall_rating": "3.6"
   },
   {
+    "tDept": "Foreign Languages",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Debra",
+    "tMiddlename": "",
+    "tLname": "Kim",
+    "tid": 2293431,
+    "tNumRatings": 3,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.7"
+  },
+  {
     "tDept": "Languages",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -25514,11 +25963,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Kim",
     "tid": 1527790,
-    "tNumRatings": 18,
+    "tNumRatings": 19,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.1"
+    "overall_rating": "4.2"
   },
   {
     "tDept": "English",
@@ -25528,11 +25977,11 @@ const json_data = [{
     "tMiddlename": "Elisabeth",
     "tLname": "Kimmel",
     "tid": 2650886,
-    "tNumRatings": 2,
+    "tNumRatings": 4,
     "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "1.0"
+    "overall_rating": "2.0"
   },
   {
     "tDept": "Health",
@@ -25710,11 +26159,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Kirsch",
     "tid": 2317201,
-    "tNumRatings": 1,
-    "rating_class": "good",
+    "tNumRatings": 4,
+    "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "5.0"
+    "overall_rating": "3.3"
   },
   {
     "tDept": "Philosophy",
@@ -25743,20 +26192,6 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "5.0"
-  },
-  {
-    "tDept": "Anthropology",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Susan",
-    "tMiddlename": "",
-    "tLname": "Kirwan",
-    "tid": 685973,
-    "tNumRatings": 14,
-    "rating_class": "average",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "3.3"
   },
   {
     "tDept": "Anthropology",
@@ -25892,7 +26327,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Klein",
     "tid": 299827,
-    "tNumRatings": 51,
+    "tNumRatings": 52,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -25976,11 +26411,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Knapp",
     "tid": 2683337,
-    "tNumRatings": 0,
-    "rating_class": "zero",
+    "tNumRatings": 1,
+    "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "N/A"
+    "overall_rating": "1.0"
   },
   {
     "tDept": "Physics",
@@ -26037,6 +26472,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "2.8"
+  },
+  {
+    "tDept": "Nursing",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Donulae",
+    "tMiddlename": "",
+    "tLname": "Knuckles",
+    "tid": 2612750,
+    "tNumRatings": 1,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "5.0"
   },
   {
     "tDept": "Education",
@@ -26130,11 +26579,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Koelewyn",
     "tid": 2589325,
-    "tNumRatings": 1,
+    "tNumRatings": 3,
     "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "1.0"
+    "overall_rating": "2.0"
   },
   {
     "tDept": "Dance",
@@ -26172,7 +26621,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Kohn",
     "tid": 978218,
-    "tNumRatings": 16,
+    "tNumRatings": 17,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -26249,6 +26698,20 @@ const json_data = [{
     "overall_rating": "1.5"
   },
   {
+    "tDept": "Statistics",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Xiaoli",
+    "tMiddlename": "",
+    "tLname": "Kong",
+    "tid": 2760796,
+    "tNumRatings": 1,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "5.0"
+  },
+  {
     "tDept": "Psychology",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -26256,11 +26719,11 @@ const json_data = [{
     "tMiddlename": "C",
     "tLname": "Kopetz",
     "tid": 1891946,
-    "tNumRatings": 14,
+    "tNumRatings": 17,
     "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "1.9"
+    "overall_rating": "1.8"
   },
   {
     "tDept": "Physics",
@@ -26303,20 +26766,6 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "5.0"
-  },
-  {
-    "tDept": "Interdisciplinary Studies",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Frank",
-    "tMiddlename": "",
-    "tLname": "Koscielski",
-    "tid": 1003565,
-    "tNumRatings": 6,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.8"
   },
   {
     "tDept": "Interdisciplinary Studies",
@@ -26410,11 +26859,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Kotov",
     "tid": 2008779,
-    "tNumRatings": 14,
+    "tNumRatings": 16,
     "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "1.8"
+    "overall_rating": "1.7"
   },
   {
     "tDept": "Mathematics",
@@ -26466,7 +26915,7 @@ const json_data = [{
     "tMiddlename": "S",
     "tLname": "Koukios",
     "tid": 1753471,
-    "tNumRatings": 18,
+    "tNumRatings": 19,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -26480,7 +26929,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Kourouma",
     "tid": 2197851,
-    "tNumRatings": 21,
+    "tNumRatings": 22,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -26529,20 +26978,6 @@ const json_data = [{
     "overall_rating": "4.0"
   },
   {
-    "tDept": "Communication",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Adrienne",
-    "tMiddlename": "",
-    "tLname": "Kozlowski",
-    "tid": 681861,
-    "tNumRatings": 32,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.1"
-  },
-  {
     "tDept": "Women's Studies",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -26550,11 +26985,25 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Kozlowski",
     "tid": 2478197,
-    "tNumRatings": 5,
+    "tNumRatings": 6,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.2"
+    "overall_rating": "3.3"
+  },
+  {
+    "tDept": "Communication",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Adrienne",
+    "tMiddlename": "",
+    "tLname": "Kozlowski",
+    "tid": 681861,
+    "tNumRatings": 38,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "3.8"
   },
   {
     "tDept": "English",
@@ -26578,11 +27027,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Kral",
     "tid": 2181295,
-    "tNumRatings": 3,
+    "tNumRatings": 4,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.3"
+    "overall_rating": "4.2"
   },
   {
     "tDept": "Design",
@@ -26599,6 +27048,20 @@ const json_data = [{
     "overall_rating": "5.0"
   },
   {
+    "tDept": "Business Administration",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Stacy",
+    "tMiddlename": "",
+    "tLname": "Kramp",
+    "tid": 2446915,
+    "tNumRatings": 18,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "3.5"
+  },
+  {
     "tDept": "Accounting",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -26606,11 +27069,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Kramp",
     "tid": 2681202,
-    "tNumRatings": 5,
+    "tNumRatings": 7,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.2"
+    "overall_rating": "4.3"
   },
   {
     "tDept": "German",
@@ -26718,7 +27181,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Kritzman",
     "tid": 513446,
-    "tNumRatings": 8,
+    "tNumRatings": 9,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -26774,11 +27237,25 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Kruman",
     "tid": 446625,
-    "tNumRatings": 10,
+    "tNumRatings": 11,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.4"
+    "overall_rating": "3.3"
+  },
+  {
+    "tDept": "Education",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Sarah",
+    "tMiddlename": "",
+    "tLname": "Krupansky",
+    "tid": 2757321,
+    "tNumRatings": 1,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "5.0"
   },
   {
     "tDept": "Geology",
@@ -26863,20 +27340,6 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "4.3"
-  },
-  {
-    "tDept": "Health  Physical Education",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Noel",
-    "tMiddlename": "",
-    "tLname": "Kulik",
-    "tid": 2061383,
-    "tNumRatings": 7,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "3.6"
   },
   {
     "tDept": "Health  Physical Education",
@@ -27159,6 +27622,20 @@ const json_data = [{
     "overall_rating": "N/A"
   },
   {
+    "tDept": "English",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Kim",
+    "tMiddlename": "",
+    "tLname": "Lacey",
+    "tid": 859751,
+    "tNumRatings": 29,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.6"
+  },
+  {
     "tDept": "Political Science",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -27320,7 +27797,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Laidler",
     "tid": 2405508,
-    "tNumRatings": 11,
+    "tNumRatings": 13,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -27423,20 +27900,6 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "5.0"
-  },
-  {
-    "tDept": "Biological Sciences",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Dave",
-    "tMiddlename": "",
-    "tLname": "Lall",
-    "tid": 2506818,
-    "tNumRatings": 1,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.0"
   },
   {
     "tDept": "Biological Sciences",
@@ -27572,11 +28035,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Lane",
     "tid": 2398617,
-    "tNumRatings": 4,
+    "tNumRatings": 6,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.0"
+    "overall_rating": "4.3"
   },
   {
     "tDept": "English",
@@ -27628,7 +28091,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Lanni",
     "tid": 2086307,
-    "tNumRatings": 15,
+    "tNumRatings": 16,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -27824,11 +28287,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Lashore",
     "tid": 2166721,
-    "tNumRatings": 5,
+    "tNumRatings": 6,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "2.8"
+    "overall_rating": "2.5"
   },
   {
     "tDept": "Humanities",
@@ -27999,6 +28462,20 @@ const json_data = [{
     "overall_rating": "3.0"
   },
   {
+    "tDept": "Computer Science",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Wendy",
+    "tMiddlename": "",
+    "tLname": "Lawlah",
+    "tid": 1014894,
+    "tNumRatings": 0,
+    "rating_class": "zero",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "N/A"
+  },
+  {
     "tDept": "English",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -28055,20 +28532,6 @@ const json_data = [{
     "overall_rating": "2.8"
   },
   {
-    "tDept": "Communication",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Tonja",
-    "tMiddlename": "",
-    "tLname": "Lawrence",
-    "tid": 1595195,
-    "tNumRatings": 21,
-    "rating_class": "poor",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "1.8"
-  },
-  {
     "tDept": "Social Work",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -28090,11 +28553,25 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Lawrence",
     "tid": 2553044,
-    "tNumRatings": 6,
-    "rating_class": "average",
+    "tNumRatings": 7,
+    "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "2.5"
+    "overall_rating": "2.3"
+  },
+  {
+    "tDept": "Communication",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Tonja",
+    "tMiddlename": "",
+    "tLname": "Lawrence",
+    "tid": 1595195,
+    "tNumRatings": 22,
+    "rating_class": "poor",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "1.8"
   },
   {
     "tDept": "Accounting",
@@ -28188,11 +28665,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Lebold",
     "tid": 1990081,
-    "tNumRatings": 4,
+    "tNumRatings": 7,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.0"
+    "overall_rating": "3.3"
   },
   {
     "tDept": "French",
@@ -28221,6 +28698,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "4.3"
+  },
+  {
+    "tDept": "English",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Mallory",
+    "tMiddlename": "",
+    "tLname": "Lectka",
+    "tid": 2763155,
+    "tNumRatings": 1,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "5.0"
   },
   {
     "tDept": "Communication",
@@ -28279,20 +28770,6 @@ const json_data = [{
     "overall_rating": "4.8"
   },
   {
-    "tDept": "Mathematics",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Kyungyong",
-    "tMiddlename": "",
-    "tLname": "Lee",
-    "tid": 1602442,
-    "tNumRatings": 10,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.8"
-  },
-  {
     "tDept": "Psychology",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -28305,20 +28782,6 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "5.0"
-  },
-  {
-    "tDept": "Management",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Jaegul",
-    "tMiddlename": "",
-    "tLname": "Lee",
-    "tid": 1130734,
-    "tNumRatings": 8,
-    "rating_class": "average",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "2.7"
   },
   {
     "tDept": "Social Work",
@@ -28363,20 +28826,6 @@ const json_data = [{
     "overall_rating": "3.5"
   },
   {
-    "tDept": "Biological Sciences",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Pei-Chung",
-    "tMiddlename": "",
-    "tLname": "Lee",
-    "tid": 2656583,
-    "tNumRatings": 16,
-    "rating_class": "average",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "2.8"
-  },
-  {
     "tDept": "Languages",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -28389,6 +28838,34 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "5.0"
+  },
+  {
+    "tDept": "Management",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Jaegul",
+    "tMiddlename": "",
+    "tLname": "Lee",
+    "tid": 1130734,
+    "tNumRatings": 9,
+    "rating_class": "average",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "2.5"
+  },
+  {
+    "tDept": "Biological Sciences",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Pei-Chung",
+    "tMiddlename": "",
+    "tLname": "Lee",
+    "tid": 2656583,
+    "tNumRatings": 17,
+    "rating_class": "average",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "2.7"
   },
   {
     "tDept": "Engineering",
@@ -28454,7 +28931,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Leirstein",
     "tid": 1126891,
-    "tNumRatings": 108,
+    "tNumRatings": 115,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -28524,7 +29001,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Lenn",
     "tid": 1908186,
-    "tNumRatings": 35,
+    "tNumRatings": 39,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -28594,7 +29071,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Lesnik",
     "tid": 1976150,
-    "tNumRatings": 22,
+    "tNumRatings": 23,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -28839,6 +29316,20 @@ const json_data = [{
     "overall_rating": "1.0"
   },
   {
+    "tDept": "Mathematics",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Jungang",
+    "tMiddlename": "",
+    "tLname": "Li",
+    "tid": 2116906,
+    "tNumRatings": 1,
+    "rating_class": "average",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "3.0"
+  },
+  {
     "tDept": "Library & Information Science",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -28879,6 +29370,34 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "2.0"
+  },
+  {
+    "tDept": "Engineering",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Yeau-Jian",
+    "tMiddlename": "",
+    "tLname": "Liao",
+    "tid": 612996,
+    "tNumRatings": 6,
+    "rating_class": "poor",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "1.8"
+  },
+  {
+    "tDept": "Engineering",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Gene",
+    "tMiddlename": "Yeau-Jian",
+    "tLname": "Liao",
+    "tid": 2592972,
+    "tNumRatings": 1,
+    "rating_class": "poor",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "1.0"
   },
   {
     "tDept": "Engineering",
@@ -29098,11 +29617,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Lincoln",
     "tid": 853861,
-    "tNumRatings": 4,
-    "rating_class": "good",
+    "tNumRatings": 5,
+    "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.8"
+    "overall_rating": "3.2"
   },
   {
     "tDept": "English",
@@ -29126,11 +29645,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Lindner",
     "tid": 2686382,
-    "tNumRatings": 0,
-    "rating_class": "zero",
+    "tNumRatings": 2,
+    "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "N/A"
+    "overall_rating": "4.5"
   },
   {
     "tDept": "English",
@@ -29140,7 +29659,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Linton",
     "tid": 2176958,
-    "tNumRatings": 10,
+    "tNumRatings": 11,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -29159,34 +29678,6 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "2.9"
-  },
-  {
-    "tDept": "Chemistry",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Thomas",
-    "tMiddlename": "",
-    "tLname": "Linz",
-    "tid": 2342062,
-    "tNumRatings": 4,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.5"
-  },
-  {
-    "tDept": "History",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Lynda",
-    "tMiddlename": "",
-    "tLname": "Litogot",
-    "tid": 1131827,
-    "tNumRatings": 35,
-    "rating_class": "average",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "2.8"
   },
   {
     "tDept": "Health & Physical Education",
@@ -29210,11 +29701,11 @@ const json_data = [{
     "tMiddlename": "Marie",
     "tLname": "Litton",
     "tid": 2661906,
-    "tNumRatings": 0,
-    "rating_class": "zero",
+    "tNumRatings": 3,
+    "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "N/A"
+    "overall_rating": "4.0"
   },
   {
     "tDept": "Chinese",
@@ -29346,20 +29837,6 @@ const json_data = [{
     "tDept": "Engineering",
     "tSid": "1150",
     "institution_name": "Wayne State University",
-    "tFname": "Yanchao",
-    "tMiddlename": "",
-    "tLname": "Liu",
-    "tid": 2591019,
-    "tNumRatings": 1,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "5.0"
-  },
-  {
-    "tDept": "Engineering",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
     "tFname": "John",
     "tMiddlename": "",
     "tLname": "Liu",
@@ -29378,11 +29855,25 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Liu",
     "tid": 2657271,
+    "tNumRatings": 3,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.7"
+  },
+  {
+    "tDept": "Engineering",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Yanchao",
+    "tMiddlename": "",
+    "tLname": "Liu",
+    "tid": 2591019,
     "tNumRatings": 2,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "5.0"
+    "overall_rating": "4.5"
   },
   {
     "tDept": "Public Health",
@@ -29392,7 +29883,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Liu",
     "tid": 2695435,
-    "tNumRatings": 2,
+    "tNumRatings": 3,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -29679,20 +30170,6 @@ const json_data = [{
     "overall_rating": "1.0"
   },
   {
-    "tDept": "Public Administration",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Gabriel",
-    "tMiddlename": "",
-    "tLname": "Lotarski",
-    "tid": 2501088,
-    "tNumRatings": 1,
-    "rating_class": "poor",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "1.0"
-  },
-  {
     "tDept": "Education",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -29742,7 +30219,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Lowman",
     "tid": 2198576,
-    "tNumRatings": 6,
+    "tNumRatings": 7,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -29812,11 +30289,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Lublin",
     "tid": 868165,
-    "tNumRatings": 45,
+    "tNumRatings": 47,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "2.8"
+    "overall_rating": "2.9"
   },
   {
     "tDept": "Education",
@@ -29854,7 +30331,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Lucas",
     "tid": 2652762,
-    "tNumRatings": 5,
+    "tNumRatings": 8,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -29994,7 +30471,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Lupovitch",
     "tid": 2048880,
-    "tNumRatings": 7,
+    "tNumRatings": 9,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -30022,7 +30499,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Lynch",
     "tid": 281069,
-    "tNumRatings": 31,
+    "tNumRatings": 32,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -30050,7 +30527,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Lyons",
     "tid": 541587,
-    "tNumRatings": 28,
+    "tNumRatings": 30,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -30204,11 +30681,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "MacKinder",
     "tid": 750025,
-    "tNumRatings": 51,
+    "tNumRatings": 52,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "2.7"
+    "overall_rating": "2.8"
   },
   {
     "tDept": "Biological Sciences",
@@ -30239,6 +30716,20 @@ const json_data = [{
     "overall_rating": "N/A"
   },
   {
+    "tDept": "Art History",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Brian",
+    "tMiddlename": "",
+    "tLname": "Madigan",
+    "tid": 490164,
+    "tNumRatings": 52,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.0"
+  },
+  {
     "tDept": "English",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -30246,11 +30737,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Madrigal",
     "tid": 1633538,
-    "tNumRatings": 9,
+    "tNumRatings": 12,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "2.8"
+    "overall_rating": "2.6"
   },
   {
     "tDept": "Theater",
@@ -30309,6 +30800,34 @@ const json_data = [{
     "overall_rating": "4.3"
   },
   {
+    "tDept": "Communication",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Katheryn",
+    "tMiddlename": "",
+    "tLname": "Maguire",
+    "tid": 271896,
+    "tNumRatings": 11,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.4"
+  },
+  {
+    "tDept": "Chemistry",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Michael",
+    "tMiddlename": "",
+    "tLname": "Maguire",
+    "tid": 99573,
+    "tNumRatings": 205,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.3"
+  },
+  {
     "tDept": "Mathematics",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -30316,7 +30835,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Mahabir",
     "tid": 1584596,
-    "tNumRatings": 72,
+    "tNumRatings": 74,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -30379,6 +30898,20 @@ const json_data = [{
     "overall_rating": "3.8"
   },
   {
+    "tDept": "Political Science",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Jennifer",
+    "tMiddlename": "Rose",
+    "tLname": "Mahn",
+    "tid": 2760241,
+    "tNumRatings": 1,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "5.0"
+  },
+  {
     "tDept": "English",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -30414,11 +30947,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Makar",
     "tid": 2364018,
-    "tNumRatings": 1,
+    "tNumRatings": 2,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "5.0"
+    "overall_rating": "4.5"
   },
   {
     "tDept": "Mathematics",
@@ -30442,7 +30975,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Makar-Limanov",
     "tid": 508265,
-    "tNumRatings": 34,
+    "tNumRatings": 35,
     "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -30540,39 +31073,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Malik",
     "tid": 2111224,
-    "tNumRatings": 41,
+    "tNumRatings": 42,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.3"
-  },
-  {
-    "tDept": "Nursing",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Christine",
-    "tMiddlename": "",
-    "tLname": "Malinowski",
-    "tid": 2364067,
-    "tNumRatings": 13,
-    "rating_class": "average",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "3.1"
-  },
-  {
-    "tDept": "Health",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "James",
-    "tMiddlename": "",
-    "tLname": "Mallare",
-    "tid": 2647233,
-    "tNumRatings": 1,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "5.0"
+    "overall_rating": "4.2"
   },
   {
     "tDept": "Computer Science",
@@ -30582,11 +31087,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Mallaya",
     "tid": 1076289,
-    "tNumRatings": 12,
-    "rating_class": "average",
+    "tNumRatings": 13,
+    "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "2.5"
+    "overall_rating": "2.4"
   },
   {
     "tDept": "Computer Science",
@@ -30596,11 +31101,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Mallya",
     "tid": 1908832,
-    "tNumRatings": 19,
+    "tNumRatings": 20,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "2.6"
+    "overall_rating": "2.5"
   },
   {
     "tDept": "Library & Information Science",
@@ -30799,20 +31304,6 @@ const json_data = [{
     "overall_rating": "N/A"
   },
   {
-    "tDept": "Chemistry",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "curtis",
-    "tMiddlename": "",
-    "tLname": "Marcott",
-    "tid": 531308,
-    "tNumRatings": 0,
-    "rating_class": "zero",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "N/A"
-  },
-  {
     "tDept": "Computer Science",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -30839,6 +31330,34 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "1.2"
+  },
+  {
+    "tDept": "Political Science",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Nadejda",
+    "tMiddlename": "",
+    "tLname": "Marinova",
+    "tid": 1841177,
+    "tNumRatings": 14,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.7"
+  },
+  {
+    "tDept": "Foreign Languages",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Emanuela",
+    "tMiddlename": "",
+    "tLname": "Marionni",
+    "tid": 1668467,
+    "tNumRatings": 11,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.5"
   },
   {
     "tDept": "Political Science",
@@ -30904,11 +31423,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Markou",
     "tid": 53518,
-    "tNumRatings": 18,
+    "tNumRatings": 19,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.7"
+    "overall_rating": "3.8"
   },
   {
     "tDept": "English",
@@ -30918,7 +31437,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Marks",
     "tid": 399041,
-    "tNumRatings": 33,
+    "tNumRatings": 34,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -30960,7 +31479,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Marletta",
     "tid": 1886338,
-    "tNumRatings": 7,
+    "tNumRatings": 8,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -31030,11 +31549,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Marrero",
     "tid": 1954955,
-    "tNumRatings": 6,
+    "tNumRatings": 9,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.9"
+    "overall_rating": "4.7"
   },
   {
     "tDept": "English",
@@ -31121,34 +31640,6 @@ const json_data = [{
     "overall_rating": "5.0"
   },
   {
-    "tDept": "Mathematics",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Raul",
-    "tMiddlename": "",
-    "tLname": "Martell",
-    "tid": 1365780,
-    "tNumRatings": 17,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "5.0"
-  },
-  {
-    "tDept": "English",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Katie",
-    "tMiddlename": "",
-    "tLname": "Martelle",
-    "tid": 2467391,
-    "tNumRatings": 12,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.6"
-  },
-  {
     "tDept": "Accounting",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -31191,20 +31682,6 @@ const json_data = [{
     "overall_rating": "5.0"
   },
   {
-    "tDept": "Honors",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Aaron",
-    "tMiddlename": "",
-    "tLname": "Martin",
-    "tid": 1501246,
-    "tNumRatings": 53,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.6"
-  },
-  {
     "tDept": "Health & Physical Education",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -31217,6 +31694,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "3.8"
+  },
+  {
+    "tDept": "Honors",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Aaron",
+    "tMiddlename": "",
+    "tLname": "Martin",
+    "tid": 1501246,
+    "tNumRatings": 57,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.6"
   },
   {
     "tDept": "Law",
@@ -31429,6 +31920,34 @@ const json_data = [{
     "overall_rating": "4.3"
   },
   {
+    "tDept": "Law",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "William",
+    "tMiddlename": "",
+    "tLname": "Mateikis",
+    "tid": 1230805,
+    "tNumRatings": 5,
+    "rating_class": "average",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "3.3"
+  },
+  {
+    "tDept": "Communication",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Robert",
+    "tMiddlename": "",
+    "tLname": "Matheny",
+    "tid": 2071487,
+    "tNumRatings": 11,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.3"
+  },
+  {
     "tDept": "Communication",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -31492,11 +32011,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Matos-Abiague",
     "tid": 2673287,
-    "tNumRatings": 0,
-    "rating_class": "zero",
+    "tNumRatings": 2,
+    "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "N/A"
+    "overall_rating": "5.0"
   },
   {
     "tDept": "Psychology",
@@ -31618,11 +32137,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Matthews LMSW",
     "tid": 2304400,
-    "tNumRatings": 7,
-    "rating_class": "good",
+    "tNumRatings": 13,
+    "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.4"
+    "overall_rating": "3.0"
   },
   {
     "tDept": "Chemistry",
@@ -31632,11 +32151,11 @@ const json_data = [{
     "tMiddlename": "N.",
     "tLname": "Matti",
     "tid": 1917032,
-    "tNumRatings": 162,
+    "tNumRatings": 173,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.1"
+    "overall_rating": "4.0"
   },
   {
     "tDept": "French",
@@ -31758,7 +32277,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "May",
     "tid": 879539,
-    "tNumRatings": 53,
+    "tNumRatings": 55,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -31917,6 +32436,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "3.1"
+  },
+  {
+    "tDept": "Communication",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Bryan",
+    "tMiddlename": "",
+    "tLname": "McCann",
+    "tid": 1614590,
+    "tNumRatings": 3,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.2"
   },
   {
     "tDept": "Accounting",
@@ -32094,11 +32627,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "McElmurry",
     "tid": 1418285,
-    "tNumRatings": 3,
+    "tNumRatings": 4,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.5"
+    "overall_rating": "4.7"
   },
   {
     "tDept": "History",
@@ -32136,11 +32669,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "McFerren",
     "tid": 895181,
-    "tNumRatings": 24,
+    "tNumRatings": 25,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.3"
+    "overall_rating": "4.2"
   },
   {
     "tDept": "Psychology",
@@ -32185,18 +32718,18 @@ const json_data = [{
     "overall_rating": "1.0"
   },
   {
-    "tDept": "English",
+    "tDept": "French",
     "tSid": "1150",
     "institution_name": "Wayne State University",
-    "tFname": "Michael",
+    "tFname": "Ashlee",
     "tMiddlename": "",
-    "tLname": "McGinnis",
-    "tid": 1517238,
-    "tNumRatings": 7,
-    "rating_class": "good",
+    "tLname": "McGee",
+    "tid": 2732845,
+    "tNumRatings": 1,
+    "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.5"
+    "overall_rating": "1.0"
   },
   {
     "tDept": "English",
@@ -32225,34 +32758,6 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "1.0"
-  },
-  {
-    "tDept": "Psychology",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Alyssa",
-    "tMiddlename": "",
-    "tLname": "McGonagle",
-    "tid": 1786665,
-    "tNumRatings": 6,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.2"
-  },
-  {
-    "tDept": "Advertising",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Laura",
-    "tMiddlename": "",
-    "tLname": "McGowan",
-    "tid": 2496147,
-    "tNumRatings": 4,
-    "rating_class": "poor",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "1.5"
   },
   {
     "tDept": "History",
@@ -32290,7 +32795,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "McHugh",
     "tid": 174520,
-    "tNumRatings": 37,
+    "tNumRatings": 38,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -32409,20 +32914,6 @@ const json_data = [{
     "overall_rating": "4.7"
   },
   {
-    "tDept": "Criminal Justice",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Danika",
-    "tMiddlename": "Hickling",
-    "tLname": "McLeod",
-    "tid": 2554716,
-    "tNumRatings": 31,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "5.0"
-  },
-  {
     "tDept": "Public Administration",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -32430,11 +32921,25 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "McLeod",
     "tid": 2510191,
-    "tNumRatings": 7,
+    "tNumRatings": 12,
     "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "1.9"
+    "overall_rating": "2.0"
+  },
+  {
+    "tDept": "Criminal Justice",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Danika",
+    "tMiddlename": "Hickling",
+    "tLname": "McLeod",
+    "tid": 2554716,
+    "tNumRatings": 39,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "5.0"
   },
   {
     "tDept": "Education",
@@ -32451,20 +32956,6 @@ const json_data = [{
     "overall_rating": "4.0"
   },
   {
-    "tDept": "Social Work",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Diane",
-    "tMiddlename": "",
-    "tLname": "McMillan",
-    "tid": 1273213,
-    "tNumRatings": 18,
-    "rating_class": "average",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "3.2"
-  },
-  {
     "tDept": "Communication",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -32477,6 +32968,34 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "5.0"
+  },
+  {
+    "tDept": "Social Work",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Diane",
+    "tMiddlename": "",
+    "tLname": "McMillan",
+    "tid": 1273213,
+    "tNumRatings": 19,
+    "rating_class": "average",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "3.3"
+  },
+  {
+    "tDept": "Computer Science",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Kyla",
+    "tMiddlename": "",
+    "tLname": "McMullen",
+    "tid": 1619260,
+    "tNumRatings": 5,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "3.6"
   },
   {
     "tDept": "Classics",
@@ -32640,7 +33159,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Mehta",
     "tid": 779293,
-    "tNumRatings": 19,
+    "tNumRatings": 23,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -32759,20 +33278,6 @@ const json_data = [{
     "overall_rating": "4.5"
   },
   {
-    "tDept": "Political Science",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Natalie",
-    "tMiddlename": "",
-    "tLname": "Melnyczuk",
-    "tid": 2290831,
-    "tNumRatings": 2,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.5"
-  },
-  {
     "tDept": "Languages",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -32850,11 +33355,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Menkulasi",
     "tid": 2528276,
-    "tNumRatings": 2,
+    "tNumRatings": 3,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.0"
+    "overall_rating": "4.3"
   },
   {
     "tDept": "Education",
@@ -32962,7 +33467,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Metea",
     "tid": 952215,
-    "tNumRatings": 23,
+    "tNumRatings": 24,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -33130,7 +33635,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Michno",
     "tid": 2367247,
-    "tNumRatings": 13,
+    "tNumRatings": 15,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -33158,11 +33663,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Milad",
     "tid": 2440282,
-    "tNumRatings": 2,
+    "tNumRatings": 5,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "5.0"
+    "overall_rating": "3.8"
   },
   {
     "tDept": "Social Work",
@@ -33312,11 +33817,25 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Miller",
     "tid": 775876,
-    "tNumRatings": 8,
+    "tNumRatings": 9,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.3"
+    "overall_rating": "3.9"
+  },
+  {
+    "tDept": "English",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Deanna",
+    "tMiddlename": "",
+    "tLname": "Miller",
+    "tid": 2565107,
+    "tNumRatings": 5,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.2"
   },
   {
     "tDept": "Art History",
@@ -33326,7 +33845,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Miller",
     "tid": 2247789,
-    "tNumRatings": 15,
+    "tNumRatings": 16,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -33522,7 +34041,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Mital",
     "tid": 1831116,
-    "tNumRatings": 25,
+    "tNumRatings": 26,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -33599,20 +34118,6 @@ const json_data = [{
     "overall_rating": "2.6"
   },
   {
-    "tDept": "Communication",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Rahul",
-    "tMiddlename": "",
-    "tLname": "Mitra",
-    "tid": 1886314,
-    "tNumRatings": 8,
-    "rating_class": "average",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "2.6"
-  },
-  {
     "tDept": "Accounting",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -33620,7 +34125,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Mitra",
     "tid": 957778,
-    "tNumRatings": 42,
+    "tNumRatings": 45,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -33676,7 +34181,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Mobasser",
     "tid": 2578851,
-    "tNumRatings": 3,
+    "tNumRatings": 5,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -33844,11 +34349,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Mohammad",
     "tid": 2092326,
-    "tNumRatings": 11,
+    "tNumRatings": 12,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.4"
+    "overall_rating": "3.2"
   },
   {
     "tDept": "Mathematics",
@@ -33872,11 +34377,25 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Mohammed",
     "tid": 2047612,
-    "tNumRatings": 22,
+    "tNumRatings": 23,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.1"
+    "overall_rating": "3.2"
+  },
+  {
+    "tDept": "Computer Science",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Aravind",
+    "tMiddlename": "",
+    "tLname": "Mohan",
+    "tid": 1896287,
+    "tNumRatings": 16,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.3"
   },
   {
     "tDept": "Political Science",
@@ -34110,11 +34629,25 @@ const json_data = [{
     "tMiddlename": "James",
     "tLname": "Montgomery",
     "tid": 698073,
-    "tNumRatings": 92,
+    "tNumRatings": 95,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.4"
+    "overall_rating": "4.3"
+  },
+  {
+    "tDept": "Social Work",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Mary",
+    "tMiddlename": "",
+    "tLname": "Montie",
+    "tid": 2743284,
+    "tNumRatings": 10,
+    "rating_class": "poor",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "1.0"
   },
   {
     "tDept": "Anthropology",
@@ -34138,20 +34671,6 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Moodakare",
     "tid": 1323270,
-    "tNumRatings": 0,
-    "rating_class": "zero",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "N/A"
-  },
-  {
-    "tDept": "Select department",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Heather",
-    "tMiddlename": "",
-    "tLname": "Mooney",
-    "tid": 2038366,
     "tNumRatings": 0,
     "rating_class": "zero",
     "contentType": "TEACHER",
@@ -34334,11 +34853,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Moorman",
     "tid": 2664747,
-    "tNumRatings": 0,
-    "rating_class": "zero",
+    "tNumRatings": 1,
+    "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "N/A"
+    "overall_rating": "5.0"
   },
   {
     "tDept": "Chicano Studies",
@@ -34362,11 +34881,11 @@ const json_data = [{
     "tMiddlename": "Chapman",
     "tLname": "Morales",
     "tid": 2571925,
-    "tNumRatings": 1,
+    "tNumRatings": 3,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "5.0"
+    "overall_rating": "4.7"
   },
   {
     "tDept": "History",
@@ -34467,6 +34986,20 @@ const json_data = [{
     "overall_rating": "N/A"
   },
   {
+    "tDept": "Speech & Hearing Sciences",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Keri",
+    "tMiddlename": "",
+    "tLname": "Morgan",
+    "tid": 2748187,
+    "tNumRatings": 4,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "5.0"
+  },
+  {
     "tDept": "Education",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -34530,7 +35063,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Morris",
     "tid": 2164525,
-    "tNumRatings": 7,
+    "tNumRatings": 8,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -34544,11 +35077,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Morris",
     "tid": 2552447,
-    "tNumRatings": 6,
+    "tNumRatings": 10,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.2"
+    "overall_rating": "4.5"
   },
   {
     "tDept": "Law",
@@ -34628,7 +35161,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Morton",
     "tid": 2430301,
-    "tNumRatings": 8,
+    "tNumRatings": 12,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -34717,6 +35250,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "N/A"
+  },
+  {
+    "tDept": "Classics",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Jennifer",
+    "tMiddlename": "",
+    "tLname": "Moss",
+    "tid": 400729,
+    "tNumRatings": 37,
+    "rating_class": "average",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "3.4"
   },
   {
     "tDept": "Pharmacy",
@@ -34908,11 +35455,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Mukhopadhyay",
     "tid": 610341,
-    "tNumRatings": 32,
+    "tNumRatings": 33,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.3"
+    "overall_rating": "3.4"
   },
   {
     "tDept": "Political Science",
@@ -34992,11 +35539,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Munro",
     "tid": 1621641,
-    "tNumRatings": 22,
+    "tNumRatings": 23,
     "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "2.4"
+    "overall_rating": "2.3"
   },
   {
     "tDept": "Engineering",
@@ -35174,11 +35721,11 @@ const json_data = [{
     "tMiddlename": "Emmett",
     "tLname": "Myers",
     "tid": 2393605,
-    "tNumRatings": 7,
+    "tNumRatings": 8,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.7"
+    "overall_rating": "3.6"
   },
   {
     "tDept": "Biological Sciences",
@@ -35188,11 +35735,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Myher",
     "tid": 2724829,
-    "tNumRatings": 0,
-    "rating_class": "zero",
+    "tNumRatings": 1,
+    "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "N/A"
+    "overall_rating": "3.0"
   },
   {
     "tDept": "Biological Sciences",
@@ -35202,7 +35749,7 @@ const json_data = [{
     "tMiddlename": "Lindsey",
     "tLname": "Myhr",
     "tid": 2602492,
-    "tNumRatings": 379,
+    "tNumRatings": 395,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -35263,20 +35810,6 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "4.5"
-  },
-  {
-    "tDept": "Social Work",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Neva",
-    "tMiddlename": "",
-    "tLname": "Nahan",
-    "tid": 1566249,
-    "tNumRatings": 8,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "3.7"
   },
   {
     "tDept": "Social Work",
@@ -35454,11 +35987,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Naperala",
     "tid": 2451977,
-    "tNumRatings": 3,
+    "tNumRatings": 5,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.0"
+    "overall_rating": "3.4"
   },
   {
     "tDept": "English",
@@ -35496,7 +36029,7 @@ const json_data = [{
     "tMiddlename": "Nick",
     "tLname": "Naseem",
     "tid": 1907380,
-    "tNumRatings": 77,
+    "tNumRatings": 78,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -35553,6 +36086,20 @@ const json_data = [{
     "tLname": "Natalie",
     "tid": 1845069,
     "tNumRatings": 1,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "5.0"
+  },
+  {
+    "tDept": "Nursing",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "John",
+    "tMiddlename": "",
+    "tLname": "Natavio",
+    "tid": 1483223,
+    "tNumRatings": 7,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -35678,11 +36225,11 @@ const json_data = [{
     "tMiddlename": "Kayed",
     "tLname": "Nayfeh",
     "tid": 2462299,
-    "tNumRatings": 3,
-    "rating_class": "average",
+    "tNumRatings": 4,
+    "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.3"
+    "overall_rating": "3.7"
   },
   {
     "tDept": "Music",
@@ -35734,7 +36281,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Nazelli",
     "tid": 179590,
-    "tNumRatings": 97,
+    "tNumRatings": 98,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -35832,11 +36379,39 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Neumann",
     "tid": 1832360,
-    "tNumRatings": 5,
+    "tNumRatings": 6,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.5"
+    "overall_rating": "4.6"
+  },
+  {
+    "tDept": "Law",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Amy",
+    "tMiddlename": "",
+    "tLname": "Neville",
+    "tid": 561313,
+    "tNumRatings": 2,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "5.0"
+  },
+  {
+    "tDept": "Public Administration",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Carla",
+    "tMiddlename": "",
+    "tLname": "Nelson",
+    "tid": 2288002,
+    "tNumRatings": 3,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "5.0"
   },
   {
     "tDept": "History",
@@ -35846,11 +36421,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Neumann",
     "tid": 1832360,
-    "tNumRatings": 5,
+    "tNumRatings": 6,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.5"
+    "overall_rating": "4.6"
   },
   {
     "tDept": "Law",
@@ -36108,48 +36683,6 @@ const json_data = [{
     "tDept": "Mathematics",
     "tSid": "1150",
     "institution_name": "Wayne State University",
-    "tFname": "Nguyen-Truc-Dao",
-    "tMiddlename": "",
-    "tLname": "Nguyen",
-    "tid": 2371094,
-    "tNumRatings": 6,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "5.0"
-  },
-  {
-    "tDept": "Computer Science",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Minh",
-    "tMiddlename": "",
-    "tLname": "Nguyen",
-    "tid": 2392316,
-    "tNumRatings": 3,
-    "rating_class": "average",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "3.3"
-  },
-  {
-    "tDept": "Mathematics",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Thu",
-    "tMiddlename": "",
-    "tLname": "Nguyen",
-    "tid": 2443853,
-    "tNumRatings": 0,
-    "rating_class": "zero",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "N/A"
-  },
-  {
-    "tDept": "Mathematics",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
     "tFname": "Oanh",
     "tMiddlename": "",
     "tLname": "Nguyen",
@@ -36168,7 +36701,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Nguyen",
     "tid": 2561101,
-    "tNumRatings": 3,
+    "tNumRatings": 6,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -36308,7 +36841,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Njus",
     "tid": 477059,
-    "tNumRatings": 92,
+    "tNumRatings": 95,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -36322,11 +36855,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Nnadi",
     "tid": 2664834,
-    "tNumRatings": 0,
-    "rating_class": "zero",
+    "tNumRatings": 3,
+    "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "N/A"
+    "overall_rating": "2.7"
   },
   {
     "tDept": "Art History",
@@ -36336,11 +36869,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Noel",
     "tid": 2357182,
-    "tNumRatings": 3,
+    "tNumRatings": 4,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "2.7"
+    "overall_rating": "3.0"
   },
   {
     "tDept": "Engineering",
@@ -36399,6 +36932,62 @@ const json_data = [{
     "overall_rating": "2.4"
   },
   {
+    "tDept": "Health",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Gwendolyn",
+    "tMiddlename": "",
+    "tLname": "Norman",
+    "tid": 2212558,
+    "tNumRatings": 5,
+    "rating_class": "poor",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "2.0"
+  },
+  {
+    "tDept": "Psychology",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Laura",
+    "tMiddlename": "",
+    "tLname": "Northerner",
+    "tid": 1773283,
+    "tNumRatings": 3,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.8"
+  },
+  {
+    "tDept": "Psychology",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Andria",
+    "tMiddlename": "",
+    "tLname": "Norman",
+    "tid": 2152759,
+    "tNumRatings": 5,
+    "rating_class": "poor",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "2.4"
+  },
+  {
+    "tDept": "Health",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Gwendolyn",
+    "tMiddlename": "",
+    "tLname": "Norman",
+    "tid": 2212558,
+    "tNumRatings": 5,
+    "rating_class": "poor",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "2.0"
+  },
+  {
     "tDept": "Psychology",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -36425,6 +37014,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "3.4"
+  },
+  {
+    "tDept": "Art",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Loren",
+    "tMiddlename": "",
+    "tLname": "Nosan",
+    "tid": 2745560,
+    "tNumRatings": 1,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "5.0"
   },
   {
     "tDept": "Health Science",
@@ -36592,7 +37195,7 @@ const json_data = [{
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "2.7"
+    "overall_rating": "2.5"
   },
   {
     "tDept": "Africana Studies",
@@ -36658,25 +37261,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Nyawaga",
     "tid": 2576536,
-    "tNumRatings": 3,
+    "tNumRatings": 4,
     "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "1.0"
-  },
-  {
-    "tDept": "Languages",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Izabela",
-    "tMiddlename": "",
-    "tLname": "Nychter",
-    "tid": 1569985,
-    "tNumRatings": 1,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.5"
   },
   {
     "tDept": "Languages",
@@ -36728,11 +37317,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "O'Donnell",
     "tid": 2365078,
-    "tNumRatings": 5,
+    "tNumRatings": 6,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.2"
+    "overall_rating": "4.3"
   },
   {
     "tDept": "Political Science",
@@ -36994,11 +37583,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Olivera",
     "tid": 2126424,
-    "tNumRatings": 13,
+    "tNumRatings": 14,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.0"
+    "overall_rating": "3.1"
   },
   {
     "tDept": "Art History",
@@ -37239,6 +37828,20 @@ const json_data = [{
     "overall_rating": "5.0"
   },
   {
+    "tDept": "Health Science",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Zachary",
+    "tMiddlename": "",
+    "tLname": "Osborn",
+    "tid": 2313773,
+    "tNumRatings": 10,
+    "rating_class": "average",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "2.8"
+  },
+  {
     "tDept": "Liberal Arts & Sciences",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -37246,11 +37849,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Osborn",
     "tid": 2604010,
-    "tNumRatings": 2,
-    "rating_class": "average",
+    "tNumRatings": 4,
+    "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.0"
+    "overall_rating": "2.0"
   },
   {
     "tDept": "Health",
@@ -37274,7 +37877,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Oshagan",
     "tid": 392754,
-    "tNumRatings": 100,
+    "tNumRatings": 101,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -37330,11 +37933,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Ouellette",
     "tid": 2244445,
-    "tNumRatings": 21,
-    "rating_class": "good",
+    "tNumRatings": 36,
+    "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.2"
+    "overall_rating": "2.7"
   },
   {
     "tDept": "Mathematics",
@@ -37442,7 +38045,7 @@ const json_data = [{
     "tMiddlename": "Ali",
     "tLname": "Ozbeki",
     "tid": 2092137,
-    "tNumRatings": 16,
+    "tNumRatings": 17,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -37596,11 +38199,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Pajooh",
     "tid": 2657081,
-    "tNumRatings": 5,
+    "tNumRatings": 7,
     "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "2.4"
+    "overall_rating": "2.1"
   },
   {
     "tDept": "Computer & Informational Tech.",
@@ -37631,34 +38234,6 @@ const json_data = [{
     "overall_rating": "N/A"
   },
   {
-    "tDept": "Computer Science",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Thomas",
-    "tMiddlename": "",
-    "tLname": "Palazzolo",
-    "tid": 1962030,
-    "tNumRatings": 3,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.8"
-  },
-  {
-    "tDept": "Communication",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Susan",
-    "tMiddlename": "",
-    "tLname": "Palazzolo",
-    "tid": 774284,
-    "tNumRatings": 16,
-    "rating_class": "average",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "3.0"
-  },
-  {
     "tDept": "Computer  Informational Tech.",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -37671,6 +38246,34 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "4.9"
+  },
+  {
+    "tDept": "Computer Science",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Thomas",
+    "tMiddlename": "",
+    "tLname": "Palazzolo",
+    "tid": 1962030,
+    "tNumRatings": 7,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.9"
+  },
+  {
+    "tDept": "Communication",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Susan",
+    "tMiddlename": "",
+    "tLname": "Palazzolo",
+    "tid": 774284,
+    "tNumRatings": 17,
+    "rating_class": "average",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "2.9"
   },
   {
     "tDept": "Medicine",
@@ -37695,6 +38298,20 @@ const json_data = [{
     "tLname": "Palmer",
     "tid": 1973480,
     "tNumRatings": 2,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "5.0"
+  },
+  {
+    "tDept": "Psychology",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Chris",
+    "tMiddlename": "",
+    "tLname": "Palmer",
+    "tid": 2741978,
+    "tNumRatings": 1,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -37806,7 +38423,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Papuga",
     "tid": 2451406,
-    "tNumRatings": 9,
+    "tNumRatings": 11,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -37825,6 +38442,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "2.8"
+  },
+  {
+    "tDept": "Communication",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Akilah",
+    "tMiddlename": "",
+    "tLname": "Paramore",
+    "tid": 2744357,
+    "tNumRatings": 1,
+    "rating_class": "poor",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "2.0"
   },
   {
     "tDept": "Business",
@@ -37988,7 +38619,7 @@ const json_data = [{
     "tMiddlename": "Chaka",
     "tLname": "Parks",
     "tid": 2667551,
-    "tNumRatings": 3,
+    "tNumRatings": 4,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -38009,48 +38640,6 @@ const json_data = [{
     "overall_rating": "3.5"
   },
   {
-    "tDept": "Fine Arts",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Tom",
-    "tMiddlename": "",
-    "tLname": "Parrish",
-    "tid": 631715,
-    "tNumRatings": 0,
-    "rating_class": "zero",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "N/A"
-  },
-  {
-    "tDept": "Political Science",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Charles",
-    "tMiddlename": "J",
-    "tLname": "Parrish",
-    "tid": 1936040,
-    "tNumRatings": 22,
-    "rating_class": "average",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "3.3"
-  },
-  {
-    "tDept": "Political Science",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Charles ",
-    "tMiddlename": "",
-    "tLname": "Parrish P",
-    "tid": 2073459,
-    "tNumRatings": 0,
-    "rating_class": "zero",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "N/A"
-  },
-  {
     "tDept": "Psychology",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -38065,18 +38654,18 @@ const json_data = [{
     "overall_rating": "4.2"
   },
   {
-    "tDept": "Languages",
+    "tDept": "Film",
     "tSid": "1150",
     "institution_name": "Wayne State University",
-    "tFname": "Elena",
+    "tFname": "Sydney",
     "tMiddlename": "",
-    "tLname": "Past",
-    "tid": 1088797,
-    "tNumRatings": 7,
+    "tLname": "Pasquinelli",
+    "tid": 2759147,
+    "tNumRatings": 1,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "5.0"
+    "overall_rating": "4.0"
   },
   {
     "tDept": "Languages",
@@ -38331,6 +38920,48 @@ const json_data = [{
     "overall_rating": "N/A"
   },
   {
+    "tDept": "Law",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Petrice",
+    "tMiddlename": "",
+    "tLname": "Paul",
+    "tid": 430141,
+    "tNumRatings": 0,
+    "rating_class": "zero",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "N/A"
+  },
+  {
+    "tDept": "Economics",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Atrayee",
+    "tMiddlename": "",
+    "tLname": "Paul",
+    "tid": 1377647,
+    "tNumRatings": 3,
+    "rating_class": "average",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "3.0"
+  },
+  {
+    "tDept": "Computer Science",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Mathai",
+    "tMiddlename": "",
+    "tLname": "Paul",
+    "tid": 2575206,
+    "tNumRatings": 0,
+    "rating_class": "zero",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "N/A"
+  },
+  {
     "tDept": "Dance",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -38357,6 +38988,34 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "4.5"
+  },
+  {
+    "tDept": "Marketing",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "David",
+    "tMiddlename": "",
+    "tLname": "Pauwels",
+    "tid": 1675799,
+    "tNumRatings": 16,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.8"
+  },
+  {
+    "tDept": "Design",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Evan",
+    "tMiddlename": "",
+    "tLname": "Pavka",
+    "tid": 2731432,
+    "tNumRatings": 1,
+    "rating_class": "poor",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "2.0"
   },
   {
     "tDept": "Spanish",
@@ -38426,7 +39085,7 @@ const json_data = [{
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "2.5"
+    "overall_rating": "2.6"
   },
   {
     "tDept": "Political Science",
@@ -38436,11 +39095,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Pearson",
     "tid": 630544,
-    "tNumRatings": 16,
+    "tNumRatings": 19,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.3"
+    "overall_rating": "3.4"
   },
   {
     "tDept": "Art History",
@@ -38469,6 +39128,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "2.6"
+  },
+  {
+    "tDept": "Education",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Thomas",
+    "tMiddlename": "Charles",
+    "tLname": "Pedroni",
+    "tid": 2737546,
+    "tNumRatings": 0,
+    "rating_class": "zero",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "N/A"
   },
   {
     "tDept": "Psychology",
@@ -38525,48 +39198,6 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "4.3"
-  },
-  {
-    "tDept": "English",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Scott",
-    "tMiddlename": "",
-    "tLname": "Peller",
-    "tid": 791422,
-    "tNumRatings": 5,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.0"
-  },
-  {
-    "tDept": "English",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Aaron",
-    "tMiddlename": "",
-    "tLname": "Pellerin",
-    "tid": 1382429,
-    "tNumRatings": 7,
-    "rating_class": "average",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "3.1"
-  },
-  {
-    "tDept": "Elementary Education",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Fred",
-    "tMiddlename": "",
-    "tLname": "Pellerito",
-    "tid": 1911861,
-    "tNumRatings": 9,
-    "rating_class": "average",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "3.2"
   },
   {
     "tDept": "Communication",
@@ -38639,20 +39270,6 @@ const json_data = [{
     "overall_rating": "4.8"
   },
   {
-    "tDept": "Communication",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Wendy",
-    "tMiddlename": "",
-    "tLname": "Perkinson",
-    "tid": 1129478,
-    "tNumRatings": 2,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.8"
-  },
-  {
     "tDept": "Education",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -38674,7 +39291,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Perrine",
     "tid": 1517271,
-    "tNumRatings": 5,
+    "tNumRatings": 6,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -38819,6 +39436,48 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "3.7"
+  },
+  {
+    "tDept": "History",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Frank",
+    "tMiddlename": "",
+    "tLname": "Petersmark",
+    "tid": 2079122,
+    "tNumRatings": 1,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "5.0"
+  },
+  {
+    "tDept": "Education",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Jay",
+    "tMiddlename": "",
+    "tLname": "Peterson",
+    "tid": 811112,
+    "tNumRatings": 6,
+    "rating_class": "poor",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "2.0"
+  },
+  {
+    "tDept": "Education",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Kathleen",
+    "tMiddlename": "",
+    "tLname": "Peterson",
+    "tid": 1125045,
+    "tNumRatings": 0,
+    "rating_class": "zero",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "N/A"
   },
   {
     "tDept": "History",
@@ -39192,11 +39851,25 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Pineau",
     "tid": 1867320,
-    "tNumRatings": 87,
+    "tNumRatings": 95,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "4.9"
+  },
+  {
+    "tDept": "English",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Jennifer",
+    "tMiddlename": "",
+    "tLname": "Piotrowski",
+    "tid": 1717441,
+    "tNumRatings": 4,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.2"
   },
   {
     "tDept": "Journalism",
@@ -39420,7 +40093,7 @@ const json_data = [{
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.5"
+    "overall_rating": "3.6"
   },
   {
     "tDept": "Physical Therapy",
@@ -39463,20 +40136,6 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "3.9"
-  },
-  {
-    "tDept": "Cultural Studies",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "David",
-    "tMiddlename": "",
-    "tLname": "Points",
-    "tid": 1147197,
-    "tNumRatings": 3,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.3"
   },
   {
     "tDept": "Cultural Studies",
@@ -39626,11 +40285,25 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Popadic",
     "tid": 372559,
-    "tNumRatings": 44,
+    "tNumRatings": 45,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "3.5"
+  },
+  {
+    "tDept": "History",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "John",
+    "tMiddlename": "",
+    "tLname": "Popiel",
+    "tid": 2757530,
+    "tNumRatings": 1,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "5.0"
   },
   {
     "tDept": "History",
@@ -39682,7 +40355,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Postma",
     "tid": 898909,
-    "tNumRatings": 28,
+    "tNumRatings": 30,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -39696,7 +40369,7 @@ const json_data = [{
     "tMiddlename": "Pothukuchi",
     "tLname": "Pothukuchi",
     "tid": 2354470,
-    "tNumRatings": 3,
+    "tNumRatings": 4,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -39780,7 +40453,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Powell",
     "tid": 2138451,
-    "tNumRatings": 10,
+    "tNumRatings": 11,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -39854,7 +40527,7 @@ const json_data = [{
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.3"
+    "overall_rating": "3.4"
   },
   {
     "tDept": "English",
@@ -40060,11 +40733,11 @@ const json_data = [{
     "tMiddlename": "Sweeney",
     "tLname": "Prince",
     "tid": 2468310,
-    "tNumRatings": 7,
-    "rating_class": "average",
+    "tNumRatings": 8,
+    "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "2.5"
+    "overall_rating": "2.3"
   },
   {
     "tDept": "Mathematics",
@@ -40207,48 +40880,6 @@ const json_data = [{
     "overall_rating": "N/A"
   },
   {
-    "tDept": "English",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Ross",
-    "tMiddlename": "",
-    "tLname": "Pudaloff",
-    "tid": 496399,
-    "tNumRatings": 12,
-    "rating_class": "average",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "3.4"
-  },
-  {
-    "tDept": "Mathematics",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Ivy",
-    "tMiddlename": "",
-    "tLname": "Pudatunda",
-    "tid": 526419,
-    "tNumRatings": 28,
-    "rating_class": "average",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "2.5"
-  },
-  {
-    "tDept": "Criminal Justice",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "George",
-    "tMiddlename": "",
-    "tLname": "Pully",
-    "tid": 1634613,
-    "tNumRatings": 0,
-    "rating_class": "zero",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "N/A"
-  },
-  {
     "tDept": "Communication",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -40284,6 +40915,20 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Purvis",
     "tid": 2612388,
+    "tNumRatings": 0,
+    "rating_class": "zero",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "N/A"
+  },
+  {
+    "tDept": "Physical Education",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Sarah",
+    "tMiddlename": "",
+    "tLname": "Pushies",
+    "tid": 2743271,
     "tNumRatings": 0,
     "rating_class": "zero",
     "contentType": "TEACHER",
@@ -40396,11 +41041,25 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Pylypchuk",
     "tid": 2440094,
-    "tNumRatings": 5,
+    "tNumRatings": 9,
     "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "1.8"
+    "overall_rating": "2.2"
+  },
+  {
+    "tDept": "Freshman Seminar",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Caffee",
+    "tMiddlename": "",
+    "tLname": "Pynthia",
+    "tid": 2757155,
+    "tNumRatings": 1,
+    "rating_class": "poor",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "1.0"
   },
   {
     "tDept": "Art",
@@ -40494,7 +41153,49 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Quenum",
     "tid": 847901,
-    "tNumRatings": 11,
+    "tNumRatings": 12,
+    "rating_class": "poor",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "1.6"
+  },
+  {
+    "tDept": "Law",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Julia",
+    "tMiddlename": "",
+    "tLname": "Qin",
+    "tid": 1392995,
+    "tNumRatings": 1,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "5.0"
+  },
+  {
+    "tDept": "Mathematics",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Yun",
+    "tMiddlename": "",
+    "tLname": "Qiu",
+    "tid": 454869,
+    "tNumRatings": 6,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "3.9"
+  },
+  {
+    "tDept": "Interdisciplinary Studies",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Jean-Claude",
+    "tMiddlename": "",
+    "tLname": "Quenum",
+    "tid": 847901,
+    "tNumRatings": 12,
     "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -40550,11 +41251,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Quinn",
     "tid": 2578364,
-    "tNumRatings": 3,
+    "tNumRatings": 7,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.3"
+    "overall_rating": "4.5"
   },
   {
     "tDept": "Languages",
@@ -40564,7 +41265,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Quintero",
     "tid": 408269,
-    "tNumRatings": 30,
+    "tNumRatings": 31,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -40597,6 +41298,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "N/A"
+  },
+  {
+    "tDept": "Mathematics",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Matthew",
+    "tMiddlename": "",
+    "tLname": "Race",
+    "tid": 1607381,
+    "tNumRatings": 6,
+    "rating_class": "average",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "3.3"
   },
   {
     "tDept": "Psychology",
@@ -40634,11 +41349,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Radney",
     "tid": 2042901,
-    "tNumRatings": 21,
+    "tNumRatings": 22,
     "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "1.6"
+    "overall_rating": "1.5"
   },
   {
     "tDept": "Social Work",
@@ -40662,7 +41377,7 @@ const json_data = [{
     "tMiddlename": "Bernadette",
     "tLname": "Rae Carter",
     "tid": 2585975,
-    "tNumRatings": 3,
+    "tNumRatings": 4,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -40695,6 +41410,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "2.2"
+  },
+  {
+    "tDept": "Foreign Languages",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Khouloud",
+    "tMiddlename": "",
+    "tLname": "Rahal",
+    "tid": 2762207,
+    "tNumRatings": 0,
+    "rating_class": "zero",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "N/A"
   },
   {
     "tDept": "Engineering",
@@ -40774,11 +41503,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Raihen",
     "tid": 2510978,
-    "tNumRatings": 8,
+    "tNumRatings": 13,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "2.6"
+    "overall_rating": "3.3"
   },
   {
     "tDept": "Computer Science",
@@ -40793,6 +41522,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "3.3"
+  },
+  {
+    "tDept": "Anatomy",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Neha",
+    "tMiddlename": "",
+    "tLname": "Rajput",
+    "tid": 2732558,
+    "tNumRatings": 1,
+    "rating_class": "poor",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "1.0"
   },
   {
     "tDept": "Speech  Hearing Sciences",
@@ -40863,20 +41606,6 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "4.9"
-  },
-  {
-    "tDept": "Chemistry",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Louis",
-    "tMiddlename": "",
-    "tLname": "Ramano",
-    "tid": 1551745,
-    "tNumRatings": 1,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.5"
   },
   {
     "tDept": "Chemistry",
@@ -41026,7 +41755,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Rashid",
     "tid": 480,
-    "tNumRatings": 40,
+    "tNumRatings": 41,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -41264,11 +41993,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Raz",
     "tid": 535992,
-    "tNumRatings": 23,
+    "tNumRatings": 26,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "2.7"
+    "overall_rating": "2.8"
   },
   {
     "tDept": "English",
@@ -41516,11 +42245,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Reganis",
     "tid": 541526,
-    "tNumRatings": 19,
+    "tNumRatings": 23,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.2"
+    "overall_rating": "3.8"
   },
   {
     "tDept": "Astronomy",
@@ -41733,6 +42462,20 @@ const json_data = [{
     "overall_rating": "5.0"
   },
   {
+    "tDept": "Education",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Theodoto",
+    "tMiddlename": "",
+    "tLname": "Ressa",
+    "tid": 2753587,
+    "tNumRatings": 1,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "5.0"
+  },
+  {
     "tDept": "History",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -41740,7 +42483,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Retish",
     "tid": 425609,
-    "tNumRatings": 86,
+    "tNumRatings": 87,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -41789,20 +42532,6 @@ const json_data = [{
     "overall_rating": "3.9"
   },
   {
-    "tDept": "Spanish",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Cesar",
-    "tMiddlename": "",
-    "tLname": "Reyes",
-    "tid": 156001,
-    "tNumRatings": 21,
-    "rating_class": "average",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "3.3"
-  },
-  {
     "tDept": "English",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -41815,6 +42544,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "2.5"
+  },
+  {
+    "tDept": "Spanish",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Cesar",
+    "tMiddlename": "",
+    "tLname": "Reyes",
+    "tid": 156001,
+    "tNumRatings": 22,
+    "rating_class": "average",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "3.4"
   },
   {
     "tDept": "Computer Science",
@@ -41999,6 +42742,20 @@ const json_data = [{
     "overall_rating": "4.7"
   },
   {
+    "tDept": "Psychology",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Patty",
+    "tMiddlename": "",
+    "tLname": "Richardson",
+    "tid": 1812957,
+    "tNumRatings": 8,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.2"
+  },
+  {
     "tDept": "Education",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -42011,20 +42768,6 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "5.0"
-  },
-  {
-    "tDept": "Interdisciplinary Studies",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Marsha",
-    "tMiddlename": "",
-    "tLname": "Richmond",
-    "tid": 981213,
-    "tNumRatings": 12,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.5"
   },
   {
     "tDept": "Communication",
@@ -42053,6 +42796,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "1.8"
+  },
+  {
+    "tDept": "Interdisciplinary Studies",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Marsha",
+    "tMiddlename": "",
+    "tLname": "Richmond",
+    "tid": 981213,
+    "tNumRatings": 17,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.4"
   },
   {
     "tDept": "Mathematics",
@@ -42125,6 +42882,20 @@ const json_data = [{
     "overall_rating": "2.5"
   },
   {
+    "tDept": "Mathematics",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Jessica",
+    "tMiddlename": "Lynn",
+    "tLname": "Ridgeway",
+    "tid": 2733032,
+    "tNumRatings": 0,
+    "rating_class": "zero",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "N/A"
+  },
+  {
     "tDept": "Sociology",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -42160,11 +42931,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Rightmer",
     "tid": 2452372,
-    "tNumRatings": 18,
+    "tNumRatings": 20,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.5"
+    "overall_rating": "4.4"
   },
   {
     "tDept": "Economics",
@@ -42272,11 +43043,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Risse",
     "tid": 1382813,
-    "tNumRatings": 34,
+    "tNumRatings": 35,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.4"
+    "overall_rating": "3.3"
   },
   {
     "tDept": "English",
@@ -42347,48 +43118,6 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "N/A"
-  },
-  {
-    "tDept": "Art",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Dennis",
-    "tMiddlename": "",
-    "tLname": "Robare",
-    "tid": 1435603,
-    "tNumRatings": 6,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.7"
-  },
-  {
-    "tDept": "Psychology",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Jason",
-    "tMiddlename": "",
-    "tLname": "Roberson",
-    "tid": 2398340,
-    "tNumRatings": 4,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.3"
-  },
-  {
-    "tDept": "Education",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Sally",
-    "tMiddlename": "",
-    "tLname": "Roberts",
-    "tid": 99729,
-    "tNumRatings": 12,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.7"
   },
   {
     "tDept": "Education",
@@ -42538,7 +43267,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Rochadiat",
     "tid": 2253409,
-    "tNumRatings": 2,
+    "tNumRatings": 3,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -42552,25 +43281,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Rochelle",
     "tid": 1995120,
-    "tNumRatings": 4,
+    "tNumRatings": 6,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.3"
-  },
-  {
-    "tDept": "Political Science",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Allen",
-    "tMiddlename": "",
-    "tLname": "Rochelle",
-    "tid": 1995120,
-    "tNumRatings": 4,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.3"
+    "overall_rating": "4.5"
   },
   {
     "tDept": "Advertising",
@@ -42818,11 +43533,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Ronnick",
     "tid": 156898,
-    "tNumRatings": 36,
+    "tNumRatings": 37,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.9"
+    "overall_rating": "3.8"
   },
   {
     "tDept": "Education",
@@ -42837,6 +43552,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "N/A"
+  },
+  {
+    "tDept": "Nursing",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Janna",
+    "tMiddlename": "",
+    "tLname": "Roop",
+    "tid": 514762,
+    "tNumRatings": 18,
+    "rating_class": "average",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "3.1"
   },
   {
     "tDept": "Computer Science",
@@ -43231,6 +43960,48 @@ const json_data = [{
     "overall_rating": "N/A"
   },
   {
+    "tDept": "Economics",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Satarupa",
+    "tMiddlename": "",
+    "tLname": "Roy Choudhury",
+    "tid": 2015172,
+    "tNumRatings": 12,
+    "rating_class": "average",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "2.9"
+  },
+  {
+    "tDept": "Business Administration",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Satarupa",
+    "tMiddlename": "",
+    "tLname": "Roy Choudhury",
+    "tid": 2278736,
+    "tNumRatings": 0,
+    "rating_class": "zero",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "N/A"
+  },
+  {
+    "tDept": "Music",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Mark",
+    "tMiddlename": "",
+    "tLname": "Royzenblat",
+    "tid": 2055780,
+    "tNumRatings": 0,
+    "rating_class": "zero",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "N/A"
+  },
+  {
     "tDept": "Social Work",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -43252,11 +44023,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Ruan",
     "tid": 2638852,
-    "tNumRatings": 0,
-    "rating_class": "zero",
+    "tNumRatings": 1,
+    "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "N/A"
+    "overall_rating": "3.0"
   },
   {
     "tDept": "Law",
@@ -43672,11 +44443,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Saadat",
     "tid": 1208057,
-    "tNumRatings": 9,
+    "tNumRatings": 10,
     "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "2.3"
+    "overall_rating": "2.5"
   },
   {
     "tDept": "Near Eastern Studies",
@@ -43714,11 +44485,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Sabbagh",
     "tid": 1976902,
-    "tNumRatings": 13,
+    "tNumRatings": 15,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.2"
+    "overall_rating": "4.3"
   },
   {
     "tDept": "Computer Science",
@@ -43747,48 +44518,6 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "3.0"
-  },
-  {
-    "tDept": "Political Science",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Jordan",
-    "tMiddlename": "",
-    "tLname": "Sabolish",
-    "tid": 2568049,
-    "tNumRatings": 2,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.0"
-  },
-  {
-    "tDept": "English",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Donnie",
-    "tMiddlename": "J",
-    "tLname": "Sackey",
-    "tid": 1845452,
-    "tNumRatings": 5,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.8"
-  },
-  {
-    "tDept": "Biology",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Marianna",
-    "tMiddlename": "",
-    "tLname": "Sadagurski",
-    "tid": 2278079,
-    "tNumRatings": 8,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.6"
   },
   {
     "tDept": "Economics",
@@ -43868,7 +44597,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Saker",
     "tid": 617707,
-    "tNumRatings": 75,
+    "tNumRatings": 76,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -44057,6 +44786,62 @@ const json_data = [{
     "overall_rating": "2.0"
   },
   {
+    "tDept": "German",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Katherine",
+    "tMiddlename": "",
+    "tLname": "Sanderson",
+    "tid": 2746448,
+    "tNumRatings": 2,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "5.0"
+  },
+  {
+    "tDept": "Mathematics",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Bruce",
+    "tMiddlename": "",
+    "tLname": "Salter",
+    "tid": 2098535,
+    "tNumRatings": 3,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "3.5"
+  },
+  {
+    "tDept": "Computer Science",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Rahman",
+    "tMiddlename": "",
+    "tLname": "Samsur",
+    "tid": 2392339,
+    "tNumRatings": 4,
+    "rating_class": "poor",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "2.0"
+  },
+  {
+    "tDept": "German",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Katherine",
+    "tMiddlename": "",
+    "tLname": "Sanderson",
+    "tid": 2746448,
+    "tNumRatings": 2,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "5.0"
+  },
+  {
     "tDept": "Fine Arts",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -44176,7 +44961,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Sarbrough-Thompson",
     "tid": 363027,
-    "tNumRatings": 25,
+    "tNumRatings": 30,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -44190,11 +44975,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Sarhan",
     "tid": 781525,
-    "tNumRatings": 5,
-    "rating_class": "good",
+    "tNumRatings": 14,
+    "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.1"
+    "overall_rating": "3.3"
   },
   {
     "tDept": "Computer Science",
@@ -44302,7 +45087,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Savitskie",
     "tid": 1668790,
-    "tNumRatings": 52,
+    "tNumRatings": 53,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -44428,7 +45213,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Schacter",
     "tid": 2575578,
-    "tNumRatings": 16,
+    "tNumRatings": 21,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -44561,6 +45346,20 @@ const json_data = [{
     "overall_rating": "5.0"
   },
   {
+    "tDept": "Computer Science",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "George",
+    "tMiddlename": "",
+    "tLname": "Schleis",
+    "tid": 2743647,
+    "tNumRatings": 2,
+    "rating_class": "poor",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "1.0"
+  },
+  {
     "tDept": "Economics",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -44582,11 +45381,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Schmalzried",
     "tid": 634597,
-    "tNumRatings": 36,
+    "tNumRatings": 38,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.2"
+    "overall_rating": "4.1"
   },
   {
     "tDept": "Dance",
@@ -44666,7 +45465,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Schmitt",
     "tid": 1457643,
-    "tNumRatings": 9,
+    "tNumRatings": 10,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -44694,7 +45493,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Schmitt-Sands",
     "tid": 2208843,
-    "tNumRatings": 44,
+    "tNumRatings": 46,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -44783,20 +45582,6 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "N/A"
-  },
-  {
-    "tDept": "Finance",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Michael",
-    "tMiddlename": "Edward",
-    "tLname": "Schostak",
-    "tid": 2087357,
-    "tNumRatings": 10,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "5.0"
   },
   {
     "tDept": "Finance",
@@ -44918,7 +45703,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Schropshire",
     "tid": 1757213,
-    "tNumRatings": 148,
+    "tNumRatings": 149,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -45079,6 +45864,20 @@ const json_data = [{
     "overall_rating": "4.3"
   },
   {
+    "tDept": "Business",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "lauren",
+    "tMiddlename": "",
+    "tLname": "scott",
+    "tid": 2630398,
+    "tNumRatings": 2,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "5.0"
+  },
+  {
     "tDept": "Communication",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -45189,6 +45988,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "3.5"
+  },
+  {
+    "tDept": "Political Science",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Jennifer",
+    "tMiddlename": "",
+    "tLname": "Seech Seramur",
+    "tid": 2757532,
+    "tNumRatings": 2,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "5.0"
   },
   {
     "tDept": "Dance",
@@ -45359,20 +46172,6 @@ const json_data = [{
     "overall_rating": "3.7"
   },
   {
-    "tDept": "Social Science",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Mary Cay",
-    "tMiddlename": "",
-    "tLname": "Sengstock",
-    "tid": 234220,
-    "tNumRatings": 5,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "3.7"
-  },
-  {
     "tDept": "Psychology",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -45513,20 +46312,6 @@ const json_data = [{
     "overall_rating": "2.2"
   },
   {
-    "tDept": "Nutrition & Food Science",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Aiman",
-    "tMiddlename": "",
-    "tLname": "Shahab",
-    "tid": 2657894,
-    "tNumRatings": 2,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "5.0"
-  },
-  {
     "tDept": "Biological Sciences",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -45539,6 +46324,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "4.8"
+  },
+  {
+    "tDept": "Nutrition & Food Science",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Aiman",
+    "tMiddlename": "",
+    "tLname": "Shahab",
+    "tid": 2657894,
+    "tNumRatings": 3,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "5.0"
   },
   {
     "tDept": "Art",
@@ -45567,6 +46366,34 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "4.3"
+  },
+  {
+    "tDept": "Biological Sciences",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Ali",
+    "tMiddlename": "",
+    "tLname": "Shakoor",
+    "tid": 2733465,
+    "tNumRatings": 1,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.0"
+  },
+  {
+    "tDept": "Freshman Seminar",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Fareed",
+    "tMiddlename": "Yousef",
+    "tLname": "Shalhout",
+    "tid": 2761979,
+    "tNumRatings": 1,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "5.0"
   },
   {
     "tDept": "Speech Pathology",
@@ -45625,6 +46452,20 @@ const json_data = [{
     "overall_rating": "4.4"
   },
   {
+    "tDept": "Business",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Alicia",
+    "tMiddlename": "",
+    "tLname": "Shankland",
+    "tid": 2756404,
+    "tNumRatings": 1,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "5.0"
+  },
+  {
     "tDept": "Nursing",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -45674,11 +46515,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Sharkey",
     "tid": 2589324,
-    "tNumRatings": 1,
-    "rating_class": "average",
+    "tNumRatings": 2,
+    "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.0"
+    "overall_rating": "4.0"
   },
   {
     "tDept": "Economics",
@@ -45716,11 +46557,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Sharma",
     "tid": 2308561,
-    "tNumRatings": 5,
-    "rating_class": "average",
+    "tNumRatings": 7,
+    "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.2"
+    "overall_rating": "3.6"
   },
   {
     "tDept": "English",
@@ -45751,20 +46592,6 @@ const json_data = [{
     "overall_rating": "2.4"
   },
   {
-    "tDept": "Liberal Arts  Sciences",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Kraig",
-    "tMiddlename": "",
-    "tLname": "Shattuck",
-    "tid": 2220964,
-    "tNumRatings": 2,
-    "rating_class": "average",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "3.0"
-  },
-  {
     "tDept": "Business",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -45786,11 +46613,25 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Shattuck",
     "tid": 2004918,
-    "tNumRatings": 31,
+    "tNumRatings": 34,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.8"
+    "overall_rating": "4.6"
+  },
+  {
+    "tDept": "Liberal Arts  Sciences",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Kraig",
+    "tMiddlename": "",
+    "tLname": "Shattuck",
+    "tid": 2220964,
+    "tNumRatings": 3,
+    "rating_class": "average",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "3.0"
   },
   {
     "tDept": "English",
@@ -45800,7 +46641,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Shaviro",
     "tid": 669362,
-    "tNumRatings": 27,
+    "tNumRatings": 28,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -45996,25 +46837,25 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Sherman",
     "tid": 1670757,
-    "tNumRatings": 8,
+    "tNumRatings": 10,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.2"
+    "overall_rating": "3.8"
   },
   {
-    "tDept": "Mathematics",
+    "tDept": "Freshman Seminar",
     "tSid": "1150",
     "institution_name": "Wayne State University",
-    "tFname": "Don",
+    "tFname": "LaToya",
     "tMiddlename": "",
-    "tLname": "Sherry",
-    "tid": 260827,
-    "tNumRatings": 82,
+    "tLname": "Sherman",
+    "tid": 2759152,
+    "tNumRatings": 2,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.9"
+    "overall_rating": "5.0"
   },
   {
     "tDept": "Mathematics",
@@ -46029,6 +46870,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "1.6"
+  },
+  {
+    "tDept": "Mathematics",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Don",
+    "tMiddlename": "",
+    "tLname": "Sherry",
+    "tid": 260827,
+    "tNumRatings": 83,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "3.9"
   },
   {
     "tDept": "Engineering",
@@ -46108,7 +46963,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Shields",
     "tid": 574793,
-    "tNumRatings": 64,
+    "tNumRatings": 65,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -46183,34 +47038,6 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "4.0"
-  },
-  {
-    "tDept": "Interdisciplinary Studies",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Francis",
-    "tMiddlename": "",
-    "tLname": "Shor",
-    "tid": 942928,
-    "tNumRatings": 6,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.4"
-  },
-  {
-    "tDept": "Accounting",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Roger",
-    "tMiddlename": "",
-    "tLname": "Short",
-    "tid": 1606064,
-    "tNumRatings": 18,
-    "rating_class": "poor",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "1.9"
   },
   {
     "tDept": "Computer Science",
@@ -46295,6 +47122,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "4.3"
+  },
+  {
+    "tDept": "Nursing",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Gregory",
+    "tMiddlename": "",
+    "tLname": "Sikora",
+    "tid": 2749005,
+    "tNumRatings": 3,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "5.0"
   },
   {
     "tDept": "Photojournalism",
@@ -46482,6 +47323,34 @@ const json_data = [{
     "tDept": "Engineering",
     "tSid": "1150",
     "institution_name": "Wayne State University",
+    "tFname": "Joshua",
+    "tMiddlename": "",
+    "tLname": "Sine",
+    "tid": 1390930,
+    "tNumRatings": 0,
+    "rating_class": "zero",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "N/A"
+  },
+  {
+    "tDept": "Engineering",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Harpreet",
+    "tMiddlename": "",
+    "tLname": "Singh",
+    "tid": 77243,
+    "tNumRatings": 24,
+    "rating_class": "average",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "3.2"
+  },
+  {
+    "tDept": "Engineering",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
     "tFname": "Trilochan",
     "tMiddlename": "",
     "tLname": "Singh",
@@ -46654,11 +47523,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Skinner",
     "tid": 2462985,
-    "tNumRatings": 13,
+    "tNumRatings": 17,
     "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "2.3"
+    "overall_rating": "1.9"
   },
   {
     "tDept": "English",
@@ -46729,48 +47598,6 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "3.9"
-  },
-  {
-    "tDept": "Theater",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Katherine",
-    "tMiddlename": "",
-    "tLname": "Skoretz",
-    "tid": 1770685,
-    "tNumRatings": 8,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.4"
-  },
-  {
-    "tDept": "Anthropology",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Carly",
-    "tMiddlename": "",
-    "tLname": "Slank",
-    "tid": 2655529,
-    "tNumRatings": 2,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "5.0"
-  },
-  {
-    "tDept": "Philosophy",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Justin",
-    "tMiddlename": "",
-    "tLname": "Sledge",
-    "tid": 2025942,
-    "tNumRatings": 25,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "5.0"
   },
   {
     "tDept": "Geology",
@@ -47053,6 +47880,48 @@ const json_data = [{
     "overall_rating": "1.0"
   },
   {
+    "tDept": "Finance",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Norkeith",
+    "tMiddlename": "",
+    "tLname": "Smith",
+    "tid": 1575619,
+    "tNumRatings": 11,
+    "rating_class": "average",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "3.4"
+  },
+  {
+    "tDept": "Urban Studies",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Robin",
+    "tMiddlename": "",
+    "tLname": "Smith",
+    "tid": 1625722,
+    "tNumRatings": 3,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "3.8"
+  },
+  {
+    "tDept": "Communication",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Renata",
+    "tMiddlename": "",
+    "tLname": "Smith",
+    "tid": 1746603,
+    "tNumRatings": 1,
+    "rating_class": "poor",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "1.0"
+  },
+  {
     "tDept": "Social Work",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -47095,20 +47964,6 @@ const json_data = [{
     "overall_rating": "5.0"
   },
   {
-    "tDept": "English",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Craig",
-    "tMiddlename": "",
-    "tLname": "Smith",
-    "tid": 410839,
-    "tNumRatings": 45,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "3.7"
-  },
-  {
     "tDept": "Classics",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -47121,6 +47976,34 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "4.9"
+  },
+  {
+    "tDept": "Interdisciplinary Studies",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Jackie",
+    "tMiddlename": "",
+    "tLname": "Smith",
+    "tid": 2734845,
+    "tNumRatings": 0,
+    "rating_class": "zero",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "N/A"
+  },
+  {
+    "tDept": "English",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Craig",
+    "tMiddlename": "",
+    "tLname": "Smith",
+    "tid": 410839,
+    "tNumRatings": 46,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "3.7"
   },
   {
     "tDept": "Social Work",
@@ -47158,11 +48041,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Smoller",
     "tid": 9121,
-    "tNumRatings": 24,
+    "tNumRatings": 25,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.0"
+    "overall_rating": "3.8"
   },
   {
     "tDept": "Freshman Seminar",
@@ -47260,7 +48143,7 @@ const json_data = [{
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.6"
+    "overall_rating": "3.7"
   },
   {
     "tDept": "Business",
@@ -47270,53 +48153,25 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Somers",
     "tid": 95753,
-    "tNumRatings": 46,
+    "tNumRatings": 48,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.4"
+    "overall_rating": "4.3"
   },
   {
-    "tDept": "Education",
+    "tDept": "Economics",
     "tSid": "1150",
     "institution_name": "Wayne State University",
-    "tFname": "Cecile",
+    "tFname": "Arjun",
     "tMiddlename": "",
-    "tLname": "Somme",
-    "tid": 1255115,
-    "tNumRatings": 0,
-    "rating_class": "zero",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "N/A"
-  },
-  {
-    "tDept": "Psychology",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Amanda",
-    "tMiddlename": "",
-    "tLname": "Sommerfeld",
-    "tid": 1768952,
-    "tNumRatings": 4,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.0"
-  },
-  {
-    "tDept": "Mathematics",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Byungjae",
-    "tMiddlename": "",
-    "tLname": "Son",
-    "tid": 2283617,
-    "tNumRatings": 7,
+    "tLname": "Sondhi",
+    "tid": 1040811,
+    "tNumRatings": 41,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "2.5"
+    "overall_rating": "3.3"
   },
   {
     "tDept": "Classics",
@@ -47382,7 +48237,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Sota",
     "tid": 2472633,
-    "tNumRatings": 1,
+    "tNumRatings": 6,
     "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -47396,7 +48251,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Soucie",
     "tid": 1182913,
-    "tNumRatings": 41,
+    "tNumRatings": 43,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -47550,7 +48405,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Spaulding",
     "tid": 610405,
-    "tNumRatings": 37,
+    "tNumRatings": 38,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -47585,18 +48440,46 @@ const json_data = [{
     "overall_rating": "2.5"
   },
   {
-    "tDept": "Psychology",
+    "tDept": "Business",
     "tSid": "1150",
     "institution_name": "Wayne State University",
-    "tFname": "Mark",
+    "tFname": "William",
     "tMiddlename": "",
-    "tLname": "Speece",
-    "tid": 1276999,
-    "tNumRatings": 0,
-    "rating_class": "zero",
+    "tLname": "Spaulding",
+    "tid": 610405,
+    "tNumRatings": 38,
+    "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "N/A"
+    "overall_rating": "2.8"
+  },
+  {
+    "tDept": "Biological Sciences",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Cecila",
+    "tMiddlename": "",
+    "tLname": "Spayer",
+    "tid": 1011914,
+    "tNumRatings": 3,
+    "rating_class": "average",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "3.2"
+  },
+  {
+    "tDept": "Humanities",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Linda",
+    "tMiddlename": "",
+    "tLname": "Speck",
+    "tid": 86994,
+    "tNumRatings": 39,
+    "rating_class": "average",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "2.5"
   },
   {
     "tDept": "Psychology",
@@ -47711,6 +48594,20 @@ const json_data = [{
     "overall_rating": "3.7"
   },
   {
+    "tDept": "Communication",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Courtney",
+    "tMiddlename": "",
+    "tLname": "Spivak",
+    "tid": 2754493,
+    "tNumRatings": 0,
+    "rating_class": "zero",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "N/A"
+  },
+  {
     "tDept": "Political Science",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -47732,7 +48629,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Spranger",
     "tid": 407095,
-    "tNumRatings": 331,
+    "tNumRatings": 332,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -47795,20 +48692,6 @@ const json_data = [{
     "overall_rating": "5.0"
   },
   {
-    "tDept": "Engineering",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Mukasa",
-    "tMiddlename": "",
-    "tLname": "Ssemakula",
-    "tid": 612589,
-    "tNumRatings": 29,
-    "rating_class": "average",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "2.9"
-  },
-  {
     "tDept": "Art History",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -47823,46 +48706,18 @@ const json_data = [{
     "overall_rating": "4.8"
   },
   {
-    "tDept": "Psychology",
+    "tDept": "Engineering",
     "tSid": "1150",
     "institution_name": "Wayne State University",
-    "tFname": "Fredrica",
+    "tFname": "Mukasa",
     "tMiddlename": "",
-    "tLname": "St. Hilaire",
-    "tid": 2548132,
-    "tNumRatings": 2,
-    "rating_class": "good",
+    "tLname": "Ssemakula",
+    "tid": 612589,
+    "tNumRatings": 30,
+    "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "5.0"
-  },
-  {
-    "tDept": "English",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Bradley",
-    "tMiddlename": "",
-    "tLname": "Stabler",
-    "tid": 1683681,
-    "tNumRatings": 6,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.3"
-  },
-  {
-    "tDept": "Criminal Justice",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Steven",
-    "tMiddlename": "",
-    "tLname": "Stack",
-    "tid": 405748,
-    "tNumRatings": 31,
-    "rating_class": "poor",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "2.4"
+    "overall_rating": "2.8"
   },
   {
     "tDept": "Psychology",
@@ -48026,11 +48881,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Starzynski",
     "tid": 1719555,
-    "tNumRatings": 34,
+    "tNumRatings": 35,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.2"
+    "overall_rating": "3.3"
   },
   {
     "tDept": "Law",
@@ -48124,11 +48979,53 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Steiner",
     "tid": 1672467,
-    "tNumRatings": 13,
+    "tNumRatings": 16,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "2.9"
+    "overall_rating": "2.5"
+  },
+  {
+    "tDept": "Sociology",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Jacqueline",
+    "tMiddlename": "",
+    "tLname": "Steingold",
+    "tid": 639051,
+    "tNumRatings": 8,
+    "rating_class": "average",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "3.1"
+  },
+  {
+    "tDept": "Psychology",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Davia",
+    "tMiddlename": "",
+    "tLname": "Steinburg",
+    "tid": 1930349,
+    "tNumRatings": 3,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.3"
+  },
+  {
+    "tDept": "Biological Sciences",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Chris",
+    "tMiddlename": "",
+    "tLname": "Steiner",
+    "tid": 1672467,
+    "tNumRatings": 16,
+    "rating_class": "average",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "2.5"
   },
   {
     "tDept": "Sociology",
@@ -48222,11 +49119,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Stern",
     "tid": 626217,
-    "tNumRatings": 20,
+    "tNumRatings": 21,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.0"
+    "overall_rating": "3.1"
   },
   {
     "tDept": "Psychology",
@@ -48250,7 +49147,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Stevenson",
     "tid": 736781,
-    "tNumRatings": 181,
+    "tNumRatings": 182,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -48306,11 +49203,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Stewart",
     "tid": 1435785,
-    "tNumRatings": 13,
+    "tNumRatings": 14,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.0"
+    "overall_rating": "3.9"
   },
   {
     "tDept": "Philosophy",
@@ -48334,7 +49231,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Stillo",
     "tid": 2207739,
-    "tNumRatings": 23,
+    "tNumRatings": 25,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -48383,48 +49280,6 @@ const json_data = [{
     "overall_rating": "2.8"
   },
   {
-    "tDept": "Chemistry",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Jennifer",
-    "tMiddlename": "",
-    "tLname": "Stockdill",
-    "tid": 1871316,
-    "tNumRatings": 71,
-    "rating_class": "average",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "3.4"
-  },
-  {
-    "tDept": "Accounting",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Mark",
-    "tMiddlename": "",
-    "tLname": "Stockness",
-    "tid": 2249288,
-    "tNumRatings": 2,
-    "rating_class": "average",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "3.0"
-  },
-  {
-    "tDept": "Psychology",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Sarah",
-    "tMiddlename": "",
-    "tLname": "Stoddart",
-    "tid": 1639526,
-    "tNumRatings": 3,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.2"
-  },
-  {
     "tDept": "Sociology",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -48437,6 +49292,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "4.4"
+  },
+  {
+    "tDept": "Education",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Robert",
+    "tMiddlename": "",
+    "tLname": "Stoler",
+    "tid": 428808,
+    "tNumRatings": 20,
+    "rating_class": "average",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "2.8"
   },
   {
     "tDept": "Marketing",
@@ -48558,7 +49427,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Strauss",
     "tid": 1562567,
-    "tNumRatings": 30,
+    "tNumRatings": 31,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -48691,6 +49560,48 @@ const json_data = [{
     "overall_rating": "4.6"
   },
   {
+    "tDept": "Chemistry",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Arthur",
+    "tMiddlename": "",
+    "tLname": "Suits",
+    "tid": 916762,
+    "tNumRatings": 9,
+    "rating_class": "average",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "3.0"
+  },
+  {
+    "tDept": "English",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Abir",
+    "tMiddlename": "",
+    "tLname": "Suleiman",
+    "tid": 2533914,
+    "tNumRatings": 1,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "5.0"
+  },
+  {
+    "tDept": "Education",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Jerome",
+    "tMiddlename": "",
+    "tLname": "Sullivan",
+    "tid": 608763,
+    "tNumRatings": 4,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.6"
+  },
+  {
     "tDept": "Business",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -48745,6 +49656,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "5.0"
+  },
+  {
+    "tDept": "Chemistry",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Faria",
+    "tMiddlename": "",
+    "tLname": "Sultana",
+    "tid": 2760726,
+    "tNumRatings": 1,
+    "rating_class": "poor",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "1.0"
   },
   {
     "tDept": "Social Work",
@@ -48803,20 +49728,6 @@ const json_data = [{
     "overall_rating": "3.3"
   },
   {
-    "tDept": "Management",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Jing",
-    "tMiddlename": "",
-    "tLname": "Sun",
-    "tid": 2323190,
-    "tNumRatings": 1,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.0"
-  },
-  {
     "tDept": "Business Administration",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -48829,6 +49740,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "3.4"
+  },
+  {
+    "tDept": "Management",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Jing",
+    "tMiddlename": "",
+    "tLname": "Sun",
+    "tid": 2323190,
+    "tNumRatings": 2,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.5"
   },
   {
     "tDept": "Engineering",
@@ -48859,6 +49784,20 @@ const json_data = [{
     "overall_rating": "3.0"
   },
   {
+    "tDept": "Public Health",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Sarah",
+    "tMiddlename": "",
+    "tLname": "Surber",
+    "tid": 2741240,
+    "tNumRatings": 31,
+    "rating_class": "poor",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "1.6"
+  },
+  {
     "tDept": "English",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -48866,7 +49805,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Susak",
     "tid": 1856334,
-    "tNumRatings": 34,
+    "tNumRatings": 41,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -48936,11 +49875,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Swantek",
     "tid": 2590224,
-    "tNumRatings": 3,
+    "tNumRatings": 4,
     "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "1.3"
+    "overall_rating": "1.5"
   },
   {
     "tDept": "Business Administration",
@@ -48950,11 +49889,25 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Sweda",
     "tid": 2653539,
-    "tNumRatings": 3,
+    "tNumRatings": 5,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "5.0"
+    "overall_rating": "4.8"
+  },
+  {
+    "tDept": "Business",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Melissa",
+    "tMiddlename": "",
+    "tLname": "Sweder",
+    "tid": 2731100,
+    "tNumRatings": 0,
+    "rating_class": "zero",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "N/A"
   },
   {
     "tDept": "Political Science",
@@ -49006,11 +49959,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Swider",
     "tid": 2128119,
-    "tNumRatings": 14,
+    "tNumRatings": 15,
     "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "1.9"
+    "overall_rating": "2.0"
   },
   {
     "tDept": "Accounting",
@@ -49020,7 +49973,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Swiencicki",
     "tid": 2324173,
-    "tNumRatings": 21,
+    "tNumRatings": 22,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -49083,6 +50036,20 @@ const json_data = [{
     "overall_rating": "4.6"
   },
   {
+    "tDept": "Social Work",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Kathryn",
+    "tMiddlename": "Anne",
+    "tLname": "Szechy",
+    "tid": 2740301,
+    "tNumRatings": 0,
+    "rating_class": "zero",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "N/A"
+  },
+  {
     "tDept": "Nutrition & Food Science",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -49095,6 +50062,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "3.7"
+  },
+  {
+    "tDept": "Business",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Scott",
+    "tMiddlename": "",
+    "tLname": "Tainsk",
+    "tid": 2757985,
+    "tNumRatings": 0,
+    "rating_class": "zero",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "N/A"
   },
   {
     "tDept": "Engineering",
@@ -49139,48 +50120,6 @@ const json_data = [{
     "overall_rating": "2.7"
   },
   {
-    "tDept": "Physics",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Punya",
-    "tMiddlename": "",
-    "tLname": "Talagala",
-    "tid": 167885,
-    "tNumRatings": 53,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.1"
-  },
-  {
-    "tDept": "Mathematics",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Rohana",
-    "tMiddlename": "",
-    "tLname": "Talagala",
-    "tid": 644671,
-    "tNumRatings": 21,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.4"
-  },
-  {
-    "tDept": "Physics",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Prasada",
-    "tMiddlename": "Rao",
-    "tLname": "Talakonda",
-    "tid": 2506420,
-    "tNumRatings": 0,
-    "rating_class": "zero",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "N/A"
-  },
-  {
     "tDept": "Engineering",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -49216,7 +50155,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Tallman",
     "tid": 2612096,
-    "tNumRatings": 5,
+    "tNumRatings": 8,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -49440,7 +50379,49 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Taschka",
     "tid": 764017,
-    "tNumRatings": 41,
+    "tNumRatings": 43,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "3.9"
+  },
+  {
+    "tDept": "Finance",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Brandon",
+    "tMiddlename": "",
+    "tLname": "Tasco",
+    "tid": 2249095,
+    "tNumRatings": 2,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "5.0"
+  },
+  {
+    "tDept": "Political Science",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Wassim",
+    "tMiddlename": "",
+    "tLname": "Tarraf",
+    "tid": 724254,
+    "tNumRatings": 12,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.2"
+  },
+  {
+    "tDept": "History",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Sylvia",
+    "tMiddlename": "",
+    "tLname": "Taschka",
+    "tid": 764017,
+    "tNumRatings": 43,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -49545,20 +50526,6 @@ const json_data = [{
     "overall_rating": "4.2"
   },
   {
-    "tDept": "Political Science",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Kristin",
-    "tMiddlename": "",
-    "tLname": "Taylor",
-    "tid": 2586753,
-    "tNumRatings": 4,
-    "rating_class": "poor",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "2.2"
-  },
-  {
     "tDept": "Business",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -49571,6 +50538,34 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "4.3"
+  },
+  {
+    "tDept": "Education",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Devon",
+    "tMiddlename": "",
+    "tLname": "Taylor",
+    "tid": 2731236,
+    "tNumRatings": 0,
+    "rating_class": "zero",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "N/A"
+  },
+  {
+    "tDept": "Political Science",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Kristin",
+    "tMiddlename": "",
+    "tLname": "Taylor",
+    "tid": 2586753,
+    "tNumRatings": 7,
+    "rating_class": "average",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "3.0"
   },
   {
     "tDept": "Education",
@@ -49685,48 +50680,6 @@ const json_data = [{
     "overall_rating": "4.2"
   },
   {
-    "tDept": "Mathematics",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Hieu",
-    "tMiddlename": "",
-    "tLname": "Thai",
-    "tid": 2333725,
-    "tNumRatings": 1,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.0"
-  },
-  {
-    "tDept": "Physics",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Jagdish",
-    "tMiddlename": "",
-    "tLname": "Thakur",
-    "tid": 1033038,
-    "tNumRatings": 15,
-    "rating_class": "average",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "2.6"
-  },
-  {
-    "tDept": "English",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Shashi",
-    "tMiddlename": "",
-    "tLname": "Thandra",
-    "tid": 886399,
-    "tNumRatings": 17,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.2"
-  },
-  {
     "tDept": "Physics",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -49776,7 +50729,7 @@ const json_data = [{
     "tMiddlename": "C",
     "tLname": "Thibideau",
     "tid": 2178467,
-    "tNumRatings": 16,
+    "tNumRatings": 17,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -49839,20 +50792,6 @@ const json_data = [{
     "overall_rating": "1.8"
   },
   {
-    "tDept": "Education",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Erica",
-    "tMiddlename": "",
-    "tLname": "Thomas",
-    "tid": 2255776,
-    "tNumRatings": 4,
-    "rating_class": "poor",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "1.8"
-  },
-  {
     "tDept": "Honors",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -49895,20 +50834,6 @@ const json_data = [{
     "overall_rating": "2.6"
   },
   {
-    "tDept": "Biological Sciences",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Robert",
-    "tMiddlename": "",
-    "tLname": "Thomas",
-    "tid": 1682472,
-    "tNumRatings": 186,
-    "rating_class": "average",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "2.6"
-  },
-  {
     "tDept": "English",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -49916,11 +50841,25 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Thomas",
     "tid": 2583733,
-    "tNumRatings": 2,
+    "tNumRatings": 3,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.5"
+    "overall_rating": "4.7"
+  },
+  {
+    "tDept": "Biological Sciences",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Robert",
+    "tMiddlename": "",
+    "tLname": "Thomas",
+    "tid": 1682472,
+    "tNumRatings": 198,
+    "rating_class": "average",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "2.6"
   },
   {
     "tDept": "Engineering",
@@ -50021,6 +50960,48 @@ const json_data = [{
     "overall_rating": "4.0"
   },
   {
+    "tDept": "Education",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Dana",
+    "tMiddlename": "",
+    "tLname": "Thompson",
+    "tid": 2138702,
+    "tNumRatings": 2,
+    "rating_class": "poor",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "1.0"
+  },
+  {
+    "tDept": "Nursing",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Patricia",
+    "tMiddlename": "",
+    "tLname": "Thornburg",
+    "tid": 941308,
+    "tNumRatings": 10,
+    "rating_class": "poor",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "2.0"
+  },
+  {
+    "tDept": "English",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Richard",
+    "tMiddlename": "C",
+    "tLname": "Thorsby",
+    "tid": 1755644,
+    "tNumRatings": 7,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.0"
+  },
+  {
     "tDept": "Psychology",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -50033,6 +51014,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "4.5"
+  },
+  {
+    "tDept": "Art",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Ardea",
+    "tMiddlename": "",
+    "tLname": "Thurston-Shaine",
+    "tid": 2759415,
+    "tNumRatings": 0,
+    "rating_class": "zero",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "N/A"
   },
   {
     "tDept": "Mathematics",
@@ -50154,11 +51149,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Titus",
     "tid": 988567,
-    "tNumRatings": 25,
+    "tNumRatings": 29,
     "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "2.3"
+    "overall_rating": "2.2"
   },
   {
     "tDept": "Psychology",
@@ -50238,7 +51233,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Tomco",
     "tid": 2367189,
-    "tNumRatings": 52,
+    "tNumRatings": 66,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -50294,7 +51289,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Tong",
     "tid": 1757853,
-    "tNumRatings": 30,
+    "tNumRatings": 31,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -50364,7 +51359,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Toro",
     "tid": 502484,
-    "tNumRatings": 42,
+    "tNumRatings": 48,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -50378,11 +51373,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Torok",
     "tid": 1848764,
-    "tNumRatings": 20,
+    "tNumRatings": 21,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.8"
+    "overall_rating": "4.0"
   },
   {
     "tDept": "Finance",
@@ -50392,11 +51387,25 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Toscano",
     "tid": 2279438,
-    "tNumRatings": 37,
+    "tNumRatings": 38,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "4.3"
+  },
+  {
+    "tDept": "Economics",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Mohammad",
+    "tMiddlename": "Usama",
+    "tLname": "Toseef",
+    "tid": 1987467,
+    "tNumRatings": 8,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.0"
   },
   {
     "tDept": "International Studies",
@@ -50462,7 +51471,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Townsend",
     "tid": 597227,
-    "tNumRatings": 31,
+    "tNumRatings": 32,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -50588,7 +51597,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Trewn",
     "tid": 2149935,
-    "tNumRatings": 24,
+    "tNumRatings": 27,
     "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -50616,11 +51625,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Trimble",
     "tid": 737121,
-    "tNumRatings": 37,
+    "tNumRatings": 40,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.7"
+    "overall_rating": "3.5"
   },
   {
     "tDept": "Chemistry",
@@ -50658,11 +51667,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Trujillo-Pagan",
     "tid": 1112226,
-    "tNumRatings": 17,
+    "tNumRatings": 18,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "2.8"
+    "overall_rating": "2.9"
   },
   {
     "tDept": "Mathematics",
@@ -50686,11 +51695,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Truskinovsky",
     "tid": 2442064,
-    "tNumRatings": 6,
+    "tNumRatings": 7,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "2.8"
+    "overall_rating": "2.5"
   },
   {
     "tDept": "Theater",
@@ -50812,7 +51821,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Tucker",
     "tid": 2628578,
-    "tNumRatings": 1,
+    "tNumRatings": 2,
     "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -50840,7 +51849,7 @@ const json_data = [{
     "tMiddlename": "Lee",
     "tLname": "Tuinstra",
     "tid": 2541994,
-    "tNumRatings": 9,
+    "tNumRatings": 11,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -50854,11 +51863,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Turchyn",
     "tid": 2483319,
-    "tNumRatings": 21,
+    "tNumRatings": 30,
     "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "2.1"
+    "overall_rating": "2.0"
   },
   {
     "tDept": "Biology",
@@ -50868,7 +51877,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Turchyn",
     "tid": 1391265,
-    "tNumRatings": 361,
+    "tNumRatings": 388,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -50966,7 +51975,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Tysh",
     "tid": 313736,
-    "tNumRatings": 84,
+    "tNumRatings": 85,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -50980,11 +51989,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Tyszka",
     "tid": 1104062,
-    "tNumRatings": 24,
+    "tNumRatings": 26,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.8"
+    "overall_rating": "3.7"
   },
   {
     "tDept": "Political Science",
@@ -51148,11 +52157,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Vadhavkar",
     "tid": 765642,
-    "tNumRatings": 11,
-    "rating_class": "good",
+    "tNumRatings": 12,
+    "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.5"
+    "overall_rating": "3.4"
   },
   {
     "tDept": "Fashion",
@@ -51239,20 +52248,6 @@ const json_data = [{
     "overall_rating": "3.8"
   },
   {
-    "tDept": "Geology",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Ed",
-    "tMiddlename": "",
-    "tLname": "Van Hees",
-    "tid": 267731,
-    "tNumRatings": 35,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "3.8"
-  },
-  {
     "tDept": "Biology",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -51288,7 +52283,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Vanberkum",
     "tid": 494020,
-    "tNumRatings": 176,
+    "tNumRatings": 181,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -51386,11 +52381,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "VanKirk",
     "tid": 2407418,
-    "tNumRatings": 6,
-    "rating_class": "good",
+    "tNumRatings": 7,
+    "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.7"
+    "overall_rating": "3.3"
   },
   {
     "tDept": "Anthropology",
@@ -51428,7 +52423,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Varty",
     "tid": 1645988,
-    "tNumRatings": 45,
+    "tNumRatings": 51,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -51582,11 +52577,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Veit",
     "tid": 2564096,
-    "tNumRatings": 3,
-    "rating_class": "good",
+    "tNumRatings": 6,
+    "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.3"
+    "overall_rating": "3.2"
   },
   {
     "tDept": "Biology",
@@ -51848,7 +52843,7 @@ const json_data = [{
     "tMiddlename": "Frederick",
     "tLname": "Vincentini",
     "tid": 2080304,
-    "tNumRatings": 4,
+    "tNumRatings": 5,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -51862,7 +52857,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Vineberg",
     "tid": 108250,
-    "tNumRatings": 29,
+    "tNumRatings": 30,
     "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -51904,7 +52899,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Visger",
     "tid": 941941,
-    "tNumRatings": 11,
+    "tNumRatings": 13,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -51939,6 +52934,20 @@ const json_data = [{
     "overall_rating": "4.0"
   },
   {
+    "tDept": "Mathematics",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Phat",
+    "tMiddlename": "",
+    "tLname": "Vo",
+    "tid": 2762509,
+    "tNumRatings": 2,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "5.0"
+  },
+  {
     "tDept": "Art",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -51960,7 +52969,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Volz",
     "tid": 95751,
-    "tNumRatings": 98,
+    "tNumRatings": 99,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -52058,7 +53067,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Vultee",
     "tid": 1325157,
-    "tNumRatings": 31,
+    "tNumRatings": 32,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -52296,11 +53305,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Walker",
     "tid": 2722568,
-    "tNumRatings": 0,
-    "rating_class": "zero",
+    "tNumRatings": 2,
+    "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "N/A"
+    "overall_rating": "5.0"
   },
   {
     "tDept": "Languages",
@@ -52338,11 +53347,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Waller",
     "tid": 882825,
-    "tNumRatings": 45,
+    "tNumRatings": 46,
     "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "2.5"
+    "overall_rating": "2.2"
   },
   {
     "tDept": "Psychology",
@@ -52427,6 +53436,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "3.3"
+  },
+  {
+    "tDept": "English",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Grace",
+    "tMiddlename": "Elizabeth",
+    "tLname": "Walter",
+    "tid": 2739434,
+    "tNumRatings": 0,
+    "rating_class": "zero",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "N/A"
   },
   {
     "tDept": "Classics",
@@ -52637,6 +53660,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "3.8"
+  },
+  {
+    "tDept": "Health  Physical Education",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Regina",
+    "tMiddlename": "L",
+    "tLname": "Ward",
+    "tid": 2057009,
+    "tNumRatings": 7,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.3"
   },
   {
     "tDept": "Economics",
@@ -52912,21 +53949,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Weaver",
     "tid": 525910,
-    "tNumRatings": 36,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "3.8"
-  },
-  {
-    "tDept": "English",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Jennifer",
-    "tMiddlename": "",
-    "tLname": "Weaver",
-    "tid": 525910,
-    "tNumRatings": 36,
+    "tNumRatings": 41,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -52996,11 +54019,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Weimer",
     "tid": 785636,
-    "tNumRatings": 112,
+    "tNumRatings": 118,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.0"
+    "overall_rating": "2.8"
   },
   {
     "tDept": "History",
@@ -53297,48 +54320,6 @@ const json_data = [{
     "overall_rating": "3.5"
   },
   {
-    "tDept": "History",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Maria",
-    "tMiddlename": "",
-    "tLname": "Wendeln",
-    "tid": 2128844,
-    "tNumRatings": 31,
-    "rating_class": "average",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "2.7"
-  },
-  {
-    "tDept": "Mathematics",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "James",
-    "tMiddlename": "",
-    "tLname": "Wenson",
-    "tid": 1482268,
-    "tNumRatings": 5,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "5.0"
-  },
-  {
-    "tDept": "Statistics",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Jim",
-    "tMiddlename": "",
-    "tLname": "Wenson",
-    "tid": 1523149,
-    "tNumRatings": 0,
-    "rating_class": "zero",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "N/A"
-  },
-  {
     "tDept": "Philosophy",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -53346,7 +54327,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Wenzel",
     "tid": 400322,
-    "tNumRatings": 36,
+    "tNumRatings": 39,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -53430,11 +54411,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Wheatley",
     "tid": 2440130,
-    "tNumRatings": 1,
-    "rating_class": "good",
+    "tNumRatings": 2,
+    "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.0"
+    "overall_rating": "3.0"
   },
   {
     "tDept": "Drawing",
@@ -53493,20 +54474,6 @@ const json_data = [{
     "overall_rating": "4.2"
   },
   {
-    "tDept": "Engineering",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Tommy",
-    "tMiddlename": "",
-    "tLname": "White",
-    "tid": 1897413,
-    "tNumRatings": 4,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.0"
-  },
-  {
     "tDept": "Social Work",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -53552,15 +54519,29 @@ const json_data = [{
     "tDept": "Engineering",
     "tSid": "1150",
     "institution_name": "Wayne State University",
+    "tFname": "Tommy",
+    "tMiddlename": "",
+    "tLname": "White",
+    "tid": 1897413,
+    "tNumRatings": 5,
+    "rating_class": "average",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "3.4"
+  },
+  {
+    "tDept": "Engineering",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
     "tFname": "Tonya",
     "tMiddlename": "Jo",
     "tLname": "Whitehead",
     "tid": 2032906,
-    "tNumRatings": 23,
-    "rating_class": "good",
+    "tNumRatings": 36,
+    "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.7"
+    "overall_rating": "2.8"
   },
   {
     "tDept": "Social Work",
@@ -53598,11 +54579,53 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Whitfield",
     "tid": 2581449,
-    "tNumRatings": 8,
+    "tNumRatings": 9,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "2.6"
+    "overall_rating": "2.8"
+  },
+  {
+    "tDept": "Education",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "David",
+    "tMiddlename": "",
+    "tLname": "Whitin",
+    "tid": 637363,
+    "tNumRatings": 7,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "5.0"
+  },
+  {
+    "tDept": "Communication",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Trejha",
+    "tMiddlename": "",
+    "tLname": "Whitfeild",
+    "tid": 2532386,
+    "tNumRatings": 3,
+    "rating_class": "average",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "3.0"
+  },
+  {
+    "tDept": "Communication",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Trejha",
+    "tMiddlename": "",
+    "tLname": "Whitfield",
+    "tid": 2581449,
+    "tNumRatings": 9,
+    "rating_class": "average",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "2.8"
   },
   {
     "tDept": "Education",
@@ -53696,7 +54719,7 @@ const json_data = [{
     "tMiddlename": "Dilhara",
     "tLname": "Wickramasinghe",
     "tid": 2589855,
-    "tNumRatings": 28,
+    "tNumRatings": 29,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -53759,6 +54782,20 @@ const json_data = [{
     "overall_rating": "N/A"
   },
   {
+    "tDept": "English",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Ben",
+    "tMiddlename": "",
+    "tLname": "Wielechowski",
+    "tid": 2590037,
+    "tNumRatings": 6,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "5.0"
+  },
+  {
     "tDept": "Spanish",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -53808,7 +54845,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Wilburn",
     "tid": 1838400,
-    "tNumRatings": 19,
+    "tNumRatings": 25,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -53983,20 +55020,6 @@ const json_data = [{
     "overall_rating": "2.7"
   },
   {
-    "tDept": "African Studies",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Kidada",
-    "tMiddlename": "",
-    "tLname": "Williams",
-    "tid": 1097589,
-    "tNumRatings": 18,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.5"
-  },
-  {
     "tDept": "Psychology",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -54039,20 +55062,6 @@ const json_data = [{
     "overall_rating": "1.0"
   },
   {
-    "tDept": "Mathematics",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Antwuan",
-    "tMiddlename": "Lamarr",
-    "tLname": "Williams",
-    "tid": 2116640,
-    "tNumRatings": 3,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "5.0"
-  },
-  {
     "tDept": "Business Administration",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -54079,6 +55088,34 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "N/A"
+  },
+  {
+    "tDept": "Mathematics",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Antwuan",
+    "tMiddlename": "Lamarr",
+    "tLname": "Williams",
+    "tid": 2116640,
+    "tNumRatings": 4,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.0"
+  },
+  {
+    "tDept": "African Studies",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Kidada",
+    "tMiddlename": "",
+    "tLname": "Williams",
+    "tid": 1097589,
+    "tNumRatings": 20,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.5"
   },
   {
     "tDept": "Education",
@@ -54298,11 +55335,25 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Wineman",
     "tid": 1915656,
-    "tNumRatings": 19,
+    "tNumRatings": 20,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "4.6"
+  },
+  {
+    "tDept": "Communication",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Meagan",
+    "tMiddlename": "",
+    "tLname": "Winkelseth",
+    "tid": 2760728,
+    "tNumRatings": 1,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "5.0"
   },
   {
     "tDept": "Business",
@@ -54312,11 +55363,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Winkler",
     "tid": 2184021,
-    "tNumRatings": 13,
+    "tNumRatings": 15,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.0"
+    "overall_rating": "4.2"
   },
   {
     "tDept": "Speech",
@@ -54389,48 +55440,6 @@ const json_data = [{
     "overall_rating": "2.2"
   },
   {
-    "tDept": "English",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Lisa \"ze\"",
-    "tMiddlename": "",
-    "tLname": "Winters",
-    "tid": 938217,
-    "tNumRatings": 15,
-    "rating_class": "average",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "3.2"
-  },
-  {
-    "tDept": "Art Education",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Tara",
-    "tMiddlename": "",
-    "tLname": "Winters",
-    "tid": 2666152,
-    "tNumRatings": 0,
-    "rating_class": "zero",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "N/A"
-  },
-  {
-    "tDept": "Business",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Joseph",
-    "tMiddlename": "",
-    "tLname": "Wirthlin",
-    "tid": 2222976,
-    "tNumRatings": 2,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.0"
-  },
-  {
     "tDept": "Music",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -54457,6 +55466,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "N/A"
+  },
+  {
+    "tDept": "Performing Arts",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Erin",
+    "tMiddlename": "",
+    "tLname": "Wiseman",
+    "tid": 2733321,
+    "tNumRatings": 1,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "5.0"
   },
   {
     "tDept": "Science",
@@ -54583,20 +55606,6 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "4.3"
-  },
-  {
-    "tDept": "Anthropology",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Matthew",
-    "tMiddlename": "",
-    "tLname": "Wolf-Meyer",
-    "tid": 1105630,
-    "tNumRatings": 5,
-    "rating_class": "poor",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "1.7"
   },
   {
     "tDept": "Anthropology",
@@ -54963,6 +55972,20 @@ const json_data = [{
     "overall_rating": "1.0"
   },
   {
+    "tDept": "Engineering",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Sean",
+    "tMiddlename": "",
+    "tLname": "Wu",
+    "tid": 634544,
+    "tNumRatings": 21,
+    "rating_class": "average",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "2.8"
+  },
+  {
     "tDept": "Chemistry",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -54970,7 +55993,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Wu",
     "tid": 2487405,
-    "tNumRatings": 74,
+    "tNumRatings": 79,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -54980,15 +56003,43 @@ const json_data = [{
     "tDept": "Engineering",
     "tSid": "1150",
     "institution_name": "Wayne State University",
+    "tFname": "Hwai-Chung",
+    "tMiddlename": "",
+    "tLname": "Wu",
+    "tid": 2212409,
+    "tNumRatings": 1,
+    "rating_class": "poor",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "1.0"
+  },
+  {
+    "tDept": "Engineering",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
     "tFname": "Sean",
     "tMiddlename": "",
     "tLname": "Wu",
     "tid": 634544,
-    "tNumRatings": 19,
+    "tNumRatings": 21,
     "rating_class": "average",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.0"
+    "overall_rating": "2.8"
+  },
+  {
+    "tDept": "Chemistry",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Nancy",
+    "tMiddlename": "",
+    "tLname": "Wu",
+    "tid": 2487405,
+    "tNumRatings": 79,
+    "rating_class": "average",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "2.7"
   },
   {
     "tDept": "Psychology",
@@ -55187,6 +56238,20 @@ const json_data = [{
     "overall_rating": "2.6"
   },
   {
+    "tDept": "Nutrition  Food Science",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Suxuan",
+    "tMiddlename": "",
+    "tLname": "Xu",
+    "tid": 1955785,
+    "tNumRatings": 18,
+    "rating_class": "average",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "3.5"
+  },
+  {
     "tDept": "Political Science",
     "tSid": "1150",
     "institution_name": "Wayne State University",
@@ -55222,11 +56287,11 @@ const json_data = [{
     "tMiddlename": "EL",
     "tLname": "Yaman",
     "tid": 1867610,
-    "tNumRatings": 18,
+    "tNumRatings": 19,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.5"
+    "overall_rating": "4.4"
   },
   {
     "tDept": "Health & Physical Education",
@@ -55362,7 +56427,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Yaprak",
     "tid": 156563,
-    "tNumRatings": 31,
+    "tNumRatings": 33,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -55390,11 +56455,25 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Yarema",
     "tid": 1430459,
-    "tNumRatings": 8,
+    "tNumRatings": 9,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.5"
+    "overall_rating": "4.2"
+  },
+  {
+    "tDept": "Biological Sciences",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Hadi",
+    "tMiddlename": "",
+    "tLname": "Yassine",
+    "tid": 2736850,
+    "tNumRatings": 2,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "3.5"
   },
   {
     "tDept": "Psychology",
@@ -55423,20 +56502,6 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "4.8"
-  },
-  {
-    "tDept": "English",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Stephen",
-    "tMiddlename": "",
-    "tLname": "Yeager",
-    "tid": 1695070,
-    "tNumRatings": 1,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.0"
   },
   {
     "tDept": "English",
@@ -55544,11 +56609,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Yepez",
     "tid": 2578363,
-    "tNumRatings": 3,
+    "tNumRatings": 6,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.7"
+    "overall_rating": "4.8"
   },
   {
     "tDept": "English",
@@ -55698,25 +56763,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Yoruk",
     "tid": 2573966,
-    "tNumRatings": 16,
+    "tNumRatings": 17,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "4.7"
-  },
-  {
-    "tDept": "Psychology",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Jason",
-    "tMiddlename": "",
-    "tLname": "Young",
-    "tid": 240989,
-    "tNumRatings": 12,
-    "rating_class": "good",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "4.8"
   },
   {
     "tDept": "Psychology",
@@ -55964,7 +57015,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Zalewski",
     "tid": 2583698,
-    "tNumRatings": 3,
+    "tNumRatings": 8,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -55997,6 +57048,34 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "5.0"
+  },
+  {
+    "tDept": "Not Specified",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Angela",
+    "tMiddlename": "K",
+    "tLname": "Zanardelli",
+    "tid": 1789465,
+    "tNumRatings": 3,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "5.0"
+  },
+  {
+    "tDept": "Geology",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "John",
+    "tMiddlename": "",
+    "tLname": "Zawiskie",
+    "tid": 549455,
+    "tNumRatings": 17,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "3.7"
   },
   {
     "tDept": "English",
@@ -56282,20 +57361,6 @@ const json_data = [{
     "tDept": "Mathematics",
     "tSid": "1150",
     "institution_name": "Wayne State University",
-    "tFname": "Sheng",
-    "tMiddlename": "",
-    "tLname": "Zhang",
-    "tid": 251630,
-    "tNumRatings": 43,
-    "rating_class": "average",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "3.1"
-  },
-  {
-    "tDept": "Mathematics",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
     "tFname": "Qian",
     "tMiddlename": "",
     "tLname": "Zhang",
@@ -56314,11 +57379,25 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Zhang",
     "tid": 2712582,
-    "tNumRatings": 1,
+    "tNumRatings": 2,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "5.0"
+  },
+  {
+    "tDept": "Mathematics",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Sheng",
+    "tMiddlename": "",
+    "tLname": "Zhang",
+    "tid": 251630,
+    "tNumRatings": 45,
+    "rating_class": "average",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "3.1"
   },
   {
     "tDept": "Statistics",
@@ -56370,11 +57449,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Zhao",
     "tid": 2231456,
-    "tNumRatings": 7,
+    "tNumRatings": 8,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.6"
+    "overall_rating": "4.5"
   },
   {
     "tDept": "Psychology",
@@ -56389,6 +57468,20 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "3.5"
+  },
+  {
+    "tDept": "Geology",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Lu",
+    "tMiddlename": "",
+    "tLname": "Zhijiang",
+    "tid": 2737998,
+    "tNumRatings": 1,
+    "rating_class": "good",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "4.0"
   },
   {
     "tDept": "Computer Science",
@@ -56440,7 +57533,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Zhou",
     "tid": 2646716,
-    "tNumRatings": 6,
+    "tNumRatings": 11,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -56459,20 +57552,6 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "3.6"
-  },
-  {
-    "tDept": "Computer Science",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Dongxiao",
-    "tMiddlename": "",
-    "tLname": "Zhu",
-    "tid": 2038972,
-    "tNumRatings": 21,
-    "rating_class": "average",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "2.9"
   },
   {
     "tDept": "Health",
@@ -56496,11 +57575,25 @@ const json_data = [{
     "tMiddlename": "Elaine",
     "tLname": "Zhu",
     "tid": 2629988,
-    "tNumRatings": 2,
+    "tNumRatings": 4,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.0"
+    "overall_rating": "3.5"
+  },
+  {
+    "tDept": "Computer Science",
+    "tSid": "1150",
+    "institution_name": "Wayne State University",
+    "tFname": "Dongxiao",
+    "tMiddlename": "",
+    "tLname": "Zhu",
+    "tid": 2038972,
+    "tNumRatings": 22,
+    "rating_class": "average",
+    "contentType": "TEACHER",
+    "categoryType": "PROFESSOR",
+    "overall_rating": "3.0"
   },
   {
     "tDept": "Chemistry",
@@ -56510,7 +57603,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Zibuck",
     "tid": 38624,
-    "tNumRatings": 397,
+    "tNumRatings": 402,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -56524,11 +57617,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Zilioli",
     "tid": 2362753,
-    "tNumRatings": 2,
-    "rating_class": "average",
+    "tNumRatings": 6,
+    "rating_class": "poor",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "3.0"
+    "overall_rating": "1.7"
   },
   {
     "tDept": "Education",
@@ -56543,20 +57636,6 @@ const json_data = [{
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
     "overall_rating": "4.3"
-  },
-  {
-    "tDept": "Fine Arts",
-    "tSid": "1150",
-    "institution_name": "Wayne State University",
-    "tFname": "Marilyn",
-    "tMiddlename": "",
-    "tLname": "Zimmerman",
-    "tid": 578821,
-    "tNumRatings": 29,
-    "rating_class": "average",
-    "contentType": "TEACHER",
-    "categoryType": "PROFESSOR",
-    "overall_rating": "3.3"
   },
   {
     "tDept": "Fine Arts",
@@ -56608,7 +57687,7 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Zimnicki",
     "tid": 839445,
-    "tNumRatings": 20,
+    "tNumRatings": 22,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
@@ -56636,11 +57715,11 @@ const json_data = [{
     "tMiddlename": "",
     "tLname": "Zinser",
     "tid": 2446913,
-    "tNumRatings": 2,
+    "tNumRatings": 3,
     "rating_class": "good",
     "contentType": "TEACHER",
     "categoryType": "PROFESSOR",
-    "overall_rating": "4.5"
+    "overall_rating": "4.7"
   },
   {
     "tDept": "Psychology",
@@ -56810,4 +57889,4 @@ const json_data = [{
     "categoryType": "PROFESSOR",
     "overall_rating": "4.0"
   }
-  ]
+]
