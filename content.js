@@ -4,9 +4,9 @@ async function fetchProfData(firstName, lastName) {
     let data = await res.json();
     return data.professors[0];
 }
-function updateElement(element, data, sendResponse) {
+function updateElement(element, data, sendResponse, firstName, lastName) {
     if (data === undefined) {
-        element.innerHTML = element.innerHTML.replace(element.innerHTML, last_name.charAt(0).toUpperCase() + last_name.slice(1) + ", " + first_name.charAt(0).toUpperCase() + first_name.slice(1) + " (0 ratings)")
+        element.innerHTML = element.innerHTML.replace(element.innerHTML, lastName.charAt(0).toUpperCase() + lastName.slice(1) + ", " + firstName.charAt(0).toUpperCase() + firstName.slice(1) + " (0 ratings)")
         return;
     }
     let emoji = ""
@@ -32,7 +32,7 @@ function updateElement(element, data, sendResponse) {
 }
 async function updateProfData(element, firstName, lastName, sendResponse) {
     let data = await fetchProfData(firstName, lastName);
-    updateElement(element, data, sendResponse);
+    updateElement(element, data, sendResponse, firstName, lastName);
 }
 chrome.runtime.onMessage.addListener(
     function (request, sender, sendResponse) {
