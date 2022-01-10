@@ -4,6 +4,7 @@ async function fetchProfData(firstName, lastName) {
     let data = await res.json();
     return data.professors[0];
 }
+
 function updateElement(element, data, sendResponse, firstName, lastName) {
     if (data === undefined) {
         element.innerHTML = element.innerHTML.replace(element.innerHTML, lastName.charAt(0).toUpperCase() + lastName.slice(1) + ", " + firstName.charAt(0).toUpperCase() + firstName.slice(1) + " (0 ratings)")
@@ -16,8 +17,7 @@ function updateElement(element, data, sendResponse, firstName, lastName) {
     let prof_rating = data["overall_rating"]
     if (prof_rating > 4.0) {
         emoji = "✅"
-    }
-    else if (prof_rating < 3.0) {
+    } else if (prof_rating < 3.0) {
         emoji = "❌"
     }
     if (prof_rating == "N/A") {
@@ -30,12 +30,14 @@ function updateElement(element, data, sendResponse, firstName, lastName) {
         method: "changePage",
     })
 }
+
 async function updateProfData(element, firstName, lastName, sendResponse) {
     let data = await fetchProfData(firstName, lastName);
     updateElement(element, data, sendResponse, firstName, lastName);
 }
+
 chrome.runtime.onMessage.addListener(
-    function (request, sender, sendResponse) {
+    function(request, sender, sendResponse) {
         if (request.method == "changePage") {
             const text = document.querySelectorAll('a.email')
             for (let j = 0; j < text.length; j++) {
