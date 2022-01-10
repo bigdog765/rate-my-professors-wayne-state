@@ -13,8 +13,7 @@
     ],
     "content_scripts": [{
         "js": [
-            "content.js",
-            "professors.js"
+            "content.js"
         ],
         "matches": [
             "https://registration.wayne.edu/StudentRegistrationSsb/ssb/classRegistration/classRegistration"
