@@ -5,7 +5,7 @@
    </h1>
 
 <p align="center">
-<br><img width="1500" alt="Demo" src="https://user-images.githubusercontent.com/66044327/141030735-5749b61f-f1f9-43a6-a75d-cc80591e8dee.png">
+<br><img width="1400" alt="Demo" src="https://user-images.githubusercontent.com/66044327/141030735-5749b61f-f1f9-43a6-a75d-cc80591e8dee.png">
  <p>
    
 ## Installation Instructions
