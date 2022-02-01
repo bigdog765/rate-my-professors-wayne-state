@@ -39,7 +39,12 @@ async function updateProfData(element, firstName, lastName, sendResponse) {
 chrome.runtime.onMessage.addListener(
     function(request, sender, sendResponse) {
         if (request.method == "changePage") {
+
+            var pageNum = document.getElementsByClassName("page-number enabled")[0]
             const text = document.querySelectorAll('a.email')
+
+            console.log(pageNum.value)
+            
             for (let j = 0; j < text.length; j++) {
                 var text_element = text[j].innerHTML.toLowerCase()
                 if (text_element.split(' ').length > 3) {
