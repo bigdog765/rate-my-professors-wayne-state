@@ -37,26 +37,44 @@ async function updateProfData(element, firstName, lastName, sendResponse) {
 }
 
 chrome.runtime.onMessage.addListener(
+    
     function(request, sender, sendResponse) {
-        if (request.method == "changePage") {
-
+        while(1){
+                console.log("Start")
             var pageNum = document.getElementsByClassName("page-number enabled")[0]
-            const text = document.querySelectorAll('a.email')
 
-            console.log(pageNum.value)
-            
-            for (let j = 0; j < text.length; j++) {
-                var text_element = text[j].innerHTML.toLowerCase()
-                if (text_element.split(' ').length > 3) {
-                    return
+            if (request.method == "changePage") {
+
+                const text = document.querySelectorAll('a.email')
+
+                console.log(pageNum.value)
+
+                var prevPgNum = pageNum.value
+                
+
+                for (let j = 0; j < text.length; j++) {
+                    var text_element = text[j].innerHTML.toLowerCase()
+                    if (text_element.split(' ').length > 3) {
+                        return
+                    }
+                    let first_name = text_element.split(',')[1].split(" ")[1]
+                    let last_name = text_element.split(", ")[0]
+                    console.log("Updating " + first_name + " " + last_name)
+                    text[j].style.textDecoration = "none"
+                    updateProfData(text[j], first_name, last_name, sendResponse)
+
                 }
-                let first_name = text_element.split(',')[1].split(" ")[1]
-                let last_name = text_element.split(", ")[0]
-                console.log("Updating " + first_name + " " + last_name)
-                text[j].style.textDecoration = "none"
-                updateProfData(text[j], first_name, last_name, sendResponse)
-            }
-            return True
+                console.log("Current:" + pageNum.value)
+                console.log("Prev:" + prevPgNum)
+                if(pageNum.value == prevPgNum)
+                    console.log("hello2")
+                
+                else return true;
+
+                
         }
+        }
+        
+        
     }
 );
